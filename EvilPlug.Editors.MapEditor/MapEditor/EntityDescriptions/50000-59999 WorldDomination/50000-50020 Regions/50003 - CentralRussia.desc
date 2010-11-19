@@ -1,0 +1,10 @@
+ObjType=WorldRegion
+ObjName=CENTRALRUSSIA
+Filename=WorldMap_Region_CentralRussia.gr2
+TextDescription=CENTRAL_RUSSIA
+Lighting=MISSIONGAME
+----
+Region=2
+JusticePresence=24
+CashPotential=12000
+Secrecy=10

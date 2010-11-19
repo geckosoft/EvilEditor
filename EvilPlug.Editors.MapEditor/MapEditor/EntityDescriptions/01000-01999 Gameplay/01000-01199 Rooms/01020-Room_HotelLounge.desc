@@ -1,0 +1,21 @@
+ObjType=Room
+ObjName=HOTELLOUNGE
+TextDescription=HOTELLOUNGE_ROOM_ENTITY
+-----
+Tileset=HotelLounge
+RoomType=HotelLounge
+UnitCost=250
+GUIIconBaseName=[Jungle]HotelLounge
+GUIIconBaseName=[Desert]HotelDesert_Lounge
+IsNonExplosiveConstruction
+RoomLightColourData=HotelLounge.rlc
+FootstepSound=scuffs & steps-walk_wood-leth_L
+FootstepSound=scuffs & steps-walk_wood-leth_R
+FootstepSound.L.F_M=scuffs & steps-walk_wood-heels_L
+FootstepSound.R.F_M=scuffs & steps-walk_wood-heels_R
+FootstepSound.L.F_M_A=scuffs & steps-walk_wood-heels_L
+FootstepSound.R.F_M_A=scuffs & steps-walk_wood-heels_R
+ReverbMin=room_HotelLounge_min
+ReverbMax=room_HotelLounge_max
+Mixer=Inside_HotelLounge
+-----

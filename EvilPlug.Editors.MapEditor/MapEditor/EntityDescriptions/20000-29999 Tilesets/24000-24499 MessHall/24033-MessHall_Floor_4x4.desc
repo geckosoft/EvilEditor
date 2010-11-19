@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=MESSHALL_FLOOR_4X4
+Filename=MessHall_Floor_4x4_A.COL
+TextDescription=MESSHALL_4X4_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

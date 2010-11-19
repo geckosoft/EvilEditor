@@ -1,0 +1,14 @@
+ObjType=Scenery
+ObjName=GLOBAL_CUSTOM_BALDMOUNTAINEDGE_2X10_A
+Filename=Global_Custom_MountainEdge_2X10_A.COL
+TextDescription=2X10_BALD_MOUNTAIN_EDGE_SECTION
+Lighting=Outdoor
+---
+GuiIconBaseName=Mountain_Edge_2x10_NoTrees
+NotPlayerBuildable
+---
+CanBeReflected=false
+BlocksVision
+---
+CanSupportObjects
+------

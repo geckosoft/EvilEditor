@@ -1,0 +1,26 @@
+ObjType=Weapon
+ObjName=PISTOL_SUPER_HEAD_SHOT
+Filename=Weapons_Handgun_Eli_A.GR2
+TextDescription=ELI_S_SPECIAL_HANDGUN_SUPER_HEAD_SHOT_MODE
+----
+EvidenceRating=10
+ValueRating=0
+ThreatRating=10
+PurchaseCost=200
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemFitsInPocket=true
+ItemMotionSet=M_M,M_M_Carrying_Pistol.as
+ItemMotionSet=M_M_A,M_M_A_Carrying_Pistol.as
+ItemMotionSet=M_L,M_L_Carrying_SuperHeadShot.as
+ItemCanBeDropped=false
+----
+WeaponType=Pistol
+Damage=30
+Range=30
+MinRange=0
+MuzzleFlash=SuperHeadShot
+OnlyVisibleInAttack

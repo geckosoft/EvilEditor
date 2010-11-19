@@ -1,0 +1,899 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{28538351-7B66-4E77-AF33-5D9FCBC503F6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EvilPlug.Editors.MapEditor</RootNamespace>
+    <AssemblyName>EvilPlug.Editors.MapEditor</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tao.FreeGlut, Version=2.4.0.2, Culture=neutral, PublicKeyToken=6e602a6ad6c0d06d, processorArchitecture=MSIL" />
+    <Reference Include="Tao.OpenGl, Version=2.1.0.12, Culture=neutral, PublicKeyToken=1ca010269a4501ef" />
+    <Reference Include="Tao.Platform.Windows, Version=1.0.0.5, Culture=neutral, PublicKeyToken=701104b2da67a104" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ctlObjSelection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctlObjSelection.Designer.cs">
+      <DependentUpon>ctlObjSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExtraTileInfo.cs" />
+    <Compile Include="E_MapEditor.cs" />
+    <Compile Include="frmMapEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMapEditor.Designer.cs">
+      <DependentUpon>frmMapEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTileDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTileDetail.Designer.cs">
+      <DependentUpon>frmTileDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LayMapTool.cs" />
+    <Compile Include="OpenGl\Dimension2D.cs" />
+    <Compile Include="OpenGl\OGLTexture.cs" />
+    <Compile Include="OpenGl\OGLTextureManager.cs" />
+    <Compile Include="OpenGl\OGLTools.cs" />
+    <Compile Include="OpenGl\Position2D.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EvilBase\EvilBase.csproj">
+      <Project>{3D95104D-DE4B-449B-818A-06894EED31CC}</Project>
+      <Name>EvilBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Extensions\Extensions.csproj">
+      <Project>{896EB348-4839-4FCB-BA47-D1A7B739D1DE}</Project>
+      <Name>Extensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Plugins.Filetypes.Lay\EvilPlug.Filetypes.Lay.csproj">
+      <Project>{6BE4E623-7CB2-4CD0-AFF5-9EB90200FCE3}</Project>
+      <Name>EvilPlug.Filetypes.Lay</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ctlObjSelection.resx">
+      <DependentUpon>ctlObjSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMapEditor.resx">
+      <DependentUpon>frmMapEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTileDetail.resx">
+      <DependentUpon>frmTileDetail.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Compona.CoreLib.dll" />
+    <Content Include="MapEditor\BuildableObjects.xml" />
+    <Content Include="MapEditor\GUI\Entity_Renders_00.ImageSetData.png" />
+    <Content Include="MapEditor\GUI\Entity_Renders_01.ImageSetData.png" />
+    <Content Include="MapEditor\GUI\Entity_Renders_02.ImageSetData.png" />
+    <Content Include="MapEditor\Objects\12036.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Objects\13029.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\20000.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\20006.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21002.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21005.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21500.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21501.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21502.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21503.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21504.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21505.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21506.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21507.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21508.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\21509.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\22029.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\23529.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MapEditor\Tiles\unknown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MapEditor\Patterns\IslandTypes\TropicalBeach.ini" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Cliff_1side_B.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Cliff_1side_C.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Cliff_CornerIn.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Cliff_CornerInB.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Cliff_CornerInC.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Cliff_CornerOut.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Cliff_CornerOutB.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Cliff_CornerOutC.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_1side_8m_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_1side_8m_C.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_1side_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_1side_C.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_1side_Divided_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_1side_Divided_C.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_1side_NoTrees_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_LeadIn_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_LeadIn_C.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_LeadOut_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Beach_Slope_LeadOut_C.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_Custom_BaldMountainEdge_2X10_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_Custom_CaveRocket_44X60_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_Custom_CaveRocket_44X60_Developed_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_Custom_MountainEdge_128X184_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_Custom_MountainEdge_20X10_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_Custom_MountainEdge_2X10_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_Custom_MountainEdge_CornerIn_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_Custom_MountainEdge_CornerOut_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_MountainEdge_CornerIn_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_MountainEdge_CornerIn_B.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_MountainEdge_Cornerout_A.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_MountainEdge_Cornerout_B.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_MountainEdge_Cornerout_C.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_MountainEdge_Cornerout_D.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_MountainEdge_Cornerout_E.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Global_MountainEdge_Cornerout_F.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Jungle Dock Depot.pat" />
+    <None Include="MapEditor\Patterns\LevelDesignPatterns\Jungle Drop Off Depot.pat" />
+    <None Include="MapEditor\Patterns\ObjectPatterns\Archives_BrainiacMachine.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Archives_BrainWasher.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Archives_TheLearningChannel.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Atrium.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Aztec_amulet.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Barracks_CryoCubicle.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Barracks_EquipmentStorage.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Barracks_MultiGym.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\BigTVScreen.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Biotanks.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Bookcase.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\BriefcaseShelf.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\BunkBed.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Capacitor.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Casino_Baccarat_Table.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Casino_Craps_Table.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Casino_Roulette_Table.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Casino_TimeClock.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Chalkboard.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ChargeCannonTrap.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ClassicalGirl.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\CloningChamber.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ConfusingPopUpTrap.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ControlPanel.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ControlRoomStudio.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ControlRoom_ArtWorldWatchdog.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ControlRoom_CommunicationsArray.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ControlRoom_ControlStation.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\CrashTestDummyMachine.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\DeathCubicle.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\DesertDoorCamo.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Desert_CamelSkeleton_A.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Desert_Fountain_A.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Desert_House_A.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Desert_House_B.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Desert_TermiteMound_A.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Desert_torch.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Diamond.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Dojo_mat.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\DoorDouble.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\DoorExternal.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\DoorHeavyDouble.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\DoorLaser.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\DrinksMachine.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\EGOfficeDesk.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\EG_Cabinet.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\EG_Conference_Table.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\EG_Painting_A.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\EG_Painting_B.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\EG_VaseA.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\EG_VaseB.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\EG_VaseC.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Electron_Microscop.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ExternalStrongroom.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ExternalStrongroomDoor.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\FireExtinguisherLocker.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\FirePitTrap_Inside.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\FirePitTrap_Outside.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\FlameThrowerRack.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\FreezerRack.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\GasCageTrap_AttentionDrain.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\GasCageTrap_Knockout.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\GasCageTrap_LoyaltyDrain.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\GasCageTrap_Poison.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\GasCageTrap_SmartsDrain.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Generator.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\GoldStack.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\HandgunCabinet.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Hangar_CatwalkConsole.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Hangar_Crane.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\HeavyRifleCabinet.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\HoldingCage.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\HotelDoorDouble.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\HotelHub.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\HotelWing.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Hotel_lounge_bar.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Hotel_lounge_dancefloor.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Hotel_lounge_table.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\InfirmaryChair.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Infirmary_AutoSurgeon.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Infirmary_PharmacyBooth.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\JetPack.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\JungleDoorCamo_GrassHut.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\JungleGrassHut.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Jungle_Bonfire_A.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Jungle_DisguisedSentryGun.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Jungle_MonkeyTree.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Jungle_SentryGun.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Jungle_TikiStatue_A.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Jungle_TikiStatue_B.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Jungle_Tikitorch.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Jungle_TransmitterAerials.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Laboratorycentrifuge.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\LaboratoryDataBank.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\LaboratoryWorktops.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\LaboratoryWorktopsC.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Laboratory_AISuperComputer.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Laboratory_EnvironmentChamber.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Laboratory_Greenhouse.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Laboratory_ImpactStressAnalyser.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Laboratory_TimeClock.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Laser.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\LaserBeamSensor.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Lobby_Bench.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Lobby_Counter.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Lobby_Lift.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Lobby_Piano.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Locker.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_Cannon.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_Chameleon_Cloth.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_CodeBreaker.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_CodexOfKnowledge.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_CrownJewels.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_HighTech_China.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_HighTech_Europe.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_HighTech_USA.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_Liquid_Mercury_Mirror.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_PersianRug.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_Pete_Bog.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_PunchBear.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_RomanGalley.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_Sonic_Wave_Generator.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_Throne.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_Totem01.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_Totem02.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_Totem03.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_Totem04.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_TotemComplete.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Loot_USAgent_Biosample.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ManTrap.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\MemoryBank.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\MessHallAutomat.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\MessHallCounter.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\MessHallCounter2.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Messhall_SaladBar.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\MicrofilmTable.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Military_TimeClock.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\MouseMaze.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Objective_Mole_Loot.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\OutdoorSecurityCamera.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\PalmTreeTrap.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Pinball.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\PitPunisherTrap_Inside.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\PitPunisherTrap_Outside.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Playboy_training.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\PowerPlant_DisguisedGenerator.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\PowerPlant_HighDensityCapacitor.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\PowerPlant_NuclearPowerStation.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\PressurePadSensor.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\PrometheusRevenge.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ProximityMine.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ReadingTable.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ResearchMachine.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ResearchMachine_Fake.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\RifleCabinet.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\rocketplans.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Satellite.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\SawBladesTrap.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Science_TimeClock.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\SecurityCamera.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\SecurityDesk.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\SecurityRadioTannoy.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\SecurityTannoySpeakers.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Security_DisguisedCell.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Security_DisguisedRifleCabinet.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Security_HeavyDutyTannoy.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Security_interrogation_chair.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Security_ZoomLensCamera.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ShootingRangeBayonetDummy.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ShootingRangeStall.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\ShootingRangeStallheavy.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\SocClassroomSchooldesk.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\SocClassroomStudio.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\SocClassroom_DiplomatTrainer.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Social_TimeClock.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\SpaceSuit.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\StaffRoom_ArcadeMachine.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Staffroom_interrogation_chair.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\StaffRoom_WideScreenTV.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Stockmarketwatchdog.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\StrongRoom_GoldEnhancer.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\TableTennis.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\TikiCamera.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\TimeClock.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Traps_IndoorFriends.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Traps_OutdoorFriends.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_BeeHive.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_BeeHive_Endurance.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_BeeHive_Health.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_BeeHive_Loyalty.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_BeeHive_Smarts.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_DammedDamsel.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_DoNotPress.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_Dreadmill.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_MisDirection.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_MoneyMadness_Inside.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_MoneyMadness_Outside.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_MonkeyInnaBox.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_MonkeyTrap.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_MotionTrackerSensor.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_OutdoorMotionTrackerSensor.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_PiranhaTank.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_Sucker.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\Trap_VenusManTrap.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\UberLootChina.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\UberLootEurope1.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\UberLootEurope2.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\UberLootNonAligned.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\UberLootRussia.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\UberLootUSA.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\WindMachineTrap.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\ObjectPatterns\XRay.pat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MapEditor\Patterns\TilesetPatterns\ApplyToAllTileSets.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Archives.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Armoury.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Barracks.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\BlendRockDirt.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\CaveWalls.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\ControlRoom.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Corridor.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Dirt.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\DoorDirtPlug.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\DoorDoubleWalls.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\DoorHeavyDoubleWalls.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\DoorLaserWalls.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\DoorWalls.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\ExternalStrongroomDoorWalls.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Freezer.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\HangarCatwalk.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\HangarEmptySpace.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\HangarSolidSpace.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\HotelCasino.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\HotelDoorDoubleWalls.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\HotelLobby.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\HotelLounge.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\HotelMined.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\HotelUnmined.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Infirmary.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\InnerSanctum.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Jungle.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\JungleMined.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Laboratory.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\MessHall.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Ocean.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\PowerPlant.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Rock.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\RocketCaveWalls.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\StaffRoom.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\StandardTileSet.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\StrongRoom.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\StrongroomMined.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\StrongroomUnmined.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\Tarpaulin.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\TrainingRoom.pat" />
+    <None Include="MapEditor\Patterns\TilesetPatterns\UnminedDirt.pat" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

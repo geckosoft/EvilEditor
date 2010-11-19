@@ -1,0 +1,14 @@
+ObjType=Item
+ObjName=CHARIOT
+Filename=FlyingChariot_A.COL
+TextDescription=A_CHARIOT
+----
+NumFilters=4
+OperationType=R,A
+IslandType=Jungle
+AgentType=Agent
+NinjasAllowed=false
+---
+ItemType=FlyingChariot
+ItemAttachedToBone=Bip01 Spine1
+ItemVisiblyCarried=true

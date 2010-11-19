@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=ARCHIVE_HAT
+Filename=Accessories_Hat_Archive_A.GR2
+TextDescription=AN_ARCHIVE_HAT
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

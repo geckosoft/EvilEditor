@@ -1,0 +1,14 @@
+ObjType=Projectile
+ObjName=HARPOON
+Filename=Weapons_HarpoonBolt_A.GR2
+TextDescription=A_HARPOON_BOLT
+----
+Damage=20
+RadiusDamage=1
+Range=40
+SpeedRange=30,30
+MinRange=10
+CreateAt=Bip01 R Hand
+
+
+

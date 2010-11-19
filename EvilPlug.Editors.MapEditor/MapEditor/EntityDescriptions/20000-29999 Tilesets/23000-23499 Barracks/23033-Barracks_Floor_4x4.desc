@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=BARRACKS_FLOOR_4X4
+Filename=Barracks_Floor_4x4_A.COL
+TextDescription=BARRACKS_4X4_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

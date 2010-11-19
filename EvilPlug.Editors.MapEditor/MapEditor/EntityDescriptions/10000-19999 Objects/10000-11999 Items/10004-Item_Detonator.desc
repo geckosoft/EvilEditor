@@ -1,0 +1,11 @@
+ObjType=Item
+ObjName=DETONATOR
+Filename=Tools_Detonator_A.GR2
+TextDescription=A_REMOTE_DETONATOR_DEVICE
+----
+NotSelectable
+----
+ItemData=1
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+----

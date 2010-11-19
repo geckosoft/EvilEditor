@@ -1,0 +1,11 @@
+ObjType=Object
+ObjName=CABINET
+Filename=EGoffice_Cabinet_A.GR2
+TextDescription=AN_EVIL_CABINET
+---
+PurchaseCost=1000
+---
+GUIIconBaseName=EGoffice_Cabinet_A
+---
+BlocksTiles=true
+---

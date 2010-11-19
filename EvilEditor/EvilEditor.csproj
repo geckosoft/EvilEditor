@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5FDDE5AC-3B00-4B2D-8AE6-4517FC7A7B77}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EvilEditor</RootNamespace>
+    <AssemblyName>EvilEditor</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EvilGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EvilGUI.Designer.cs">
+      <DependentUpon>EvilGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="EvilGUI.resx">
+      <DependentUpon>EvilGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Docs &amp; Formats\lay format.txt" />
+    <Content Include="GUI\Evil_Genius_by_Elixir_Studios,_2004.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EvilBase\EvilBase.csproj">
+      <Project>{3D95104D-DE4B-449B-818A-06894EED31CC}</Project>
+      <Name>EvilBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EvilControls\EvilControls.csproj">
+      <Project>{4762CE81-5869-4348-BF95-BA941BEA3F28}</Project>
+      <Name>EvilControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EvilPlug.Editors.MapEditor\EvilPlug.Editors.MapEditor.csproj">
+      <Project>{28538351-7B66-4E77-AF33-5D9FCBC503F6}</Project>
+      <Name>EvilPlug.Editors.MapEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EvilPlug.Editors.SaveGameEditor\EvilPlug.Editors.SaveGameEditor.csproj">
+      <Project>{4E0DA748-22A8-4CCE-9102-1F7C50B0B284}</Project>
+      <Name>EvilPlug.Editors.SaveGameEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EvilPlug.Filetypes.Pat\EvilPlug.Filetypes.Pat.csproj">
+      <Project>{9FE73CF5-AE68-4277-94DF-977CC3F07396}</Project>
+      <Name>EvilPlug.Filetypes.Pat</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EvilPlug.Tools.ErbReader\EvilPlug.Tools.ErbReader.csproj">
+      <Project>{92A9F166-50C1-4C69-A949-52B9CAA6ED6B}</Project>
+      <Name>EvilPlug.Tools.ErbReader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Plugins.Filetypes.Lay\EvilPlug.Filetypes.Lay.csproj">
+      <Project>{6BE4E623-7CB2-4CD0-AFF5-9EB90200FCE3}</Project>
+      <Name>EvilPlug.Filetypes.Lay</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

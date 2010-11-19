@@ -1,0 +1,11 @@
+ObjType=WorldRegion
+ObjName=POLYNESIA
+Filename=WorldMap_Region_Polynesia.gr2
+TextDescription=POLYNESIA
+Lighting=MISSIONGAME
+----
+Region=3
+JusticePresence=5
+CashPotential=2500
+Secrecy=3
+InsetGeometry=WorldMap_Inset_Polynesia.GR2

@@ -1,0 +1,7 @@
+ObjType=WorldHelicopter
+ObjName=WORLDHELICOPTER
+Filename=Mission_SpawnMinion_HelicopterCargo_A.GR2
+TextDescription=IT_S_A_TINY_HELICOPTER_AH_BLESS
+Lighting=MISSIONGAME
+----
+Speed=15

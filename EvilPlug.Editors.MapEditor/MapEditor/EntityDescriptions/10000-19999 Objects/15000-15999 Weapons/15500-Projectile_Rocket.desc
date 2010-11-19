@@ -1,0 +1,13 @@
+ObjType=Projectile
+ObjName=ROCKET
+Filename=Weapons_RocketLauncher_Rocket_A.GR2
+TextDescription=A_ROCKET
+----
+Damage=20
+RadiusDamage=5
+SpeedRange=20,20
+CreateAt=Pos_Dummy_RocketMuzzleFlash
+MinRange=8
+ExplosionEffect=:Missile
+
+

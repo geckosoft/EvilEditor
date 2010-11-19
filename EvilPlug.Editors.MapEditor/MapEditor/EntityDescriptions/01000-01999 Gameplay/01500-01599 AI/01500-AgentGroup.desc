@@ -1,0 +1,9 @@
+ObjType=AgentGroup
+ObjName=GROUP_OF_AGENTS
+TextDescription=A_GROUP_OF_AGENTS
+---
+AgentType=Agent
+StandardBehaviour=Explore
+EscapeBehaviour=Escape
+OverrideBehaviour=Loyalty Relax 0.5
+PlayerFriendly=false

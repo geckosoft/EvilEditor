@@ -1,0 +1,8 @@
+ObjType=Item
+ObjName=A_WOMANS_COMPACT
+Filename=StaffProp_WomensCompact_A.GR2
+TextDescription=A_WOMANS_COMPACT
+----
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+----

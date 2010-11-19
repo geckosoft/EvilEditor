@@ -1,0 +1,12 @@
+ObjType=Room
+ObjName=ROCKETCAVEWALLS
+TextDescription=ROCKET_CAVE_WALLS
+-----
+Tileset=RocketCaveWalls
+RoomType=RocketCaveWalls
+UnitCost=0
+GUIIconBaseName=Strongroom
+ReverbMin=room_RocketCaveWalls_min
+ReverbMax=room_RocketCaveWalls_max
+Mixer=room_RocketCaveWalls
+-----

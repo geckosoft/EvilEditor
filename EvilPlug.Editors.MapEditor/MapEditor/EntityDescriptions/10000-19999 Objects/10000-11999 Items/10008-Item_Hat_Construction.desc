@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=CONSTRUCTION_WORKER_S_HAT
+Filename=Accessories_Hat_Construction_A.GR2
+TextDescription=A_CONSTRUCTION_WORKER_S_HARD_HAT
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

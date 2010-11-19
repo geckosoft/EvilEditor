@@ -1,0 +1,17 @@
+ObjType=Spawn
+ObjName=SPAWN_POINT_HELIPAD
+Filename=Jungle_Helipad_A.COL
+TextDescription=THE_WAY_IN_FOR_AGENTS
+-----
+NotSelectable
+-----
+VehicleDescriptionID=17300
+VehicleDescriptionID=17305
+DisembarkPositionOffset=0,0,0
+MoveAfterDisembarkPositionOffset=-6,0,0
+MinApproachVectorAngle=0.0
+MaxApproachVectorAngle=0.0
+SoundFadeTime=1
+VehicleCapacity=-1
+PlayerUseOnly
+-----

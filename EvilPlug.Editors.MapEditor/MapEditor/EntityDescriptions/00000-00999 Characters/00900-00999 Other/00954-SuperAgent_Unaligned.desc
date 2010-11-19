@@ -1,0 +1,47 @@
+ObjType=SuperAgent
+ObjName=AMAZONIAN_WARRIOR
+Filename=SuperAgent_NonAligned_A.COL
+Filename=AnimSet_SuperAgent_Amazon.as
+TextDescription=AMAZONIAN_WARRIOR_QUEEN
+-----
+Speed=1.5
+Health=80
+Loyalty=70
+Endurance=70
+Smarts=80
+Attention=70
+FOVRange=40
+FOVAngle=0.8
+EvidenceRating=30
+ValueRating=30
+ThreatRating=30
+SpecialEffect=FadeEffect, TSFXEntityFadeEffect:,
+SpecialEffect=UglyGas, TSFXGas:UglyGas,Attach=14
+-----
+ItemType=Character
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_F_M.as
+ItemMotionSet=M_L,M_L_Carrying_F_M_A.as
+AnimationType=F_M_A
+-----
+IsFemale
+EvidenceMod=2
+ValueMod=1
+ThreatMod=0.5
+WeaponID=15038
+Armour.Health=79
+Armour.Loyalty=79
+Armour.Smarts=79
+Armour.Attention=79
+Armour.Endurance=79
+DesiredName=$CHAR_NAME_MARIANA_MAMBA$
+-----
+GutsLevel=0.5
+EscapeTime=60
+-----
+AbilityName=AA_SA_FEMININEWILES
+AbilityDuration=-1
+AbilityRecharge=240
+MusicSting=SuperAgent_Brazil

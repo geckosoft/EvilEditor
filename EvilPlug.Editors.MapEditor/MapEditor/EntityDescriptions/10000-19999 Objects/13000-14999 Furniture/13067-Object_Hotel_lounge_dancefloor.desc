@@ -1,0 +1,109 @@
+ObjType=Object
+ObjName=LOUNGE_DANCEFLOOR
+Filename=HotelLounge_DanceFloor_A.GR2
+TextDescription=A_DANCE_FLOOR_WHERE_TOURISTS_STRUT_THEIR_FUNKY_STUFF
+---
+Health=75
+EvidenceRating=2
+ValueRating=1
+ThreatRating=0
+PurchaseCost=5000
+---
+GUIIconBaseName=HotelLounge_DanceFloor
+IsWalkable
+IsReflective
+UseRoomTileSetForBaseTiles
+---
+CoolDownTime=600
+BlocksTiles=false
+MinimumFunTime=60
+MaximumFunTime=240
+---
+NumInteractionSlots=9
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_Male01
+ATNNetworkName=Dancefloor_Male_1
+Optional
+ExclusionMask=1
+NumFilters=2
+Sex=Male
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Male01
+ATNNetworkName=Dancefloor_Male_1
+Optional
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+TimeOfDay=13:00 - 21:00
+Scale=Loyalty < 50%
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_Female01
+ATNNetworkName=Dancefloor_Female_1
+Optional
+ExclusionMask=0
+NumFilters=2
+Sex=Female
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_Male02
+ATNNetworkName=Dancefloor_Male_2
+Optional
+ExclusionMask=2
+NumFilters=2
+Sex=Male
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Male02
+ATNNetworkName=Dancefloor_Male_2
+Optional
+ExclusionMask=2
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+TimeOfDay=13:00 - 21:00
+Scale=Loyalty < 50%
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_Female02
+ATNNetworkName=Dancefloor_Female_2
+Optional
+ExclusionMask=0
+NumFilters=2
+Sex=Female
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_Male03
+ATNNetworkName=Dancefloor_Male_3
+Optional
+ExclusionMask=4
+NumFilters=2
+Sex=Male
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Male03
+ATNNetworkName=Dancefloor_Male_3
+Optional
+ExclusionMask=4
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+TimeOfDay=13:00 - 21:00
+Scale=Loyalty < 50%
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_Female03
+ATNNetworkName=Dancefloor_Female_3
+Optional
+ExclusionMask=0
+NumFilters=2
+Sex=Female
+TimeOfDay= 13:00 - 21:00

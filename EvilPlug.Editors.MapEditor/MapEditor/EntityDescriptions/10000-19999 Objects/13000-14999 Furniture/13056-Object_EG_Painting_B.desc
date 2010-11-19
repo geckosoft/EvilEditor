@@ -1,0 +1,53 @@
+ObjType=Object
+ObjName=A_MARVELLOUS_MASTERPIECE
+Filename=WorksOfArt_Painting_B.GR2
+TextDescription=A_MARVELLOUS_MASTERPIECE
+---
+Destructible=false
+EvidenceRating=25
+ValueRating=35
+ThreatRating=0
+HeatGenerated=15
+
+AreaEffect
+Continuous=false
+Radius=6.0
+Frequency=0.5
+ScaleEffect=Loyalty +0.2
+ScaleEffect=Smarts +0.4
+NumFilters=1
+EntityType=Minion
+---
+GUIIconBaseName=WorksOfArt_Painting_B
+UseAutomaticRotationWhenPlacing
+----
+NotPlayerDestructable
+BlocksVision=false
+CanSteal=true
+IsTransferLoot
+IsPriorityTransferLoot
+---
+NumInteractionSlots=2
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_01
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Basic,Social,Science
+TimeOfDay= 08:00 - 17:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_02
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=2
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Basic,Social,Science
+TimeOfDay= 08:00 - 17:00
+---

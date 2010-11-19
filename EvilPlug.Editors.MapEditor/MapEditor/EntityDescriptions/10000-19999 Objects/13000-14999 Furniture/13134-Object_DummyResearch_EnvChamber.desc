@@ -1,0 +1,13 @@
+ObjType=Object
+ObjName=DUMMYENVCHAMBER
+TextDescription=A_DUMMY_OBJECT_USED_TO_INDICATE_THAT_THE_ENVIRONMENT_CHAMBER_HAS_BEEN_UNLOCKED
+---
+Health=100
+EvidenceRating=15
+ValueRating=5
+ThreatRating=0
+PurchaseCost=5000
+HeatGenerated=1
+---
+NotPlayerBuildable
+NotPlayerDestructable

@@ -1,0 +1,11 @@
+ObjType=Room
+ObjName=JUNGLEMINED
+TextDescription=JUNGLE_MINED_ROOM_ENTITY
+-----
+RoomType=Outdoors
+Tileset=JungleMined
+UnitCost=0
+ReverbMin=Outside
+ReverbMax=Outside
+Mixer=Outside_Base
+-----

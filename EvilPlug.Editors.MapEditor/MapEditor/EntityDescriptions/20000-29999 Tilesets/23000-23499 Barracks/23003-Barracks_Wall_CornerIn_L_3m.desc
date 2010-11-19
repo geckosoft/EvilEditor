@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=BARRACKS_WALL_CORNERIN_L_3M
+Filename=Barracks_Wall_CornerIn_L_3m_A.GR2
+TextDescription=BARRACKS_WALL_PIECE_CORNERIN_L_3M
+---
+IsWalkable
+IsReflective
+---

@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=ARCHIVES_FLOOR_4X4
+Filename=Archives_Floor_4x4_A.COL
+TextDescription=ARCHIVES_4X4_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

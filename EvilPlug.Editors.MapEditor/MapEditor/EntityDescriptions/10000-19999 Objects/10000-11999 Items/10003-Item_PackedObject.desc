@@ -1,0 +1,19 @@
+ObjType=Item
+ObjName=PACKED_OBJECT
+Filename=Containers_Crate_B.GR2
+TextDescription=AN_OBJECT_PACKED_UP_TO_BE_MOVED_TO_A_NEW_LOCATION
+----
+EvidenceRating=5
+ValueRating=5
+ThreatRating=0
+PurchaseCost=0
+----
+GUIIconBaseName=Containers_Crate_A
+---
+ItemType=PackedCrate
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_Crate.as
+ForcesWalkMode=false
+----

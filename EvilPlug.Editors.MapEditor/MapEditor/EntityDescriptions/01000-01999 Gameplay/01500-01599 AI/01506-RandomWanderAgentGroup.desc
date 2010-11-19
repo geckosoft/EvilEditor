@@ -1,0 +1,8 @@
+ObjType=AgentGroup
+ObjName=GROUP_OF_AGENTS
+TextDescription=A_GROUP_OF_CONSPIRATORS_WITH_A_PURPOSE
+---
+AgentType=Agent
+StandardBehaviour=PurposefulWander
+EscapeBehaviour=BasicEscape
+PlayerFriendly=false

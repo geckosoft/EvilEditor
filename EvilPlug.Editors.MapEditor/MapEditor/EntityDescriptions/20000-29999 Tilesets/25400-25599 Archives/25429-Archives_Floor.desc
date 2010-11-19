@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=ARCHIVES_FLOOR
+Filename=Archives_Floor_A.gr2
+TextDescription=ARCHIVES_FLOOR_PIECE_EMPTY
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

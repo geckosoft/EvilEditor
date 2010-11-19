@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=CORRIDOR_WALL_CORNEROUT_L_3M
+Filename=Corridor_Wall_CornerOut_L_3m_A.GR2
+TextDescription=CORRIDOR_WALL_PIECE_CORNEROUT_L_3M
+---
+IsWalkable
+IsReflective
+---

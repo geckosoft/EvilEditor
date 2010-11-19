@@ -1,0 +1,73 @@
+ObjType=Henchman
+ObjName=KAISER_SOZE
+Filename=Medium_Henchman_KeyserSoze_A.GR2
+Filename=AnimSet_HenchmanKaiser.as
+TextDescription=KAISER_SOZE
+-----
+GUIIconBaseName=Henchman_TopHat
+-----
+Speed=1.0
+Health=70
+Loyalty=50
+Smarts=80
+Attention=80
+Endurance=60
+FOVAngle=1.57
+FOVRange=30
+EvidenceRating=50
+ValueRating=0
+ThreatRating=50
+HeatGenerated=5
+-----
+ItemType=Character
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+AnimationType=M_M
+-----
+Immortal=true
+EvidenceMod=0.5
+ValueMod=0.5
+ThreatMod=2.0
+Armour.Health=75
+Armour.Loyalty=75
+Armour.Smarts=75
+Armour.Attention=75
+Armour.Endurance=75
+WeaponID=15044
+DesiredName=$CHAR_NAME_LORD_KANE$
+FeedbackSound=Attack FeedbackDialogue-Attack-LordKane
+FeedbackSound=Capture FeedbackDialogue-Capture-LordKane
+FeedbackSound=MoveTo FeedbackDialogue-MoveTo-LordKane
+FeedbackSound=UseSpecial FeedbackDialogue-UseSpecial-LordKane
+-----
+AdvancementSchemeType=Henchman
+CashPotentialPercentage=10
+PlottingBenefit=5
+RegionalHeatPenalty=5
+RegionalHeatBenefit=0
+ChanceOfPerishing=10
+PerishModifier=1
+-----
+Portrait=GUI_Henchman_TopHat_
+SpecialAbility=Psychic Terror
+EPCost=350.0
+RechargeTime=120
+SpecialAbility=Smooth Operator
+EPCost=600.0
+RechargeTime=200
+PotentialFollower=100
+PotentialFollower=104
+PotentialFollower=108
+PotentialFollower=111
+PotentialFollower=101
+PotentialFollower=102
+PotentialFollower=107
+PotentialFollower=109
+PotentialFollower=110
+PotentialFollower=103
+PotentialFollower=106
+PotentialFollower=105
+PotentialFollower=112
+PercentSADamageToKill=80
+SecondsIncapacitated=120

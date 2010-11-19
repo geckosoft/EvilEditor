@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=PROXIMITY_MINE
+Filename=Weapons_Landmine_A.GR2
+TextDescription=BADDA_BOOM_BADDA_BOOM
+---
+ItemVisiblyCarried=true
+----

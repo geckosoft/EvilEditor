@@ -1,0 +1,26 @@
+ObjType=Door
+ObjName=EXTERNAL_STRONGROOM_DOOR_3M
+Filename=[Desert]Desert_Strongroom_A_Door.GR2
+Filename=[Desert]AnimSet_Door_ExternalStrongroom_Desert.AS
+Filename=[Jungle]Jungle_Strongroom_A_Door.GR2
+Filename=[Jungle]AnimSet_Door_ExternalStrongroom_Jungle.AS
+TextDescription=EXTERNAL_STRONGROOM_DOOR_3M
+Lighting=Outdoor
+---
+Health=400
+PurchaseCost=3000
+CanBeReflected=false
+GUIIconBaseName=[Desert]Desert_Strongroom_Door
+GUIIconBaseName=[Jungle]Jungle_Strongroom_Door
+---
+IsWalkable
+IsReflective
+RequireOriginalTileSet=StrongroomUnmined
+---
+PowerConsumer=1
+---
+OpenSound=doors-sliding doors-sliding door
+CloseSound=doors-sliding doors-sliding door
+FadeTime=0.25
+Resistance=40
+---

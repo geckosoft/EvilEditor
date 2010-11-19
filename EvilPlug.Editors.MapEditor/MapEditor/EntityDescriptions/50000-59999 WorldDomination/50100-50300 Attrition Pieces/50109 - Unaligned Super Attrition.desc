@@ -1,0 +1,15 @@
+ObjType=WorldAttrition
+ObjName=AMAZONIAN_WARRIOR_QUEEN
+Filename=SuperAgent_NonAligned_A.COL
+TextDescription=AMAZONIAN_WARRIOR_QUEEN
+Lighting=MISSIONGAME
+----
+MinDuration=60
+MaxDuration=180
+AttritionInterval=100
+AttritionRiskModifier=-50
+ThreatDescription=ATTRITION_THREAT_HEAVY
+BaseGeometry=Mission_FigureBase_Agent_A.GR2
+JusticeModifier=5
+AOITimeModifier=5
+AOIRiskModifier=25

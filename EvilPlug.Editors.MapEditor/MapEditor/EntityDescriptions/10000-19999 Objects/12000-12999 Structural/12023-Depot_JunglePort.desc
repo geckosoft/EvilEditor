@@ -1,0 +1,19 @@
+ObjType=Depot
+ObjName=JUNGLE_DOCK_DEPOT
+Filename=Jungle_Depot_Dock_A.COL
+Filename=Spawn_Dock.as
+TextDescription=THE_JUNGLE_DOCK_DEPOT
+---
+NotPlayerBuildable
+GuiIconBaseName=Port_Depot
+CanCastShadow=false
+CanCastVolumetricShadow=true
+---
+BlocksVision=true
+FootstepSound=scuffs & steps-walk_wood-comb_L
+FootstepSound=scuffs & steps-walk_wood-comb_R
+---
+BlocksTiles=true
+---
+IsSpawnOfType=12024
+LowerDoorPosDummyName=Pos_Dummy_DoorToIsland

@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=CORRIDOR_FLOOR_2X2
+Filename=Corridor_Floor_2x2_A.COL
+TextDescription=CORRIDOR_2X2_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

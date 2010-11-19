@@ -1,0 +1,11 @@
+ObjType=WorldRegion
+ObjName=ANTARCTICA
+Filename=WorldMap_Region_Antarctica.gr2
+TextDescription=ANTARCTICA
+Lighting=MISSIONGAME
+----
+Region=4
+JusticePresence=0
+CashPotential=1000
+Secrecy=2
+InsetGeometry=WorldMap_Inset_Antarctica.GR2

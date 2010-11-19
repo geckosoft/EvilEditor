@@ -1,0 +1,25 @@
+ObjType=Weapon
+ObjName=SNIPERRIFLE
+Filename=Weapons_Rifle_Sniper_A.GR2
+TextDescription=A_SNIPER_RIFLE
+----
+EvidenceRating=15
+ValueRating=0
+ThreatRating=20
+PurchaseCost=500
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemNotInUseBone=Bip01 Spine1
+ItemMotionSet=M_M,M_M_Carrying_SniperRifle.as
+ItemMotionSet=M_M_A,M_M_A_Carrying_Rifle.as
+ItemMotionSet=M_L,M_L_Carrying_Rifle.as
+----
+WeaponType=Rifle
+Damage=15
+Range=70
+MinRange=10
+MuzzleFlash=Automatic
+RateOfFire=0.28

@@ -1,0 +1,8 @@
+ObjType=AgentGroup
+ObjName=GROUP_OF_AGENTS
+TextDescription=A_GROUP_OF_AGENTS
+---
+AgentType=Tourist
+CanBePanicked=true
+StandardBehaviour=Relax
+EscapeBehaviour=Relax

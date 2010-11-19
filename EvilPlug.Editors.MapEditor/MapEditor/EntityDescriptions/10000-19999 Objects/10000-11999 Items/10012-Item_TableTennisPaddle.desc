@@ -1,0 +1,9 @@
+ObjType=Item
+ObjName=TABLE_TENNIS_PADDLE
+Filename=StaffProp_TableTennisBat_A.GR2
+TextDescription=A_TABLE_TENNIS_PADDLE
+----
+NotSelectable
+----
+ItemVisiblyCarried=true
+----

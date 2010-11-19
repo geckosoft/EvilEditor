@@ -1,0 +1,22 @@
+ObjType=Object
+ObjName=IMPRESSIVE_DESK
+Filename=InnerSanctum_EGOfficeDesk_A.COL
+Filename=Animset_EGDesk.as
+TextDescription=AN_INTIMIDATING_DESK
+---
+Health=150
+EvidenceRating=2
+ValueRating=2
+ThreatRating=0
+PurchaseCost=15000
+---
+GUIIconBaseName=EGOffice_Desk_A
+---
+BlocksTiles=true
+NumInteractionSlots=1
+
+InteractionReason=BeingEvil
+HotspotName=Pos_Dummy_Chair_in_out_01
+ATNNetworkName=EG Desk
+ExclusionMask=0
+

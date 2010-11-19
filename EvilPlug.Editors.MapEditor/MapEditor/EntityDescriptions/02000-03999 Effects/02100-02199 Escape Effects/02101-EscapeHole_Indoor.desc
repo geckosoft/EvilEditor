@@ -1,0 +1,7 @@
+ObjType=BuildingBlock
+ObjName=ESCAPE_HOLE_INDOORS
+Filename=AgentEscape_HoleIndoor_A.col
+Filename=EscapeRoute_Indoors.as
+TextDescription=AN_ESCAPE_HOLE_FOR_INSIDE
+---
+CanBeReflected=false

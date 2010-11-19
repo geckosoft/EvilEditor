@@ -1,0 +1,9 @@
+ObjType=Scenery
+ObjName=HOTELLOBBY_WALL_CORNEROUT_R_3M
+Filename=[Jungle]HotelLobby_Wall_CornerOut_R_3m_A.COL
+Filename=[Desert]HotelLobby_Desert_Wall_CornerOut_R_3m_A.COL
+TextDescription=HOTELLOBBY_WALL_PIECE_CORNEROUT_R_3M
+---
+IsWalkable
+IsReflective
+---

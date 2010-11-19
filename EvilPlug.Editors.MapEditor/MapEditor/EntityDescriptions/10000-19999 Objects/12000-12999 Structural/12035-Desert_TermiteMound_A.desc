@@ -1,0 +1,15 @@
+ObjType=Object
+ObjName=TERMITE_MOUND
+Filename=Desert_TermiteMound_A.COL
+TextDescription=A_TERMITE_MOUND
+---
+ConsiderPoints=0
+---
+GuiIconBaseName=Tiki_Statue1
+NotSelectable
+Destructible=false
+---
+CanCastShadow=false
+---
+BlocksTiles=true
+---

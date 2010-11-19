@@ -1,0 +1,13 @@
+ObjType=Item
+ObjName=JET_BACKPACK
+Filename=JetBackpack_A.GR2
+TextDescription=A_JET_BACKPACK_USED_BY_AGENTS
+----
+NumFilters=3
+OperationType=A
+IslandType=Jungle
+NinjasAllowed=false
+----
+ItemType=Jetpack
+ItemAttachedToBone=Bip01 Spine1
+ItemVisiblyCarried=true

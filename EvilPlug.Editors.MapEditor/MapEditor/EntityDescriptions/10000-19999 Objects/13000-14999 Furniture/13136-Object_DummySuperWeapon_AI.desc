@@ -1,0 +1,6 @@
+ObjType=Object
+ObjName=DUMMYSUPERWEAPON_AI
+TextDescription=A_DUMMY_OBJECT_USED_TO_INDICATE_THAT_THE_AI_SUPERWEAPON_PAYLOAD_HAS_BEEN_CHOSEN
+---
+NotPlayerBuildable
+NotPlayerDestructable

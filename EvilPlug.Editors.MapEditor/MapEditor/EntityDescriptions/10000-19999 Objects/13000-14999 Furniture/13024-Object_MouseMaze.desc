@@ -1,0 +1,26 @@
+ObjType=Object
+ObjName=LABORATORY_MOUSE_MAZE
+Filename=Laboratory_MouseMaze_A.GR2
+Filename=AnimSet_Laboratory_MouseMaze.as
+TextDescription=A_MOUSE_MAZE
+---
+Health=50
+EvidenceRating=2
+ValueRating=2
+ThreatRating=0
+PurchaseCost=3000
+AreaEffect
+Continuous=false
+Radius=8.0
+Frequency=1.0
+ScaleEffect=Loyalty +0.2
+ScaleEffect=Smarts -0.05
+ScaleEffect=Attention +0.2
+NumFilters=1
+EntityType=Minion
+---
+GUIIconBaseName=Laboratory_MouseMaze
+---
+BlocksTiles=true
+NumInteractionSlots=0
+---

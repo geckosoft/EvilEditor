@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=KNIVES_JUGGLING
+Filename=StaffProp_Knives_Juggling_A.GR2
+TextDescription=KNIVES_JUGGLING
+----
+ItemVisiblyCarried=true
+----

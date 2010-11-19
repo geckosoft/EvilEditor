@@ -1,0 +1,55 @@
+ObjType=Genius
+ObjName=MAXIMILIAN
+Filename=Maximilian.col
+Filename=AnimSet_GeniusMaximilian.as
+TextDescription=A_MEGALOMANIAC_CRIMINAL_MASTERMIND
+-----
+GUIIconBaseName=GUI_Genius_Maximilian_
+-----
+Speed=0.5
+Health=100
+Loyalty=100
+Smarts=100
+Attention=100
+Endurance=100
+FOVAngle=0.7
+FOVRange=30
+EvidenceRating=25
+ValueRating=6
+ThreatRating=3
+HeatGenerated=10
+
+AreaEffect
+Continuous=false
+Radius=6.0
+Frequency=1.0
+ScaleEffect=Loyalty +0.5
+ScaleEffect=Attention +0.5
+NumFilters=1
+EntityType=Minion
+-----
+AnimationType=M_S
+-----
+Armour.Health=30
+DesiredName=$CHAR_NAME_MAXIMILIAN$
+CannotBeTagged
+FeedbackSound=UseObject FeedbackDialogue-UseObject-Maximillian
+FeedbackSound=MurderMinion FeedbackDialogue-MurderMinion-Maximillian
+FeedbackSound=MoveTo FeedbackDialogue-MoveTo-Maximillian
+FeedbackSound=BoostOrder FeedbackDialogue-BoostOrder-Maximillian
+-----
+BonusAbilityType=CashIncentive
+BonusAbilityModifier=10
+MurderedAni=Murdered_by_Max
+MurderBonusEffect
+Continuous=false
+Radius=14.0
+Frequency=1.0
+ScaleEffect=Loyalty +5.0
+ScaleEffect=Attention +5.0
+ScaleEffect=Health +5.0
+ScaleEffect=Endurance +5.0
+ScaleEffect=Smarts +5.0
+NumFilters=1
+EntityType=Minion
+

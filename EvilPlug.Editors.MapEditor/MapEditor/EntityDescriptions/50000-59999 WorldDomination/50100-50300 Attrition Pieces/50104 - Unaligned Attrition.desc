@@ -1,0 +1,12 @@
+ObjType=WorldAttrition
+ObjName=UNALIGNEDAGENT
+Filename=NonAligned_Investigator_A_03.COL
+TextDescription=UNALIGNED_JUSTICE_PRESENCE
+Lighting=MISSIONGAME
+----
+MinDuration=50
+MaxDuration=160
+AttritionInterval=50
+AttritionRiskModifier=0
+ThreatDescription=ATTRITION_THREAT_NORMAL
+BaseGeometry=Mission_FigureBase_Agent_A.GR2

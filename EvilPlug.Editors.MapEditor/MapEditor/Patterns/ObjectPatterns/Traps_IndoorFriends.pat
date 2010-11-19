@@ -1,0 +1,17 @@
+FriendTileSet=StaffRoom
+FriendTileSet=InnerSanctum
+FriendTileSet=StrongRoom
+FriendTileSet=Barracks
+FriendTileSet=ControlRoom
+FriendTileSet=MessHall
+FriendTileSet=Laboratory
+FriendTileSet=Armoury
+FriendTileSet=TrainingRoom
+FriendTileSet=PowerPlant
+FriendTileSet=Infirmary
+FriendTileSet=Corridor
+FriendTileSet=Archives
+FriendTileSet=HotelCasino
+FriendTileSet=HotelLobby
+FriendTileSet=HotelLounge
+FriendTileSet=Freezer

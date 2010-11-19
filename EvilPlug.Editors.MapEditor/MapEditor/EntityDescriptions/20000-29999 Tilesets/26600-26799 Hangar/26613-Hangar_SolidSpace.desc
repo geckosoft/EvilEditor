@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=HANGAR_UNMINEABLE_TILE
+TextDescription=HANGAR_UNMINEABLE_TILE
+-----
+CanBeReflected=false
+---
+ReflectionHeightOffset=-10
+---

@@ -1,0 +1,15 @@
+ObjType=Projectile
+ObjName=PLASTIC_EXPLOSIVE
+Filename=Weapons_PlasticExplosive_A.GR2
+TextDescription=SOME_PLASTIC_EXPLOSIVE
+----
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+----
+Damage=100
+RadiusDamage=10
+Range=0
+SpeedRange=0,0
+ExplodeDelay=12.0
+CreateAt=Bip01 R Hand
+ExplosionEffect=:C4

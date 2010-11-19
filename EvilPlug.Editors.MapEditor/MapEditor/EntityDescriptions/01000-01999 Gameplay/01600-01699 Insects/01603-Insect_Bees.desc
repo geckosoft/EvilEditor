@@ -1,0 +1,13 @@
+ObjType=Insect
+ObjName=SWARM_OF_BEES
+TextDescription=ENDURANCE_ATTACKING_BEES
+---
+PatrolRange=12
+VisionRange=8
+NormalSpeed=3
+AttackSpeed=5
+AttackDamage=10
+AttackScale=Endurance
+DelayBetweenAttacks=2
+MaxAttacks=20
+PatrolTime=60

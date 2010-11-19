@@ -1,0 +1,9 @@
+ObjType=Scenery
+ObjName=DIRT_FLOOR
+Filename=Dirt_Floor_A.COL
+TextDescription=DIRT_FLOOR_PIECE_EMPTY
+-----
+CanBeReflected=false
+-----
+IsWalkable
+-----

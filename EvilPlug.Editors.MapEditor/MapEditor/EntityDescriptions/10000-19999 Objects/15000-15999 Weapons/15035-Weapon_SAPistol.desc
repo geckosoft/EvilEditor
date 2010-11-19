@@ -1,0 +1,23 @@
+ObjType=Weapon
+ObjName=PISTOL
+Filename=Weapons_Handgun_A.GR2
+TextDescription=A_GUN
+----
+EvidenceRating=10
+ValueRating=0
+ThreatRating=10
+PurchaseCost=200
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemFitsInPocket=true
+ItemMotionSet=F_M_A,F_M_A_SA_Carrying_Pistol.as
+----
+WeaponType=Pistol
+Damage=20
+Range=20
+MinRange=4
+MuzzleFlash=Pistol
+RateOfFire=1.0

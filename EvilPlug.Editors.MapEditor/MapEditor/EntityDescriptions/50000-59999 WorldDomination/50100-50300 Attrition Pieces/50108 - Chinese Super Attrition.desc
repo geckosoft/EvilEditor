@@ -1,0 +1,15 @@
+ObjType=WorldAttrition
+ObjName=JET_CHAN
+Filename=SuperAgent_China_A.COL
+TextDescription=WANNA_FIGHT_FIGHT_ME
+Lighting=MISSIONGAME
+----
+MinDuration=60
+MaxDuration=180
+AttritionInterval=80
+AttritionRiskModifier=-50
+ThreatDescription=ATTRITION_THREAT_HEAVY
+BaseGeometry=Mission_FigureBase_Agent_A.GR2
+JusticeModifier=5
+AOITimeModifier=5
+AOIRiskModifier=25

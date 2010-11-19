@@ -1,0 +1,142 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title></title>
+		<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+		<meta name="ProgId" content="VisualStudio.HTML">
+		<meta name="Originator" content="Microsoft Visual Studio .NET 7.1">
+	</head>
+	<body>
+		<FONT face="MS UI Gothic">
+			<DIV id="DIV1" ms_positioning="FlowLayout">
+				<TABLE height="24" cellSpacing="0" cellPadding="0" width="728" border="0" ms_1d_layout="TRUE">
+					<TR>
+						<TD>
+							<P>Evil Genius Savegame Format Documentation, based on the&nbsp;knowledge gained 
+								from coding&nbsp;EGSGE</P>
+						</TD>
+					</TR>
+				</TABLE>
+			</DIV>
+		</FONT><FONT face="MS UI Gothic">
+			<TABLE id="Table1" height="392" cellSpacing="1" cellPadding="1" width="728" border="0">
+				<TR>
+					<TD colSpan="3" height="23"><STRONG>File&nbsp;format</STRONG></TD>
+				</TR>
+				<TR>
+					<TD colSpan="3" height="23">
+						<P>The file is in UNIX text format, newlines as \n (backslash n) instead of \r\n 
+							(backslash r backslash n) as in Windows based systems, which may cause that if 
+							you open the file, you wont see nicely formatted lines but a long text line 
+							with black boxes between things.</P>
+						<P>Variable items are separated by newlines.</P>
+						<P>Entities (henchmen, agents, EG etc) have their variables grouped together. The 
+							first thing in the group is always the EntityDescriptionID line, from which the 
+							entity can be identified. Relevant entity variables are grouped together with 
+							three lines on a line (---). The end of an entitys data group is marked with an 
+							empty line (just a newline)</P>
+						<P>EntityDescriptionID's from 500 to 510 seem to be the henchmen. 511 and 512 and 
+							possibly more after them don't seem to exist, so they are probably reserved for 
+							additional henchmen.</P>
+						<P>&nbsp;</P>
+					</TD>
+				</TR>
+				<TR>
+					<TD bgColor="gainsboro" colSpan="3" height="23"><STRONG>General Variables</STRONG></TD>
+				</TR>
+				<TR>
+					<TD width="4" bgColor="#ccffff" height="23">Value</TD>
+					<TD bgColor="#ccffff" height="23">Effect</TD>
+				</TR>
+				<TR>
+					<TD vAlign="top" width="4">
+						<P>LayoutSkin</P>
+						<P>PlayerName</P>
+						<P>GeniusEntityID</P>
+						<P>Cash</P>
+						<P>EntityAvailable&nbsp;</P>
+						<P>WatchedVideo</P>
+						<P>DifficultyLevel</P>
+						<P>AlertStatus</P>
+						<P>m_pendingHintVids</P>
+					</TD>
+					<TD vAlign="top">
+						<P>Desert or Jungle, probably the type of island</P>
+						<P>Default is Alex. This probably doesn't affect anything.</P>
+						<P>This is the Entity ID number of the Evil Genius.</P>
+						<P>The amount of cash the player has</P>
+						<P>What entities are in the game. ex. EntityAvailable=500 means Moko is in</P>
+						<P>Probably&nbsp;indicates what help&nbsp;videos you have watched</P>
+						<P>The difficultylevel, from 0 to 2</P>
+						<P>Alert level, 0 for green, 1 for yellow, 2 for red</P>
+						<P>How many help videos are waiting to be watched (Not sure)</P>
+					</TD>
+				</TR>
+			</TABLE>
+			<P>
+		</FONT>&nbsp;</P>
+		<P>
+			<TABLE id="Table2" height="516" cellSpacing="1" cellPadding="1" width="728" border="0">
+				<TR>
+					<TD colSpan="2" bgColor="gainsboro" height="23"><FONT face="MS UI Gothic"><STRONG>Variables 
+								related to Minion Recruitment Screen</STRONG></FONT></TD>
+				</TR>
+				<TR>
+					<TD width="222" bgColor="#ccffff" height="23"><FONT face="MS UI Gothic">Value</FONT></TD>
+					<TD bgColor="#ccffff" height="23"><FONT face="MS UI Gothic">Effect</FONT></TD>
+				</TR>
+				<TR>
+					<TD width="222" vAlign="top">
+						<P><FONT face="MS UI Gothic">MinionRecruitmentCost</FONT></P>
+						<P><FONT face="MS UI Gothic">MinionRecruitmentRate</FONT></P>
+						<P><FONT face="MS UI Gothic">DesiredMinionCount</FONT></P>
+						<P><FONT face="MS UI Gothic">SecondsSinceLastAutoSpawned</FONT></P>
+					</TD>
+					<TD vAlign="top">
+						<P><FONT face="MS UI Gothic">Indicates the cost of minion recruitment</FONT></P>
+						<P><FONT face="MS UI Gothic">The speed in seconds minions are recruited</FONT></P>
+						<P><FONT face="MS UI Gothic">Indicates the Entity ID of wanted minion and the amount</FONT></P>
+						<P><FONT face="MS UI Gothic">How long ago did the last recruit arrive</FONT></P>
+					</TD>
+				</TR>
+				<TR>
+					<TD vAlign="top" width="222">
+						<P><FONT face="MS UI Gothic">&nbsp;</FONT></P>
+					</TD>
+					<TD vAlign="top"><FONT face="MS UI Gothic">&nbsp;</FONT></TD>
+				</TR>
+				<TR>
+					<TD vAlign="middle" colSpan="2" height="40">
+						<P><FONT face="MS UI Gothic">For DesiredMinionCount, it looks like the minion ID's are 
+								like this:</FONT></P>
+					</TD>
+				</TR>
+				<TR>
+					<TD vAlign="top" width="222" height="245">
+						<P><FONT face="MS UI Gothic">100: Basic Worker</FONT></P>
+						<P><FONT face="MS UI Gothic">102: Valet</FONT></P>
+						<P><FONT face="MS UI Gothic">104: Guard</FONT></P>
+						<P><FONT face="MS UI Gothic">106: Scientist</FONT></P>
+						<P><FONT face="MS UI Gothic">108: Mercenary</FONT></P>
+						<P><FONT face="MS UI Gothic">110: Playboy</FONT></P>
+						<P><FONT face="MS UI Gothic">112: Quantum Physicist</FONT></P>
+					</TD>
+					<TD vAlign="top" colSpan="2" height="245">
+						<P><FONT face="MS UI Gothic">101: Marksman</FONT></P>
+						<P><FONT face="MS UI Gothic">103: Technician</FONT></P>
+						<P><FONT face="MS UI Gothic">105: Biochemist</FONT></P>
+						<P><FONT face="MS UI Gothic">107: Spindoctor</FONT></P>
+						<P><FONT face="MS UI Gothic">109: Diplomat</FONT></P>
+						<P><FONT face="MS UI Gothic">111: Martial Artist</FONT></P>
+					</TD>
+				</TR>
+				<TR>
+					<TD vAlign="middle" width="222" colSpan="2" height="40">
+						<P><FONT face="MS UI Gothic">Entity lists taken from a list by TremeX from 
+								evilgeniuschat.com forums, thanks!</FONT></P>
+					</TD>
+				</TR>
+			</TABLE>
+		</P>
+	</body>
+</html>

@@ -1,0 +1,12 @@
+ObjType=Room
+ObjName=HANGAR_SOLID_SPACE
+TextDescription=HANGAR_SOLID_SPACE
+-----
+Tileset=HangarSolidSpace
+RoomType=HangarSolidSpace
+UnitCost=0
+GUIIconBaseName=Strongroom
+ReverbMin=room_HangarEmptySpace_min
+ReverbMax=room_HangarEmptySpace_max
+Mixer=room_HangarEmptySpace
+-----

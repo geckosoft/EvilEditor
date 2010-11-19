@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=MESSHALL_WALL_CORNERIN_BOTH_3M
+Filename=MessHall_Wall_CornerIn_Both_3m_A.GR2
+TextDescription=MESSHALL_WALL_PIECE_CORNERIN_BOTH_3M
+---
+IsWalkable
+IsReflective
+---

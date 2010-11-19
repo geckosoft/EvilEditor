@@ -1,0 +1,26 @@
+# Syntax:		ComputerName=NumFromInclusive,NumToExclusive
+#
+# Total range of ids is from 0 to 2,147,483,647 (and if necessary,
+# later, also from -2,147,483,648 to -1.)
+
+# Give programmers and artists a small band of 10000, since they
+# wont be doing very much object description editing
+
+Alex=130000,140000
+Alex2=140000,150000
+Peteg=40000,50000
+Brian=50000,60000
+Demo-Tank=60000,70000
+Mattg01=70000,75000
+Mattg2=75000,80000
+George=80000,90000
+Kasim=90000,95000
+Toolsdev=100000,105000
+RichardJ=110000,115000
+Malin=120000,125000
+
+# Give designers a larger batch of 100000, since they are the
+# ones likely to be messing around with them most
+
+Sandy=1000000,1100000
+

@@ -1,0 +1,12 @@
+ObjType=WorldRegion
+ObjName=AUSTRALASIA
+Filename=WorldMap_Region_Australasia.gr2
+TextDescription=AUSTRALASIA
+Lighting=MISSIONGAME
+InformationEntity=OBJECTIVE_5_INFO_ONE_1
+----
+Region=1
+JusticePresence=10
+CashPotential=5000
+Secrecy=5
+InformationEntityThreshold=5

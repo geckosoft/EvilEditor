@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=FREEZER_FLOOR_3X3
+Filename=Freezer_Floor_3x3_A.COL
+TextDescription=FREEZER_3X3_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

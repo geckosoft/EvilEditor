@@ -1,0 +1,12 @@
+ObjType=Scenery
+ObjName=GLOBAL_CUSTOM_CAVE_LAGOON_FLOOR
+Filename=Global_UnminedDirt_A.COL
+TextDescription=CAVE_LAGOON_FLOOR
+Lighting=RocketCave
+---
+CanBeReflected=false
+---
+ReflectionHeightOffset=-10
+CanBeMined
+BlocksVision
+---

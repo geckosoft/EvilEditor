@@ -1,0 +1,20 @@
+ObjType=Room
+ObjName=OUTDOORS_ROOM
+TextDescription=OUTDOORS_ROOM_ENTITY
+-----
+Tileset=JungleMined
+RoomType=Outdoors
+UnitCost=0
+NotPlayerBuildable
+FootstepSound=scuffs & steps-walk_grass-comb_L
+FootstepSound=scuffs & steps-walk_grass-comb_R
+FootstepSound.L.F_M=scuffs & steps-Moko-Walk_Outd_L
+FootstepSound.R.F_M=scuffs & steps-Moko-Walk_Outd_R
+FootstepSound.L.F_M_A=scuffs & steps-Moko-Walk_Outd_L
+FootstepSound.R.F_M_A=scuffs & steps-Moko-Walk_Outd_R
+FootstepSound.L.M_S=scuffs & steps-Moko-Walk_Outd_L
+FootstepSound.R.M_S=scuffs & steps-Moko-Walk_Outd_R
+ReverbMin=Outside
+ReverbMax=Outside
+Mixer=Outside_Base
+-----

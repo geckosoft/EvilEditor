@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=CIGARETTE
+Filename=StaffProp_Cigarette_A.GR2
+TextDescription=A_NICE_MELLOW_SMOKE
+----
+ItemVisiblyCarried=true
+----

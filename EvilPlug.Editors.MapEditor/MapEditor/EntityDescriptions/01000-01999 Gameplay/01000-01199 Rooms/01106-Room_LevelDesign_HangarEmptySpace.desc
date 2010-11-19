@@ -1,0 +1,12 @@
+ObjType=Room
+ObjName=HANGAR_EMPTY_SPACE
+TextDescription=HANGAR_EMPTY_SPACE
+-----
+Tileset=HangarEmptySpace
+RoomType=HangarEmptySpace
+UnitCost=0
+GUIIconBaseName=Strongroom
+ReverbMin=room_HangarEmptySpace_min
+ReverbMax=room_HangarEmptySpace_max
+Mixer=room_HangarEmptySpace
+-----

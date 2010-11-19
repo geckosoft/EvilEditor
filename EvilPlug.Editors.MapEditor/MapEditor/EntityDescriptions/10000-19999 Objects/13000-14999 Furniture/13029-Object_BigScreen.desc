@@ -1,0 +1,23 @@
+ObjType=Object
+ObjName=BIG_SCREEN
+Filename=ControlRoom_Screen_A.COL
+TextDescription=CONTROL_ROOM_INFORMATION_SCREEN
+---
+Health=200
+EvidenceRating=30
+ValueRating=4
+ThreatRating=0
+PurchaseCost=50000
+HeatGenerated=5
+
+AreaEffect
+Continuous=true
+Radius=12.0
+ScaleEffect=Attention +20%
+---
+GUIIconBaseName=Control_Screen_A
+---
+BlocksTiles=false
+IsSlave
+PowerConsumer=5
+---

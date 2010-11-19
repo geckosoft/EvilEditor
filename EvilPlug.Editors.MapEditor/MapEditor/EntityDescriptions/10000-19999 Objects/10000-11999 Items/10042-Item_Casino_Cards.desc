@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=CASINO_CARD
+Filename=StaffProp_Casino_Card_A.GR2
+TextDescription=CARD_FOR_GAMBLING
+----
+ItemVisiblyCarried=true
+----

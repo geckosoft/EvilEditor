@@ -1,0 +1,11 @@
+ObjType=Scenery
+ObjName=HOTELCASINO_FLOOR_4X4
+Filename=[Jungle]HotelCasino_Floor_4x4_A.COL
+Filename=[Desert]HotelCasino_Desert_Floor_4x4_A.COL
+TextDescription=HOTELCASINO_4X4_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

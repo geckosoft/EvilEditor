@@ -1,0 +1,8016 @@
+#########################################
+## Strings for entity TextDescriptions ##
+#########################################
+
+00001_A_MEGALOMANIAC_CRIMINAL_MASTERMIND
+<BEGIN>
+A megalomaniac criminal mastermind.
+<END>
+
+00002_A_LADY_MEGALOMANIAC_CRIMINAL_MASTERMIND
+<BEGIN>
+A lady megalomaniac criminal mastermind.
+<END>
+
+00003_DRAGON_VAN_DEN_DRIESSCHE
+<BEGIN>
+A mysteriously mystical maniacal man.
+<END>
+
+00100_CONSTRUCTION_WORKER
+<BEGIN>
+Construction Worker.
+<END>
+
+00101_GOOD_AT_SHOOTIN_UP_STUFF
+<BEGIN>
+Good at shootin' up stuff.
+<END>
+
+00102_A_VALET_MINION
+<BEGIN>
+A valet minion.
+<END>
+
+00103_A_TECHNICIAN_MINION
+<BEGIN>
+A technician minion.
+<END>
+
+00104_A_GUARD_MINION
+<BEGIN>
+A guard minion.
+<END>
+
+00105_A_BIOCHEMIST_MINION
+<BEGIN>
+A biochemist minion.
+<END>
+
+00106_A_SCIENTIST_MINION
+<BEGIN>
+A scientist minion.
+<END>
+
+00107_A_SPINDOCTOR_MINION
+<BEGIN>
+A spindoctor minion.
+<END>
+
+00108_A_SOLDIER_OF_FORTUNE
+<BEGIN>
+A soldier of fortune.
+<END>
+
+00109_A_DIPLOMAT_TRAINED_MINION
+<BEGIN>
+A diplomat trained minion.
+<END>
+
+00110_PLAYBOY_OF_THE_WESTERN_WORLD
+<BEGIN>
+Playboy of the western world.
+<END>
+
+00111_A_MINION_TRAINED_IN_THE_MARTIAL_ARTS
+<BEGIN>
+A minion trained in the martial arts.
+<END>
+
+00112_A_MINION_TRAINED_IN_SCIENCE_OF_QUANTUM_PHYSICS
+<BEGIN>
+A minion trained in science of quantum physics.
+<END>
+
+00200_CHEEKY_MONKAY
+<BEGIN>
+Cheeky Monkay.
+<END>
+
+00201_A_DISARMINGLY_CUTE_MONKEY
+<BEGIN>
+A disarmingly cute monkey.
+<END>
+
+00301_HOT_HOT_CHICK
+<BEGIN>
+Bodyguard.
+<END>
+
+00302_HOT_HOT_CHICK
+<BEGIN>
+Bodyguard.
+<END>
+
+00303_ON_THE_RUN_FROM_P_A_T_R_I_O_T
+<BEGIN>
+On the run from P.A.T.R.I.O.T.
+<END>
+
+00304_A_BOUNTY_HUNTER
+<BEGIN>
+A Bounty Hunter.
+<END>
+
+00305_A_TRAITOROUS_BLACK_MARKET_THIEF
+<BEGIN>
+A traitorous black market thief.
+<END>
+
+00306_A_SUSPICIOUS_TOURIST
+<BEGIN>
+A suspicious tourist.
+<END>
+
+00307_A_RECOVERY_SQUAD_MEMBER
+<BEGIN>
+A recovery squad member.
+<END>
+
+00308_HOWARD_PONDER_A_WALKING_DISASTER_AREA
+<BEGIN>
+Howard Ponder. A walking disaster area.
+<END>
+
+00309_UGO_MBENGO_CRUISING_AROUND
+<BEGIN>
+Ugo Mbengo, cruising around.
+<END>
+
+00310_PTANG_PTUNG_A_NIMBLE_NINJA
+<BEGIN>
+Ptang Ptung, a nimble ninja.
+<END>
+
+00311_A_SAILOR
+<BEGIN>
+A sailor.
+<END>
+
+00312_BOSS1
+<BEGIN>
+Armand Krishnan - Indian Crime Lord.
+<END>
+
+00313_BOSS2
+<BEGIN>
+Marvin de Luca - American Mafia Don.
+<END>
+
+00314_BOSS3
+<BEGIN>
+The inscrutable Lei Ying Lo - Yakuza.
+<END>
+
+00315_NUMBER2
+<BEGIN>
+The indispensable Number 2.
+<END>
+
+00316_A_FEEBLE_INVESTIGATOR
+<BEGIN>
+A feeble investigator.
+<END>
+
+00317_BOSS4
+<BEGIN>
+Nikita Leonov - Russian Supercriminal.
+<END>
+
+00318_BOSS5
+<BEGIN>
+Nigel Ewing - Rogue CIA arms dealer.
+<END>
+
+00319_BOSS6
+<BEGIN>
+Bob 'Barking' Caine Kingpin of London's east end.
+<END>
+
+00320_ENEMYMINION
+<BEGIN>
+An Enemy Minion.
+<END>
+
+00321_A_MERCENARY_SCIENTIST
+<BEGIN>
+A mercenary scientist.
+<END>
+
+00322_A_COSMONAUT
+<BEGIN>
+A Cosmonaut.
+<END>
+
+00323_A_POOR_LOCAL_SOLDIER
+<BEGIN>
+A poor S.M.A.S.H. Soldier.
+<END>
+
+00324_A_POOR_RUSSIAN_BURGLAR
+<BEGIN>
+A poor H.A.M.M.E.R. Burglar.
+<END>
+
+00325_A_POOR_AMERICAN_SABOTEUR
+<BEGIN>
+A poor P.A.T.R.I.O.T. Saboteur.
+<END>
+
+00326_A_POOR_EUROPEAN_AGENT
+<BEGIN>
+A poor S.A.B.R.E. Agent.
+<END>
+
+00327_A_POOR_CHINESE_AGENT
+<BEGIN>
+A poor A.N.V.I.L. agent.
+<END>
+
+00328_A_POOR_LOCAL_AGENT
+<BEGIN>
+A poor S.M.A.S.H. Agent.
+<END>
+
+00329_UNALIGNEDVIP
+<BEGIN>
+SMASH Ambassador.
+<END>
+
+00330_USAVIP
+<BEGIN>
+PATRIOT Ambassador.
+<END>
+
+00331_RUSSIANVIP
+<BEGIN>
+HAMMER Ambassador.
+<END>
+
+00332_EUROPEANVIP
+<BEGIN>
+SABRE Ambassador.
+<END>
+
+00333_CHINESEVIP
+<BEGIN>
+ANVIL Ambassador.
+<END>
+
+00334_A_MAID
+<BEGIN>
+A humble maid.
+<END>
+
+00335_A_MENTOR
+<BEGIN>
+A Mentor to a Super Agent.
+<END>
+
+00336_A_CLONE_OF_A_MEGALOMANIAC_CRIMINAL_MASTERMIND
+<BEGIN>
+A clone of an Evil Genius.
+<END>
+
+00337_A_CLONE_OF_A_LADY_MEGALOMANIAC_CRIMINAL_MASTERMIND
+<BEGIN>
+A clone of an Evil Genius.
+<END>
+
+00338_A_CLONE_OF_DRAGON_VAN_DEN_DRIESSCHE
+<BEGIN>
+A clone of an Evil Genius.
+<END>
+
+00339_ACCOUNTANT
+<BEGIN>
+An accountant.
+<END>
+
+00340_ACCOUNTANT
+<BEGIN>
+An accountant.
+<END>
+
+00341_ACCOUNTANT
+<BEGIN>
+An accountant.
+<END>
+
+00342_ACCOUNTANT
+<BEGIN>
+An accountant.
+<END>
+
+00343_ACCOUNTANT
+<BEGIN>
+An accountant.
+<END>
+
+00344_ACCOUNTANT
+<BEGIN>
+An accountant.
+<END>
+
+00345_ACCOUNTANT
+<BEGIN>
+An accountant.
+<END>
+
+00346_ACCOUNTANT
+<BEGIN>
+An accountant.
+<END>
+
+00347_CLONE_ASSASSIN
+<BEGIN>
+An Evil Genius-hunting assassin.
+<END>
+
+00400_HOT_HOT_DUDE
+<BEGIN>
+Bodyguard.
+<END>
+
+00401_HOT_HOT_DUDE
+<BEGIN>
+Bodyguard.
+<END>
+
+
+00500_MOKO_THE_BIG_STRONG_DUMB_ONE
+<BEGIN>
+Moko the big strong dumb one.
+<END>
+
+00501_JUBEI_THE_SAMURAI_SWORDSMAN_AND_SUSHI_MASTER
+<BEGIN>
+Jubei the Samurai swordsman and sushi master.
+<END>
+
+00502_ELI_THE_HARD_HITTING_FAST_TALKING_GANGSTER
+<BEGIN>
+Eli the hard-hitting, fast-talking gangster.
+<END>
+
+00503_IVAN_THE_PSYCHO_GREEN_BERET
+<BEGIN>
+Red Ivan, always ready for action.
+<END>
+
+00504_PAPA_LAZAROU_THE_VOODOO_MAN
+<BEGIN>
+Montezuma, the dark and sinister voodoo man.
+<END>
+
+00505_MEAN_MAMA_MATRON
+<BEGIN>
+The Matron - isn't it past your bedtime?
+<END>
+
+00506_THE_FREAK
+<BEGIN>
+Representing the pinnacle of evil scientific achievements.
+<END>
+
+00507_KAISER_SOZE
+<BEGIN>
+Lord Kane, the arch-conspirator himself.
+<END>
+
+00508_PSYCHO_SURGEON
+<BEGIN>
+That looks nasty, would you like me to take a closer look?
+<END>
+
+00509_HYPNOTIST
+<BEGIN>
+Look into my eye, you are feeling sleepy...
+<END>
+
+00510_GENIUS_OR_MADNESS_WHO_KNOWS
+<BEGIN>
+The charming Dr Neurocide, insane or genius ahead of her time?
+<END>
+
+00511_HUNTER
+<BEGIN>
+Colonel Blackheart, he has your trail.
+<END>
+
+00511_THE_FREAK
+<BEGIN>
+Look what we cooked up in the lab!
+<END>
+
+
+00700_A_PATHETIC_EUROPEAN_INVESTIGATOR
+<BEGIN>
+A pathetic S.A.B.R.E. Investigator.
+<END>
+
+00701_A_POOR_EUROPEAN_INVESTIGATOR
+<BEGIN>
+A poor S.A.B.R.E. Investigator.
+<END>
+
+00702_A_GOOD_EUROPEAN_INVESTIGATOR
+<BEGIN>
+A good S.A.B.R.E. Investigator.
+<END>
+
+00703_AN_EXCEPTIONAL_EUROPEAN_INVESTIGATOR
+<BEGIN>
+An exceptional S.A.B.R.E. Investigator.
+<END>
+
+00705_A_PATHETIC_EUROPEAN_AGENT
+<BEGIN>
+A pathetic S.A.B.R.E. Agent.
+<END>
+
+00706_A_POOR_EUROPEAN_AGENT
+<BEGIN>
+A poor S.A.B.R.E. Agent.
+<END>
+
+00707_A_GOOD_EUROPEAN_AGENT
+<BEGIN>
+A good S.A.B.R.E. Agent.
+<END>
+
+00708_AN_EXCEPTIONAL_EUROPEAN_AGENT
+<BEGIN>
+An exceptional S.A.B.R.E. Agent.
+<END>
+
+00710_A_PATHETIC_EUROPEAN_BURGLAR
+<BEGIN>
+A pathetic S.A.B.R.E. Burglar.
+<END>
+
+00711_A_POOR_EUROPEAN_BURGLAR
+<BEGIN>
+A poor S.A.B.R.E. Burglar.
+<END>
+
+00712_A_GOOD_EUROPEAN_BURGLAR
+<BEGIN>
+A Good S.A.B.R.E. Burglar.
+<END>
+
+00713_AN_EXCEPTIONAL_EUROPEAN_BURGLAR
+<BEGIN>
+An Exceptional S.A.B.R.E. Burglar.
+<END>
+
+00715_A_PATHETIC_EUROPEAN_THIEF
+<BEGIN>
+A pathetic S.A.B.R.E. Thief.
+<END>
+
+00716_A_POOR_EUROPEAN_THIEF
+<BEGIN>
+A poor S.A.B.R.E. Thief.
+<END>
+
+00717_A_GOOD_EUROPEAN_THIEF
+<BEGIN>
+A Good S.A.B.R.E. Thief.
+<END>
+
+00718_AN_EXCEPTIONAL_EUROPEAN_THIEF
+<BEGIN>
+An Exceptional S.A.B.R.E. Thief.
+<END>
+
+00720_A_PATHETIC_EUROPEAN_INFILTRATOR
+<BEGIN>
+A pathetic S.A.B.R.E. Infiltrator.
+<END>
+
+00721_A_POOR_EUROPEAN_INFILTRATOR
+<BEGIN>
+A poor S.A.B.R.E. Infiltrator.
+<END>
+
+00722_A_GOOD_EUROPEAN_INFILTRATOR
+<BEGIN>
+A good S.A.B.R.E. Infiltrator.
+<END>
+
+00723_AN_EXCEPTIONAL_EUROPEAN_INFILTRATOR
+<BEGIN>
+An exceptional S.A.B.R.E. Infiltrator.
+<END>
+
+00725_A_PATHETIC_EUROPEAN_SABOTEUR
+<BEGIN>
+A pathetic S.A.B.R.E. Saboteur.
+<END>
+
+00726_A_POOR_EUROPEAN_SABOTEUR
+<BEGIN>
+A poor S.A.B.R.E. Saboteur.
+<END>
+
+00727_A_GOOD_EUROPEAN_SABOTEUR
+<BEGIN>
+A good S.A.B.R.E. Saboteur.
+<END>
+
+00728_AN_EXCEPTIONAL_EUROPEAN_SABOTEUR
+<BEGIN>
+An exceptional S.A.B.R.E. Saboteur.
+<END>
+
+00730_A_PATHETIC_EUROPEAN_SOLDIER
+<BEGIN>
+A pathetic S.A.B.R.E. Soldier.
+<END>
+
+00731_A_POOR_EUROPEAN_SOLDIER
+<BEGIN>
+A poor S.A.B.R.E. Soldier.
+<END>
+
+00732_A_GOOD_EUROPEAN_SOLDIER
+<BEGIN>
+A good S.A.B.R.E. Soldier.
+<END>
+
+00733_AN_EXCEPTIONAL_EUROPEAN_SOLDIER
+<BEGIN>
+An exceptional S.A.B.R.E. Soldier.
+<END>
+
+00735_A_PATHETIC_EUROPEAN_VETERAN
+<BEGIN>
+A pathetic S.A.B.R.E. Veteran.
+<END>
+
+00736_A_POOR_EUROPEAN_VETERAN
+<BEGIN>
+A poor S.A.B.R.E. Veteran.
+<END>
+
+00737_A_GOOD_EUROPEAN_VETERAN
+<BEGIN>
+A good S.A.B.R.E. Veteran.
+<END>
+
+00738_AN_EXCEPTIONAL_EUROPEAN_VETERAN
+<BEGIN>
+An exceptional S.A.B.R.E. Veteran.
+<END>
+
+00740_A_PATHETIC_CHINESE_INVESTIGATOR
+<BEGIN>
+A pathetic A.N.V.I.L. Investigator.
+<END>
+
+00741_A_POOR_CHINESE_INVESTIGATOR
+<BEGIN>
+A poor A.N.V.I.L. Investigator.
+<END>
+
+00742_A_GOOD_CHINESE_INVESTIGATOR
+<BEGIN>
+A good A.N.V.I.L. Investigator.
+<END>
+
+00743_AN_EXCEPTIONAL_CHINESE_INVESTIGATOR
+<BEGIN>
+An exceptional A.N.V.I.L. Investigator.
+<END>
+
+00745_A_PATHETIC_CHINESE_AGENT
+<BEGIN>
+A pathetic A.N.V.I.L. Agent.
+<END>
+
+00746_A_POOR_CHINESE_AGENT
+<BEGIN>
+A poor A.N.V.I.L. agent.
+<END>
+
+00747_A_GOOD_CHINESE_AGENT
+<BEGIN>
+A good A.N.V.I.L. Agent.
+<END>
+
+00748_AN_EXCEPTIONAL_CHINESE_AGENT
+<BEGIN>
+An exceptional A.N.V.I.L. Agent.
+<END>
+
+00750_A_PATHETIC_CHINESE_BURGLAR
+<BEGIN>
+A pathetic A.N.V.I.L. Burglar.
+<END>
+
+00751_A_POOR_CHINESE_BURGLAR
+<BEGIN>
+A poor A.N.V.I.L. Burglar.
+<END>
+
+00752_A_GOOD_CHINESE_BURGLAR
+<BEGIN>
+A good A.N.V.I.L. Burglar.
+<END>
+
+00753_AN_EXCEPTIONAL_CHINESE_BURGLAR
+<BEGIN>
+An exceptional A.N.V.I.L. Burglar.
+<END>
+
+00755_A_PATHETIC_CHINESE_THIEF
+<BEGIN>
+A pathetic A.N.V.I.L. Thief.
+<END>
+
+00756_A_POOR_CHINESE_THIEF
+<BEGIN>
+A poor A.N.V.I.L. Thief.
+<END>
+
+00757_A_GOOD_CHINESE_THIEF
+<BEGIN>
+A good A.N.V.I.L. Thief.
+<END>
+
+00758_AN_EXCEPTIONAL_CHINESE_THIEF
+<BEGIN>
+An exceptional A.N.V.I.L. Thief.
+<END>
+
+00760_A_PATHETIC_CHINESE_INFILTRATOR
+<BEGIN>
+A pathetic A.N.V.I.L. Infiltrator.
+<END>
+
+00761_A_POOR_CHINESE_INFILTRATOR
+<BEGIN>
+A poor A.N.V.I.L. Infiltrator.
+<END>
+
+00762_A_GOOD_CHINESE_INFILTRATOR
+<BEGIN>
+A good A.N.V.I.L. Infiltrator.
+<END>
+
+00763_AN_EXCEPTIONAL_CHINESE_INFILTRATOR
+<BEGIN>
+An exceptional A.N.V.I.L. Infiltrator.
+<END>
+
+00765_A_PATHETIC_CHINESE_SABOTEUR
+<BEGIN>
+A pathetic A.N.V.I.L. Saboteur.
+<END>
+
+00766_A_POOR_CHINESE_SABOTEUR
+<BEGIN>
+A poor A.N.V.I.L. Saboteur.
+<END>
+
+00767_A_GOOD_CHINESE_SABOTEUR
+<BEGIN>
+A good A.N.V.I.L. Saboteur.
+<END>
+
+00768_AN_EXCEPTIONAL_CHINESE_SABOTEUR
+<BEGIN>
+An exceptional A.N.V.I.L. Saboteur.
+<END>
+
+00770_A_PATHETIC_CHINESE_SOLDIER
+<BEGIN>
+A pathetic A.N.V.I.L. Soldier.
+<END>
+
+00771_A_POOR_CHINESE_SOLDIER
+<BEGIN>
+A poor A.N.V.I.L. Soldier.
+<END>
+
+00772_A_GOOD_CHINESE_SOLDIER
+<BEGIN>
+A good A.N.V.I.L. Soldier.
+<END>
+
+00773_AN_EXCEPTIONAL_CHINESE_SOLDIER
+<BEGIN>
+An exceptional A.N.V.I.L. Soldier.
+<END>
+
+00775_A_PATHETIC_CHINESE_VETERAN
+<BEGIN>
+A pathetic A.N.V.I.L. Veteran.
+<END>
+
+00776_A_POOR_CHINESE_VETERAN
+<BEGIN>
+A poor A.N.V.I.L. Veteran.
+<END>
+
+00777_A_GOOD_CHINESE_VETERAN
+<BEGIN>
+A good A.N.V.I.L. Veteran.
+<END>
+
+00778_AN_EXCEPTIONAL_CHINESE_VETERAN
+<BEGIN>
+An exceptional A.N.V.I.L. Veteran.
+<END>
+
+00780_A_PATHETIC_AMERICAN_INVESTIGATOR
+<BEGIN>
+A pathetic P.A.T.R.I.O.T. Investigator.
+<END>
+
+00781_A_POOR_AMERICAN_INVESTIGATOR
+<BEGIN>
+A poor P.A.T.R.I.O.T. Investigator.
+<END>
+
+00782_A_GOOD_AMERICAN_INVESTIGATOR
+<BEGIN>
+A good P.A.T.R.I.O.T. Investigator.
+<END>
+
+00783_AN_EXCEPTIONAL_AMERICAN_INVESTIGATOR
+<BEGIN>
+An exceptional P.A.T.R.I.O.T. Investigator.
+<END>
+
+00785_A_PATHETIC_AMERICAN_AGENT
+<BEGIN>
+A pathetic P.A.T.R.I.O.T. Agent.
+<END>
+
+00786_A_POOR_AMERICAN_AGENT
+<BEGIN>
+A poor P.A.T.R.I.O.T. Agent.
+<END>
+
+00787_A_GOOD_AMERICAN_AGENT
+<BEGIN>
+A good P.A.T.R.I.O.T. Agent.
+<END>
+
+00788_AN_EXCEPTIONAL_AMERICAN_AGENT
+<BEGIN>
+An exceptional P.A.T.R.I.O.T. Agent.
+<END>
+
+00790_A_PATHETIC_AMERICAN_BURGLAR
+<BEGIN>
+A pathetic P.A.T.R.I.O.T. Burglar.
+<END>
+
+00791_A_POOR_AMERICAN_BURGLAR
+<BEGIN>
+A poor P.A.T.R.I.O.T. Burglar.
+<END>
+
+00792_A_GOOD_AMERICAN_BURGLAR
+<BEGIN>
+A good P.A.T.R.I.O.T. Burglar.
+<END>
+
+00793_AN_EXCEPTIONAL_AMERICAN_BURGLAR
+<BEGIN>
+An exceptional P.A.T.R.I.O.T. Burglar.
+<END>
+
+00795_A_PATHETIC_AMERICAN_THIEF
+<BEGIN>
+A pathetic P.A.T.R.I.O.T. Thief.
+<END>
+
+00796_A_POOR_AMERICAN_THIEF
+<BEGIN>
+A poor P.A.T.R.I.O.T. Thief.
+<END>
+
+00797_A_GOOD_AMERCIAN_THIEF
+<BEGIN>
+A good P.A.T.R.I.O.T. Thief.
+<END>
+
+00798_AN_EXCEPTIONAL_AMERICAN_THIEF
+<BEGIN>
+An exceptional P.A.T.R.I.O.T. Thief.
+<END>
+
+00800_A_PATHETIC_AMERICAN_INFILTRATOR
+<BEGIN>
+A pathetic P.A.T.R.I.O.T. Infiltrator.
+<END>
+
+00801_A_POOR_AMERICAN_INFILTRATOR
+<BEGIN>
+A poor P.A.T.R.I.O.T. Infiltrator.
+<END>
+
+00802_A_GOOD_AMERICAN_INFILTRATOR
+<BEGIN>
+A good P.A.T.R.I.O.T. Infiltrator.
+<END>
+
+00803_AN_EXCEPTIONAL_AMERICAN_INFILTRATOR
+<BEGIN>
+An exceptional P.A.T.R.I.O.T. Infiltrator.
+<END>
+
+00805_A_PATHETIC_AMERICAN_SABOTEUR
+<BEGIN>
+A pathetic P.A.T.R.I.O.T. Saboteur.
+<END>
+
+00806_A_POOR_AMERICAN_SABOTEUR
+<BEGIN>
+A poor P.A.T.R.I.O.T. Saboteur.
+<END>
+
+00807_A_GOOD_AMERICAN_SABOTEUR
+<BEGIN>
+A good P.A.T.R.I.O.T. Saboteur.
+<END>
+
+00808_AN_EXCEPTIONAL_AMERICAN_SABOTEUR
+<BEGIN>
+An exceptional P.A.T.R.I.O.T. Saboteur.
+<END>
+
+00810_A_PATHETIC_AMERICAN_SOLDIER
+<BEGIN>
+A pathetic P.A.T.R.I.O.T. Soldier.
+<END>
+
+00811_A_POOR_AMERICAN_SOLDIER
+<BEGIN>
+A poor P.A.T.R.I.O.T. Soldier.
+<END>
+
+00812_A_GOOD_AMERICAN_SOLDIER
+<BEGIN>
+A good P.A.T.R.I.O.T. Soldier.
+<END>
+
+00813_AN_EXCEPTIONAL_AMERCIAN_SOLDIER
+<BEGIN>
+An exceptional P.A.T.R.I.O.T. Soldier.
+<END>
+
+00815_A_PATHETIC_AMERICAN_VETERAN
+<BEGIN>
+A pathetic P.A.T.R.I.O.T. Veteran.
+<END>
+
+00816_A_POOR_AMERICAN_VETERAN
+<BEGIN>
+A poor P.A.T.R.I.O.T. Veteran.
+<END>
+
+00817_A_GOOD_AMERICAN_VETERAN
+<BEGIN>
+A good P.A.T.R.I.O.T. Veteran.
+<END>
+
+00818_AN_EXCEPTIONAL_AMERICAN_VETERAN
+<BEGIN>
+An exceptional P.A.T.R.I.O.T. Veteran.
+<END>
+
+00820_A_PATHETIC_RUSSIAN_INVESTIGATOR
+<BEGIN>
+A pathetic H.A.M.M.E.R. Investigator.
+<END>
+
+00821_A_POOR_RUSSIAN_INVESTIGATOR
+<BEGIN>
+A poor H.A.M.M.E.R. Investigator.
+<END>
+
+00822_A_GOOD_RUSSIAN_INVESTIGATOR
+<BEGIN>
+A good H.A.M.M.E.R. Investigator.
+<END>
+
+00823_AN_EXCEPTIONAL_RUSSIAN_INVESTIGATOR
+<BEGIN>
+An exceptional H.A.M.M.E.R. Investigator.
+<END>
+
+00825_A_PATHETIC_RUSSIAN_AGENT
+<BEGIN>
+A pathetic H.A.M.M.E.R. Agent.
+<END>
+
+00826_A_POOR_RUSSIAN_AGENT
+<BEGIN>
+A poor H.A.M.M.E.R. Agent.
+<END>
+
+00827_A_GOOD_RUSSIAN_AGENT
+<BEGIN>
+A good H.A.M.M.E.R. Agent.
+<END>
+
+00828_AN_EXCEPTIONAL_RUSSIAN_AGENT
+<BEGIN>
+An exceptional H.A.M.M.E.R. agent.
+<END>
+
+00830_A_PATHETIC_RUSSIAN_BURGLAR
+<BEGIN>
+A pathetic H.A.M.M.E.R. Burglar.
+<END>
+
+00831_A_POOR_RUSSIAN_BURGLAR
+<BEGIN>
+A poor H.A.M.M.E.R. Burglar.
+<END>
+
+00832_A_GOOD_RUSSIAN_BURGLAR
+<BEGIN>
+A good H.A.M.M.E.R. Burglar.
+<END>
+
+00833_AN_EXCEPTIONAL_RUSSIAN_BURGLAR
+<BEGIN>
+An exceptional H.A.M.M.E.R. Burglar.
+<END>
+
+00835_AN_PATHETIC_RUSSIAN_THIEF
+<BEGIN>
+An pathetic H.A.M.M.E.R. Thief.
+<END>
+
+00836_AN_POOR_RUSSIAN_THIEF
+<BEGIN>
+A poor H.A.M.M.E.R. Thief.
+<END>
+
+00837_A_GOOD_RUSSIAN_THIEF
+<BEGIN>
+A good H.A.M.M.E.R. Thief.
+<END>
+
+00838_AN_EXCEPTIONAL_RUSSIAN_THIEF
+<BEGIN>
+An exceptional H.A.M.M.E.R. Thief.
+<END>
+
+00840_A_PATHETIC_RUSSIAN_INFILTRATOR
+<BEGIN>
+A pathetic H.A.M.M.E.R. Infiltrator.
+<END>
+
+00841_A_POOR_RUSSIAN_INFILTRATOR
+<BEGIN>
+A poor H.A.M.M.E.R. Infiltrator.
+<END>
+
+00842_A_GOOD_RUSSIAN_INFILTRATOR
+<BEGIN>
+A good H.A.M.M.E.R. Infiltrator.
+<END>
+
+00843_AN_EXCEPTIONAL_RUSSIAN_INFILTRATOR
+<BEGIN>
+An exceptional H.A.M.M.E.R. Infiltrator.
+<END>
+
+00845_A_PATHETIC_RUSSIAN_SABOTEUR
+<BEGIN>
+A pathetic H.A.M.M.E.R. Saboteur.
+<END>
+
+00846_A_POOR_RUSSIAN_SABOTEUR
+<BEGIN>
+A poor H.A.M.M.E.R. Saboteur.
+<END>
+
+00847_AN_GOOD_RUSSIAN_SABOTEUR
+<BEGIN>
+A good H.A.M.M.E.R. Saboteur.
+<END>
+
+00848_AN_EXCEPTIONAL_RUSSIAN_SABOTEUR
+<BEGIN>
+An exceptional H.A.M.M.E.R. Saboteur.
+<END>
+
+00850_A_PATHETIC_RUSSIAN_SOLDIER
+<BEGIN>
+A pathetic H.A.M.M.E.R. Soldier.
+<END>
+
+00851_A_POOR_RUSSIAN_SOLDIER
+<BEGIN>
+A poor H.A.M.M.E.R. Soldier.
+<END>
+
+00852_A_GOOD_RUSSIAN_SOLDIER
+<BEGIN>
+A good H.A.M.M.E.R. Soldier.
+<END>
+
+00853_AN_EXCEPTIONAL_RUSSIAN_SOLDIER
+<BEGIN>
+An exceptional H.A.M.M.E.R. soldier.
+<END>
+
+00855_A_PATHETIC_RUSSIAN_VETERAN
+<BEGIN>
+A pathetic H.A.M.M.E.R. Veteran.
+<END>
+
+00856_AN_POOR_RUSSIAN_VETERAN
+<BEGIN>
+A poor H.A.M.M.E.R. Veteran.
+<END>
+
+00857_A_GOOD_RUSSIAN_VETERAN
+<BEGIN>
+A good H.A.M.M.E.R. Veteran.
+<END>
+
+00858_AN_EXCEPTIONAL_RUSSIAN_VETERAN
+<BEGIN>
+An exceptional H.A.M.M.E.R. Veteran.
+<END>
+
+00860_A_PATHETIC_LOCAL_INVESTIGATOR
+<BEGIN>
+A pathetic S.M.A.S.H. Investigator.
+<END>
+
+00861_A_POOR_LOCAL_INVESTIGATOR
+<BEGIN>
+A poor S.M.A.S.H. Investigator.
+<END>
+
+00862_A_GOOD_LOCAL_INVESTIGATOR
+<BEGIN>
+A good S.M.A.S.H. Investigator.
+<END>
+
+00863_AN_EXCEPTIONAL_LOCAL_INVESTIGATOR
+<BEGIN>
+An exceptional S.M.A.S.H. Investigator.
+<END>
+
+00865_A_PATHETIC_LOCAL_AGENT
+<BEGIN>
+A pathetic S.M.A.S.H. Agent.
+<END>
+
+00866_A_POOR_LOCAL_AGENT
+<BEGIN>
+A poor S.M.A.S.H. Agent.
+<END>
+
+00867_A_GOOD_LOCAL_AGENT
+<BEGIN>
+A good S.M.A.S.H. Agent.
+<END>
+
+00868_AN_EXCEPTIONAL_LOCAL_AGENT
+<BEGIN>
+An exceptional S.M.A.S.H. Agent.
+<END>
+
+00870_A_PATHETIC_LOCAL_BURGLAR
+<BEGIN>
+A pathetic S.M.A.S.H. Burglar.
+<END>
+
+00871_A_POOR_LOCAL_BURGLAR
+<BEGIN>
+A poor S.M.A.S.H. Burglar.
+<END>
+
+00872_A_GOOD_LOCAL_BURGLAR
+<BEGIN>
+A good S.M.A.S.H. Burglar.
+<END>
+
+00873_AN_EXCEPTIONAL_LOCAL_BURGLAR
+<BEGIN>
+An exceptional S.M.A.S.H. Burglar.
+<END>
+
+00875_AN_PATHETIC_LOCAL_THIEF
+<BEGIN>
+A pathetic S.M.A.S.H. Thief.
+<END>
+
+00876_AN_POOR_LOCAL_THIEF
+<BEGIN>
+A poor S.M.A.S.H. Thief.
+<END>
+
+00877_AN_GOOD_LOCAL_THIEF
+<BEGIN>
+A good S.M.A.S.H. Thief.
+<END>
+
+00878_AN_EXCEPTIONAL_LOCAL_THIEF
+<BEGIN>
+An exceptional S.M.A.S.H. Thief.
+<END>
+
+00880_A_PATHETIC_LOCAL_INFILTRATOR
+<BEGIN>
+A pathetic S.M.A.S.H. Infiltrator.
+<END>
+
+00881_A_POOR_LOCAL_INFILTRATOR
+<BEGIN>
+A poor S.M.A.S.H. Infiltrator.
+<END>
+
+00882_A_GOOD_LOCAL_INFILTRATOR
+<BEGIN>
+A good S.M.A.S.H. Infiltrator.
+<END>
+
+00883_AN_EXCEPTIONAL_LOCAL_INFILTRATOR
+<BEGIN>
+An exceptional S.M.A.S.H. Infiltrator.
+<END>
+
+00885_A_PATHETIC_LOCAL_SABOTEUR
+<BEGIN>
+A pathetic S.M.A.S.H. Saboteur.
+<END>
+
+00886_A_POOR_LOCAL_SABOTEUR
+<BEGIN>
+A poor S.M.A.S.H. Saboteur.
+<END>
+
+00887_A_GOOD_LOCAL_SABOTEUR
+<BEGIN>
+A good S.M.A.S.H. Saboteur.
+<END>
+
+00888_AN_EXCEPTIONAL_LOCAL_SABOTEUR
+<BEGIN>
+An exceptional S.M.A.S.H. Saboteur.
+<END>
+
+00890_A_PATHETIC_LOCAL_SOLDIER
+<BEGIN>
+A pathetic S.M.A.S.H. Soldier.
+<END>
+
+00891_A_POOR_LOCAL_SOLDIER
+<BEGIN>
+A poor S.M.A.S.H. Soldier.
+<END>
+
+00892_A_GOOD_LOCAL_SOLDIER
+<BEGIN>
+A good S.M.A.S.H. Soldier.
+<END>
+
+00893_AN_EXCEPTIONAL_LOCAL_SOLDIER
+<BEGIN>
+An exceptional S.M.A.S.H. Soldier.
+<END>
+
+00895_A_PATHETIC_LOCAL_VETERAN
+<BEGIN>
+A pathetic S.M.A.S.H. Veteran.
+<END>
+
+00896_A_POOR_LOCAL_VETERAN
+<BEGIN>
+A poor S.M.A.S.H. Veteran.
+<END>
+
+00897_A_GOOD_LOCAL_VETERAN
+<BEGIN>
+A good S.M.A.S.H. Veteran.
+<END>
+
+00898_AN_EXCEPTIONAL_LOCAL_VETERAN
+<BEGIN>
+An exceptional S.M.A.S.H. Veteran.
+<END>
+
+00900_A_SIGHTSEER
+<BEGIN>
+A sightseer.
+<END>
+
+00901_A_SIGHTSEER
+<BEGIN>
+A sightseer.
+<END>
+
+00902_A_HOSTAGE_VALET
+<BEGIN>
+A hostage valet.
+<END>
+
+00903_A_HOSTAGE_TECHNICIAN
+<BEGIN>
+A hostage technician.
+<END>
+
+00904_A_HOSTAGE_GUARD
+<BEGIN>
+A hostage guard.
+<END>
+
+00905_A_HOSTAGE_MARKSMAN
+<BEGIN>
+A hostage marksman.
+<END>
+
+00906_A_WELL_DRESSED_FEMALE_TOURIST
+<BEGIN>
+A well dressed female tourist.
+<END>
+
+00907_A_WELL_DRESSED_SIGHTSEER
+<BEGIN>
+A well dressed sightseer.
+<END>
+
+00910_A_VACATIONING_COSMONAUT
+<BEGIN>
+A vacationing Cosmonaut.
+<END>
+
+00911_A_HOSTAGE_MERCENARY
+<BEGIN>
+A hostage mercenary.
+<END>
+
+00912_A_HOSTAGE_SPIN_DOCTOR
+<BEGIN>
+A hostage spin-doctor.
+<END>
+
+00913_A_HOSTAGE_SCIENTIST
+<BEGIN>
+A hostage scientist.
+<END>
+
+00915_AN_AMERICAN_TOURIST
+<BEGIN>
+A Tourist from P.A.T.R.I.O.T. controlled territory.
+<END>
+
+00916_A_CHINESE_TOURIST
+<BEGIN>
+A Tourist from A.N.V.I.L. controlled territory.
+<END>
+
+00917_AN_EUROPEAN_TOURIST
+<BEGIN>
+A Tourist from S.A.B.R.E. controlled territory.
+<END>
+
+00918_A_NON_ALIGNED_TOURIST
+<BEGIN>
+A Tourist from S.M.A.S.H. controlled territory.
+<END>
+
+00919_A_RUSSIAN_TOURIST
+<BEGIN>
+A Tourist from H.A.M.M.E.R. controlled territory.
+<END>
+
+00920_AN_AMERICAN_TOURIST
+<BEGIN>
+A Tourist from P.A.T.R.I.O.T. controlled territory.
+<END>
+
+00921_A_CHINESE_TOURIST
+<BEGIN>
+A Tourist from A.N.V.I.L. controlled territory.
+<END>
+
+00922_AN_EUROPEAN_TOURIST
+<BEGIN>
+A Tourist from S.A.B.R.E. controlled territory.
+<END>
+
+00923_A_NON_ALIGNED_TOURIST
+<BEGIN>
+A Tourist from S.M.A.S.H. controlled territory.
+<END>
+
+00924_A_RUSSIAN_TOURIST
+<BEGIN>
+A Tourist from H.A.M.M.E.R. controlled territory.
+<END>
+
+00925_AN_HOSTAGE_MARTIALARTIST
+<BEGIN>
+A hostage Martial Artist.
+<END>
+
+00926_AN_HOSTAGE_BIOCHEMIST
+<BEGIN>
+A hostage Biochemist.
+<END>
+
+00927_AN_HOSTAGE_PLAYBOY
+<BEGIN>
+A hostage Playboy.
+<END>
+
+00928_AN_HOSTAGE_DIPLOMAT
+<BEGIN>
+A hostage Diplomat.
+<END>
+
+00929_AN_HOSTAGE_QUANTUM_PHYSICIST
+<BEGIN>
+A hostage Quantum Physicist.
+<END>
+
+00950_SUPER_COOL_DUDE
+<BEGIN>
+A S.A.B.R.E. Super Agent!
+<END>
+
+00951_WANNA_FIGHT_FIGHT_ME
+<BEGIN>
+An A.N.V.I.L. Super Agent!
+<END>
+
+00952_RAMBO
+<BEGIN>
+A P.A.T.R.I.O.T. Super Agent!
+<END>
+
+00953_ICE_QUEEN
+<BEGIN>
+A H.A.M.M.E.R. Super Agent!
+<END>
+
+00954_AMAZONIAN_WARRIOR_QUEEN
+<BEGIN>
+A S.M.A.S.H. Super Agent!
+<END>
+
+00955_AMAZONIAN_WARRIOR_QUEEN
+<BEGIN>
+A Disgusting Blob!
+<END>
+
+00960_FREAK
+<BEGIN>
+A Freak.
+<END>
+
+00961_SA_FREAK
+<BEGIN>
+SuperAgent turned Freak.
+<END>
+
+
+00980_TEST_DUMMY
+<BEGIN>
+Crash Test Dummy
+<END>
+
+00998_SUPER_COOL_DUDE
+<BEGIN>
+Super Cool Dude.
+<END>
+
+00999_SUPER_SEXY_BABE
+<BEGIN>
+Super Sexy Babe.
+<END>
+
+01000_CORRIDOR_ROOM_ENTITY
+<BEGIN>
+Corridor room entity.
+<END>
+
+01001_STRONGROOM_ENTITY
+<BEGIN>
+Strongroom entity.
+<END>
+
+01002_BARRACKS_ROOM_ENTITY
+<BEGIN>
+Barracks room entity.
+<END>
+
+01003_CONTROL_ROOM_ROOM_ENTITY
+<BEGIN>
+Control Room room entity.
+<END>
+
+01005_OUTDOORS_ROOM_ENTITY
+<BEGIN>
+Outdoors room entity.
+<END>
+
+01006_MESSHALL_ROOM_ENTITY
+<BEGIN>
+MessHall room entity.
+<END>
+
+01007_TRAININGROOM_ROOM_ENTITY
+<BEGIN>
+Training Room room entity.
+<END>
+
+01008_ARCHIVES_ROOM_ENTITY
+<BEGIN>
+Archives room entity.
+<END>
+
+01009_ARMOURY_ROOM_ENTITY
+<BEGIN>
+Armory room entity.
+<END>
+
+01010_INFIRMARY_ROOM_ENTITY
+<BEGIN>
+Infirmary room entity.
+<END>
+
+01011_LABORATORY_ROOM_ENTITY
+<BEGIN>
+Laboratory room entity.
+<END>
+
+01012_STAFFROOM_ROOM_ENTITY
+<BEGIN>
+StaffRoom room entity.
+<END>
+
+01013_HANGAR_ROOM_ENTITY
+<BEGIN>
+Hangar room entity.
+<END>
+
+01015_INNER_SANCTUM_ROOM_ENTITY
+<BEGIN>
+Inner Sanctum room entity.
+<END>
+
+01017_POWERPLANT_ROOM_ENTITY
+<BEGIN>
+PowerPlant room entity.
+<END>
+
+01018_HOTELCASINO_ROOM_ENTITY
+<BEGIN>
+HotelCasino room entity.
+<END>
+
+01019_HOTELLOBBY_ROOM_ENTITY
+<BEGIN>
+HotelLobby room entity.
+<END>
+
+01020_HOTELLOUNGE_ROOM_ENTITY
+<BEGIN>
+HotelLounge room entity.
+<END>
+
+01021_FREEZER_ROOM_ENTITY
+<BEGIN>
+Freezer room entity.
+<END>
+
+01100_JUNGLE_MINED_ROOM_ENTITY
+<BEGIN>
+Jungle Mined Room Entity.
+<END>
+
+01101_JUNGLE_UNMINED_ROOM_ENTITY
+<BEGIN>
+Jungle Unmined Room Entity.
+<END>
+
+01102_OCEAN
+<BEGIN>
+Ocean.
+<END>
+
+01103_UNMINEDDIRT
+<BEGIN>
+Unmined Dirt.
+<END>
+
+01104_ROCK
+<BEGIN>
+Rock - you can't build here.
+<END>
+
+01105_CAVE_LAGOON_WALLS
+<BEGIN>
+Cave Lagoon Walls.
+<END>
+
+01106_HANGAR_EMPTY_SPACE
+<BEGIN>
+Hangar Empty Space.
+<END>
+
+01107_UNMINEDHOTEL
+<BEGIN>
+Unmined Hotel.
+<END>
+
+01108_ROCKET_CAVE_WALLS
+<BEGIN>
+Rocket Cave Walls.
+<END>
+
+01109_DESERT_UNMINED_ROOM_ENTITY
+<BEGIN>
+Desert Unmined Room Entity.
+<END>
+
+01110_DESERT_MINED_ROOM_ENTITY
+<BEGIN>
+Desert Mined Room Entity.
+<END>
+
+01111_HANGAR_SOLID_SPACE
+<BEGIN>
+Hangar Solid Space.
+<END>
+
+01400_AN_ORDER_TO_BUILD_THE_ROOM_NOW_DAMMIT
+<BEGIN>
+An order to build the room now dammit.
+<END>
+
+01401_ALERT_RADIUS
+<BEGIN>
+Alert Radius.
+<END>
+
+01402_LOOK_AWAY_YOU_SHOULDN_T_BE_READING_THIS_IN_GAME
+<BEGIN>
+Look away! You shouldn't be reading this in-game!
+<END>
+
+01410_RESEARCH_CATEGORY_TRAP
+<BEGIN>
+You can't read this.
+<END>
+
+01411_RESEARCH_CATEGORY_RESEARCH
+<BEGIN>
+You can't read this.
+<END>
+
+01412_RESEARCH_CATEGORY_UTILITY
+<BEGIN>
+You can't read this.
+<END>
+
+01413_RESEARCH_CATEGORY_MINIONCARE
+<BEGIN>
+You can't read this.
+<END>
+
+01414_RESEARCH_CATEGORY_SECURITY
+<BEGIN>
+You can't read this.
+<END>
+
+01415_RESEARCH_CATEGORY_UPGRADES
+<BEGIN>
+You can't read this.
+<END>
+
+01416_RESEARCH_FURNITURE_PLACEHOLDER
+<BEGIN>
+You can't read this.
+<END>
+
+01450_GAMESUBSYSTEM_RESEARCH
+<BEGIN>
+Research capability.
+<END>
+
+01451_GAMESUBSYSTEM_WORLDMAP
+<BEGIN>
+World Domination capability.
+<END>
+
+01500_A_GROUP_OF_AGENTS
+<BEGIN>
+A group of Agents.
+<END>
+
+01501_A_GROUP_OF_AGENTS
+<BEGIN>
+A group of Agents.
+<END>
+
+01502_A_GROUP_OF_CONSPIRATORS_UNDER_PLAYER_CONTROL
+<BEGIN>
+A group of Conspirators under player control.
+<END>
+
+01503_A_GROUP_OF_CONSPIRATORS_EXPLORING
+<BEGIN>
+A group of Conspirators exploring.
+<END>
+
+01504_A_GROUP_OF_CONSPIRATORS_AIMLESSLY_WANDERING
+<BEGIN>
+A group of Conspirators aimlessly wandering.
+<END>
+
+01505_A_GROUP_OF_CONSPIRATORS_WITH_A_PURPOSE
+<BEGIN>
+A group of Conspirators with a purpose.
+<END>
+
+01506_A_GROUP_OF_CONSPIRATORS_WITH_A_PURPOSE
+<BEGIN>
+A group of Conspirators with a purpose.
+<END>
+
+01507_A_GROUP_OF_CONSPIRATORS_WITH_A_PURPOSE
+<BEGIN>
+A group of Conspirators with a purpose.
+<END>
+
+01508_GROUP_OF_AGENTS
+<BEGIN>
+A group of Agents.
+<END>
+
+01550_P_A_T_R_I_O_T
+<BEGIN>
+P.A.T.R.I.O.T.
+<END>
+
+01551_S_A_B_R_E
+<BEGIN>
+S.A.B.R.E.
+<END>
+
+01552_H_A_M_M_E_R
+<BEGIN>
+H.A.M.M.E.R.
+<END>
+
+01553_A_N_V_I_L
+<BEGIN>
+A.N.V.I.L.
+<END>
+
+01554_S_M_A_S_H
+<BEGIN>
+S.M.A.S.H.
+<END>
+
+01600_A_NASTY_SWARM_OF_ATTENTION_DRAINING_BEES
+<BEGIN>
+A Nasty swarm of Attention draining Bees.
+<END>
+
+01601_BEES_THAT_CAN_REDUCE_YOUR_SMARTS
+<BEGIN>
+Bees that can reduce your Smarts.
+<END>
+
+01602_LOYALTY_LOWERING_BEES
+<BEGIN>
+Loyalty lowering bees.
+<END>
+
+01603_ENDURANCE_ATTACKING_BEES
+<BEGIN>
+Endurance attacking bees.
+<END>
+
+01604_BEES_THAT_ARE_BAD_FOR_YOUR_HEALTH
+<BEGIN>
+Bees that are bad for your health.
+<END>
+
+02000_A_COLLAPSING_PILLAR
+<BEGIN>
+A collapsing pillar.
+<END>
+
+02001_MINING_BLAST_FLASH
+<BEGIN>
+Mining Blast Flash.
+<END>
+
+02002_MINING_BLAST_RUBBLE_A
+<BEGIN>
+Mining Blast Rubble (A).
+<END>
+
+02003_MINING_BLAST_RUBBLE_B
+<BEGIN>
+Mining Blast Rubble (B).
+<END>
+
+02004_MINING_BLAST_RUBBLE_C
+<BEGIN>
+Mining Blast Rubble (C).
+<END>
+
+02005_MONKEY_POUND_DUST_WAVE
+<BEGIN>
+Monkey Pound Dust Wave.
+<END>
+
+02006_MONKEY_POUND_DUST_PARTICLES
+<BEGIN>
+Monkey Pound Dust Particles
+<END>
+
+02100_AN_ESCAPE_HOLE_FOR_OUTSIDE
+<BEGIN>
+An escape hole for outside
+<END>
+
+02101_AN_ESCAPE_HOLE_FOR_INSIDE
+<BEGIN>
+An escape hole for inside
+<END>
+
+02102_AN_ESCAPE_HOLE_FOR_INSIDE
+<BEGIN>
+An escape hole for inside
+<END>
+
+02103_CIRCUIT_PANEL
+<BEGIN>
+Circuit Panel
+<END>
+
+02200_PINK_ELEPHANT_A
+<BEGIN>
+A Flying Pink Elephant
+<END>
+
+10000_A_CRATE_FULL_OF_DYNAMITE_HANDLE_CAREFULLY
+<BEGIN>
+A crate full of dynamite - handle carefully
+<END>
+
+10001_A_BRIEFCASE_FULL_OF_MONEY
+<BEGIN>
+A briefcase full of money
+<END>
+
+10002_A_CRATE_CONTAINING_MATERIALS_USED_TO_BUILD_AN_OBJECT
+<BEGIN>
+A crate containing materials used to build an object
+<END>
+
+10003_AN_OBJECT_PACKED_UP_TO_BE_MOVED_TO_A_NEW_LOCATION
+<BEGIN>
+An object packed up to be moved to a new location
+<END>
+
+10004_A_REMOTE_DETONATOR_DEVICE
+<BEGIN>
+A remote detonator device.
+<END>
+
+10005_A_CAMERA
+<BEGIN>
+A Camera.
+<END>
+
+10006_A_SODA_BOTTLE
+<BEGIN>
+A Soda Bottle.
+<END>
+
+10007_A_CHEF_S_HAT
+<BEGIN>
+A chef's hat.
+<END>
+
+10008_A_CONSTRUCTION_WORKER_S_HARD_HAT
+<BEGIN>
+A construction worker's hard hat.
+<END>
+
+10009_A_DRILL_INSTRUCTOR_S_HAT
+<BEGIN>
+A drill instructor's hat.
+<END>
+
+10010_A_MARKSMAN_S_HAT
+<BEGIN>
+A marksman's hat.
+<END>
+
+10011_A_REMOTE
+<BEGIN>
+A Remote.
+<END>
+
+10012_A_TABLE_TENNIS_PADDLE
+<BEGIN>
+A table tennis paddle.
+<END>
+
+10013_A_CODEBREAKER
+<BEGIN>
+A codebreaker.
+<END>
+
+10014_A_SPATULA_FOR_FLIPPING_BURGERS
+<BEGIN>
+A spatula for flipping burgers.
+<END>
+
+10015_A_BIG_SPOON_FOR_STIRRING_SOUP
+<BEGIN>
+A big spoon for stirring soup.
+<END>
+
+10016_A_SURGEON_S_HAT
+<BEGIN>
+A Surgeon's hat.
+<END>
+
+10017_A_BIG_SYRINGE_OUCH
+<BEGIN>
+A big syringe - ouch!
+<END>
+
+10018_ELECTRIC_PADDLES_FOR_SHOCKING_MINIONS
+<BEGIN>
+Electric paddles for shocking minions.
+<END>
+
+10019_A_BOOK_INNIT
+<BEGIN>
+A Book, innit?
+<END>
+
+10020_A_GUARD_S_SOFT_HELMET
+<BEGIN>
+A guard's soft helmet.
+<END>
+
+10021_A_SCIENCE_TEACHER_S_PIECE
+<BEGIN>
+A Science Teacher's piece.
+<END>
+
+10022_A_CONTROL_ROOM_HAT
+<BEGIN>
+A Control Room hat.
+<END>
+
+10023_A_SOCIAL_CLASSROOM_HAT
+<BEGIN>
+A Social Classroom hat.
+<END>
+
+10024_AN_ARCHIVE_HAT
+<BEGIN>
+An Archive hat.
+<END>
+
+10025_A_SOCIAL_TRAINING_HAT
+<BEGIN>
+A Social Training hat.
+<END>
+
+10026_A_VALET_S_HAT
+<BEGIN>
+A Valet's hat.
+<END>
+
+10027_AN_INFIRMARY_TECHNICIAN_S_HAT
+<BEGIN>
+An Infirmary Technician's hat.
+<END>
+
+10028_A_SURGEON_S_HAT
+<BEGIN>
+A Surgeon's hat.
+<END>
+
+10029_A_LIST_OF_RESEARCH_TASKS
+<BEGIN>
+A List of research tasks.
+<END>
+
+10030_A_GRAPPLING_HOOK_LAUNCHER
+<BEGIN>
+A grappling hook launcher.
+<END>
+
+10031_A_DEPLOYED_GRAPPLING_HOOK
+<BEGIN>
+A deployed grappling hook.
+<END>
+
+10032_A_GOLD_BAR
+<BEGIN>
+A gold bar.
+<END>
+
+10033_GRIMALDI_S_CROWN_JEWELS
+<BEGIN>
+Grimaldi's Crown Jewels!
+<END>
+
+10034_THIS_IS_GOOD_FOR_PUTTING_OUT_FIRES
+<BEGIN>
+This is good for putting out fires.
+<END>
+
+10035_A_TOOLBOX_NOT_BIG_ENOUGH_FOR_POWER_TOOLS_BUT_GOOD_FOR_SPANNERS
+<BEGIN>
+A toolbox, not big enough for power tools, but good for spanners.
+<END>
+
+10036_A_PARACHUTE
+<BEGIN>
+A parachute.
+<END>
+
+10037_THIS_IS_A_DR_WHO_SCARF_IN_PROGRESS
+<BEGIN>
+This is a Dr Who scarf in progress.
+<END>
+
+10038_A_BODY_BAG
+<BEGIN>
+A Body Bag.
+<END>
+
+10039_AN_ELEGANT_WAY_TO_KEEP_YOUR_CIGGYS
+<BEGIN>
+An elegant way to keep your ciggys.
+<END>
+
+10040_A_FLAT_PACKED_CRATE_FROM_ACME_USING_THE_INFLATABLE_POLYGON_ENGINE
+<BEGIN>
+A flat-packed crate from ACME, using the Inflatable Polygon Engine.
+<END>
+
+10041_A_BIOCHEMIST_S_GOLDFISH_BOWL
+<BEGIN>
+A Biochemist's Goldfish Bowl.
+<END>
+
+10042_CARD_FOR_GAMBLING
+<BEGIN>
+Card for Gambling.
+<END>
+
+10043_A_LOVELY_BOTTLE_OF_MERLOT
+<BEGIN>
+A lovely bottle of Merlot.
+<END>
+
+10044_A_COCKTAIL_SHAKER
+<BEGIN>
+A cocktail shaker.
+<END>
+
+10045_A_TRAY
+<BEGIN>
+A tray.
+<END>
+
+10046_A_BOTTLE_OF_LAPHROIG
+<BEGIN>
+A bottle of Laphroig.
+<END>
+
+10047_A_CHILLED_BOTTLE_OF_CHAMPERS
+<BEGIN>
+A chilled bottle of vintage Champagne.
+<END>
+
+10048_GREAT_MOGUL_DIAMOND
+<BEGIN>
+Great Mogul Diamond.
+<END>
+
+10049_THE_COSMOS_60_CARRIES_A_16_CHANNEL_NAI_TL_SCINTILLATOR_40_X_40_MM_IN_SIZE_IT_IS_SURROUNDED_IN_A_CHARGED_PARTICLE_REJECTION_SCINTILLATOR_THE_SPACECRAFT_WEIGHS_1600_KG_AND_THE_DETECTOR_IS_SENSITIVE_TO_0_5_2_0_MEV_PHOTONS
+<BEGIN>
+The Cosmos 60 carries a 16-channel NaI(Tl) scintillator 40 x 40 mm in size. It is surrounded in a charged particle rejection scintillator. The spacecraft weighs 1600 kg and the detector is sensitive to 0.5-2.0 MeV photons.
+<END>
+
+10050_A_PORTABLE_MINING_LASER
+<BEGIN>
+A portable mining laser.
+<END>
+
+10051_A_JETPACK
+<BEGIN>
+A Jetpack.
+<END>
+
+10052_A_DRAMATIC_REPRESENTATION_OF_A_WARRIOR_SPIRIT_THIS_AMULET_OR_PENDANT_IS_ADORNED_WITH_THE_IMAGE_OF_TONIATU_OR_TONIATUH_THE_AZTEC_GOD_OF_THE_SUN_AND_WAR
+<BEGIN>
+A dramatic representation of a warrior spirit, this amulet or pendant is adorned with the image of Toniatu or Toniatuh, the Aztec god of the Sun and War.
+<END>
+
+10053_A_BAG_FOR_LOOT
+<BEGIN>
+A bag for Loot.
+<END>
+
+10054_GIVE_THIS_TO_ANY_MINIONS_VENTURING_INTO_SPACE_TO_STOP_THEM_EXPLODING_LIKE_BALLOONS_IN_THE_COLD_VACUUM_OF_SPACE
+<BEGIN>
+Give this to any minions venturing into space to stop them exploding like balloons in the cold vacuum of space.
+<END>
+
+10055_DETAILED_CONSTRUCTION_BLUEPRINTS_FOR_BUILDING_A_SPACE_ROCKET
+<BEGIN>
+Detailed construction blueprints for building a space rocket!
+<END>
+
+10056_SUPERSPLURGER_MUD_GUN
+<BEGIN>
+SuperSplurger Mud Gun.
+<END>
+
+10057_A_CAMERA_OFTEN_SEEN_AROUND_TOURISTS_NECKS
+<BEGIN>
+A Camera often seen around tourists necks.
+<END>
+
+10058_A_MICROPHONE_USED_FOR_SPEAKING_INTO
+<BEGIN>
+A microphone, used for speaking into.
+<END>
+
+10059_MONEY_USED_TO_BUY_THINGS_NICE_THINGS
+<BEGIN>
+Money. Used to buy things. Nice things.
+<END>
+
+10060_THE_HEART_OF_MAN
+<BEGIN>
+The Heart of Man.
+<END>
+
+10061_A_NICE_MELLOW_SMOKE
+<BEGIN>
+A nice mellow smoke.
+<END>
+
+10062_A_SHOVEL_FOR_DIGGING_HOLES
+<BEGIN>
+A shovel for digging holes.
+<END>
+
+10063_A_BEAKER
+<BEGIN>
+A beaker.
+<END>
+
+10064_ANOTHER_BEAKER
+<BEGIN>
+Another beaker.
+<END>
+
+10065_ANOTHER_BEAKER
+<BEGIN>
+Another beaker.
+<END>
+
+10066_RULE_OF_THE_SLIDE
+<BEGIN>
+Rule of the Slide.
+<END>
+
+10067_A_JET_BACKPACK_USED_BY_AGENTS
+<BEGIN>
+A jet backpack used by agents.
+<END>
+
+10068_BADDA_BOOM_BADDA_BOOM
+<BEGIN>
+Badda boom badda boom.
+<END>
+
+10069_A_BODY_BAG
+<BEGIN>
+A Body Bag.
+<END>
+
+10070_A_BODY_BAG
+<BEGIN>
+A Body Bag.
+<END>
+
+10071_A_BODY_BAG
+<BEGIN>
+A Body Bag.
+<END>
+
+10072_A_BODY_BAG
+<BEGIN>
+A Body Bag.
+<END>
+
+10073_A_BODY_BAG
+<BEGIN>
+A Body Bag.
+<END>
+
+10074_ARTHUR_S_SWORD_EXCALIBUR
+<BEGIN>
+Arthur's sword, Excalibur.
+<END>
+
+10075_THE_SHRINK_RAYED_EIFFEL_TOWER
+<BEGIN>
+The shrink-rayed Eiffel Tower.
+<END>
+
+10076_A_MILLION_DOLLAR_BILL
+<BEGIN>
+A million dollar bill.
+<END>
+
+10077_A_SUIT_OF_SAMURAI_ARMOUR
+<BEGIN>
+A suit of samurai armor.
+<END>
+
+10078_A_MUMMY_S_SARCOPHAGUS
+<BEGIN>
+A mummy's sarcophagus.
+<END>
+
+10079_A_RELIC_BEARING_ARK
+<BEGIN>
+A relic bearing ark.
+<END>
+
+10080_TRAP_MONKEY_INTERFACE
+<BEGIN>
+Trap/monkey interface.
+<END>
+
+10081_A_GUN
+<BEGIN>
+A Gun.
+<END>
+
+10082_CODEX_OF_KNOWLEDGE
+<BEGIN>
+Codex of Knowledge.
+<END>
+
+10083_A_CLIPBOARD
+<BEGIN>
+A clipboard.
+<END>
+
+10084_A_RESOURCE_CONTAINER
+<BEGIN>
+A crate full of toxic chemicals.
+<END>
+
+10085_THE_RESTORED_TOTEM_POLE
+<BEGIN>
+The restored totem pole.
+<END>
+
+10086_A_SECTION_OF_THE_CURSED_TOTEM_POLE
+<BEGIN>
+A section of the cursed totem pole.
+<END>
+
+10087_A_SECTION_OF_THE_CURSED_TOTEM_POLE
+<BEGIN>
+A section of the cursed totem pole.
+<END>
+
+10088_A_SECTION_OF_THE_CURSED_TOTEM_POLE
+<BEGIN>
+A section of the cursed totem pole.
+<END>
+
+10089_A_SECTION_OF_THE_CURSED_TOTEM_POLE
+<BEGIN>
+A section of the cursed totem pole.
+<END>
+
+10090_A_SWEATY_TOWEL
+<BEGIN>
+A sweaty towel.
+<END>
+
+10091_AN_AMERICAN_HIGH_TECH_LOOT_ITEM
+<BEGIN>
+An American high tech loot item.
+<END>
+
+10092_A_EUROPEAN_HIGH_TECH_LOOT_ITEM
+<BEGIN>
+A European high tech loot item.
+<END>
+
+10093_A_CHINESE_HIGH_TECH_LOOT_ITEM
+<BEGIN>
+A Chinese high tech loot item.
+<END>
+
+10094_MR_SNUGGLES
+<BEGIN>
+Mr Snuggles.
+<END>
+
+10095_A_GHETTOBLASTER
+<BEGIN>
+A Ghetto Blaster!
+<END>
+
+10096_US_BACKPACK
+<BEGIN>
+A bag for Loot for an American agent.
+<END>
+
+10097_EUROPE_BACKPACK
+<BEGIN>
+A bag for Loot for an European agent.
+<END>
+
+10098_CHINA_BACKPACK
+<BEGIN>
+A bag for Loot for a Chinese agent.
+<END>
+
+10099_RUSSIA_BACKPACK
+<BEGIN>
+A bag for Loot for a Russian agent.
+<END>
+
+10100_NON_ALIGNED_BACKPACK
+<BEGIN>
+A bag for Loot for a non aligned agent.
+<END>
+
+10101_A_KNIFE
+<BEGIN>
+A knife.
+<END>
+
+10102_MERCURY_MIRROR
+<BEGIN>
+A highly reflective, cutting edge mercury mirror.
+<END>
+
+10103_PETE_BOG
+<BEGIN>
+An early hominid, perfectly preserved in peat.
+<END>
+
+10104_SONIC_GENERATOR
+<BEGIN>
+A prototype machine that generates concentrated pulses of sound.
+<END>
+
+10105_CHAMELEON_CLOTH
+<BEGIN>
+Now you see it, now you don't! A sample of material that changes to look like the background.
+<END>
+
+10106_ANTIQUE_CANNON
+<BEGIN>
+An ancient but powerul cannon. Used in some battle somewhere.
+<END>
+
+10120_A_PARACHUTE
+<BEGIN>
+P.A.T.R.I.O.T. Parachute.
+<END>
+
+10121_A_PARACHUTE
+<BEGIN>
+A.N.V.I.L. Parachute.
+<END>
+
+10122_A_PARACHUTE
+<BEGIN>
+S.A.B.R.E. Parachute.
+<END>
+
+10123_A_PARACHUTE
+<BEGIN>
+S.M.A.S.H. Parachute.
+<END>
+
+10124_A_PARACHUTE
+<BEGIN>
+H.A.M.M.E.R. Parachute.
+<END>
+
+10125_ROMAN_GALLEY
+<BEGIN>
+A stolen Roman Galley model.
+<END>
+
+10126_THRONE_LOOT
+<BEGIN>
+A stolen throne.
+<END>
+
+10127_PERSIAN_RUG
+<BEGIN>
+A stolen Persian Rug.
+<END>
+
+10128_A_KITE
+<BEGIN>
+A Kite.
+<END>
+
+10129_A_KITE
+<BEGIN>
+A Kite.
+<END>
+
+10130_A_GLIDER
+<BEGIN>
+A Glider.
+<END>
+10131_A_GLIDER
+<BEGIN>
+A Glider.
+<END>
+10132_A_GLIDER
+<BEGIN>
+A Glider.
+<END>
+10133_A_GLIDER
+<BEGIN>
+A Glider.
+<END>
+10134_A_GLIDER
+<BEGIN>
+A Glider.
+<END>
+
+10135_A_CHARIOT
+<BEGIN>
+A Chariot.
+<END>
+
+10136_A_WOMANS_COMPACT
+<BEGIN>
+A woman's compact.
+<END>
+
+10137_A_PERFUME_BOTTLE
+<BEGIN>
+A Perfume Bottle.
+<END>
+
+10138_KNIVES_PAIR
+<BEGIN>
+A Pair of knives.
+<END>
+
+10139_BRIEFCASE
+<BEGIN>
+A Briefcase.
+<END>
+
+10140_KNIVES_JUGGLING
+<BEGIN>
+Juggling Knives
+<END>
+
+10141_DAGGER
+<BEGIN>
+Dagger
+<END>
+
+10142_CIGGY
+<BEGIN>
+Alexis Ciggy
+<END>
+
+10143_MONKEY
+<BEGIN>
+Monkey
+<END>
+
+10144_MANTRAP
+<BEGIN>
+Mantrap
+<END>
+
+10145_MONKEY
+<BEGIN>
+Monkey
+<END>
+
+10146_AN_ARCHIVE_HAT
+<BEGIN>
+An Archive Hat
+<END>
+
+10147_A_CHEF_S_HAT
+<BEGIN>
+A Chef's Hat
+<END>
+
+10148_A_CHEF_S_HAT
+<BEGIN>
+A Chef's Hat
+<END>
+
+10149_A_CONTROL_ROOM_HAT
+<BEGIN>
+A Control Room Hat
+<END>
+
+10150_A_CONTROL_ROOM_HAT
+<BEGIN>
+A Control Room Hat
+<END>
+
+10151_A_SCIENCE_TEACHER_HAT
+<BEGIN>
+Science Teacher Hat
+<END>
+
+10152_A_SURGEON_S_HAT
+<BEGIN>
+A Surgeon's Hat
+<END>
+
+10153_A_SURGEON_S_HAT
+<BEGIN>
+A Surgeon's Hat
+<END>
+
+10154_DUMMY_RESEARCHCARD
+<BEGIN>
+Dummy research Card
+<END>
+
+10155_ICEBUCKET
+<BEGIN>
+Ice Bucket
+<END>
+
+10156_MONKEYCYMBALS
+<BEGIN>
+Cymbals
+<END>
+
+12006_A_DEPOT
+<BEGIN>
+A Depot.
+<END>
+
+12007_THE_WAY_IN_FOR_AGENTS
+<BEGIN>
+Helipad.
+<END>
+
+12008_A_BASIC_SECURITY_DOOR
+<BEGIN>
+A basic security door.
+<END>
+
+12010_JUNGLE_EXTERIOR_DOOR_DIRT_PLUG
+<BEGIN>
+Jungle Exterior Door Dirt Plug.
+<END>
+
+12011_AN_ENTRANCE_TO_YOUR_JUNGLE_BASE
+<BEGIN>
+An entrance to your secret base.
+<END>
+
+12012_BEACH_LANDING_POINT
+<BEGIN>
+Beach landing point.
+<END>
+
+12013_THE_WAY_IN_FOR_AGENTS
+<BEGIN>
+Grassy Helipad.
+<END>
+
+12014_A_HEAVY_SECURITY_DOOR
+<BEGIN>
+A heavy security door
+<END>
+
+12017_A_NATIVE_S_HUT
+<BEGIN>
+A native's hut.
+<END>
+
+12018_CAMOUFLAGED_DOOR_DISGUISED_AS_A_JUNGLE_HUT
+<BEGIN>
+Camouflaged door, disguised as a jungle hut.
+<END>
+
+12019_A_RUSTIC_OUTDOOR_LIGHT
+<BEGIN>
+A rustic outdoor light.
+<END>
+
+12020_A_BIG_JUNGLE_BONFIRE
+<BEGIN>
+A big jungle bonfire.
+<END>
+
+12021_PARACHUTE_LANDING_POINT
+<BEGIN>
+Parachute landing point.
+<END>
+
+12022_DEPOTCOMBO_SPAWN_POINT
+<BEGIN>
+DepotCombo Spawn point.
+<END>
+
+12023_THE_JUNGLE_DOCK_DEPOT
+<BEGIN>
+The Jungle Dock Depot.
+<END>
+
+12024_THE_JUNGLE_PORT_DEPOT
+<BEGIN>
+The Jungle Port/Depot.
+<END>
+
+12025_A_BASIC_DOOR_FOR_THE_HOTEL
+<BEGIN>
+A basic door for the hotel.
+<END>
+
+12028_HOTEL_ROOM_TO_GET_CHANGED_OR_SLEEP_IN
+<BEGIN>
+Hotel Room to get changed or sleep in.
+<END>
+
+12029_HIGH_SECURITY_DOOR_WITH_FIELD_BARRIER
+<BEGIN>
+High security door with field barrier.
+<END>
+
+12030_A_DESERT_FOUNTAIN
+<BEGIN>
+Quench your thirst here, but watch out for the goldfish.
+<END>
+
+12031_A_DESERT_HOUSE_A
+<BEGIN>
+A desert dwelling.
+<END>
+
+12032_A_DESERT_HOUSE_B
+<BEGIN>
+A desert dwelling.
+<END>
+
+12033_CAMOUFLAGED_DOOR_DISGUISED_AS_A_DESERT_HUT
+<BEGIN>
+Camouflaged door, disguised as a desert hut.
+<END>
+
+12034_EXTERNAL_STRONGROOM_DOOR_3M
+<BEGIN>
+Reinforced door for an external strongroom.
+<END>
+
+12035_A_TERMITE_MOUND
+<BEGIN>
+A termite mound.
+<END>
+
+12036_A_RUSTIC_DESERT_LIGHT
+<BEGIN>
+A rustic desert light.
+<END>
+
+12037_A_CAMEL_SKELETON
+<BEGIN>
+The distressing remains of a once noble camel.
+<END>
+
+12038_A_JETPACK_SPAWN
+<BEGIN>
+A Jetpack Spawn.
+<END>
+12039_A_KITE_SPAWN
+<BEGIN>
+A Kite Spawn.
+<END>
+12040_A_GLIDER_SPAWN
+<BEGIN>
+A HangGlider Spawn.
+<END>
+12041_A_CHARIOT_SPAWN
+<BEGIN>
+A Flying Chariot Spawn.
+<END>
+
+
+13000_A_CHAIR
+<BEGIN>
+A chair.
+<END>
+
+13001_A_PATHOLOGY_TABLE
+<BEGIN>
+A Pathology Table.
+<END>
+
+13002_A_BUNKBED
+<BEGIN>
+A Bunk bed.
+<END>
+
+13003_A_DRINKS_MACHINE
+<BEGIN>
+A drinks machine.
+<END>
+
+13004_A_COUCH
+<BEGIN>
+A couch.
+<END>
+
+13005_A_CONTROL_PANEL
+<BEGIN>
+A control panel.
+<END>
+
+13006_A_TIME_CLOCK
+<BEGIN>
+A time clock.
+<END>
+
+13007_A_STACK_OF_GOLD
+<BEGIN>
+A stack of gold.
+<END>
+
+13008_A_MEMORY_BANK
+<BEGIN>
+A memory bank.
+<END>
+
+13009_A_SHELF_FOR_STORING_BRIEFCASES
+<BEGIN>
+A rack for storing briefcases.
+<END>
+
+13010_A_CABINET_MADE_TO_HOLD_RIFLES
+<BEGIN>
+A cabinet, made to hold rifles.
+<END>
+
+13011_KITCHEN_COUNTER
+<BEGIN>
+Kitchen counter.
+<END>
+
+13012_LABORATORY_RESEARCH_MACHINE
+<BEGIN>
+Laboratory Research Machine.
+<END>
+
+13016_A_STALL_FOR_THE_SHOOTING_RANGE
+<BEGIN>
+A stall for the shooting range.
+<END>
+
+13017_TABLE_TENNIS_TABLE
+<BEGIN>
+A table tennis table.
+<END>
+
+13018_A_SUSPICIOUS_LOOKING_BOOKCASE
+<BEGIN>
+A Suspicious-looking set of bookcases.
+<END>
+
+13019_A_READING_TABLE
+<BEGIN>
+A reading table.
+<END>
+
+13020_A_LOCKER
+<BEGIN>
+A locker.
+<END>
+
+13021_INFIRMARY_WORKTOP
+<BEGIN>
+Infirmary Worktop.
+<END>
+
+13022_AN_X_RAY_MACHINE
+<BEGIN>
+An X-Ray machine.
+<END>
+
+13023_A_LABORATORY_DESK
+<BEGIN>
+A laboratory desk.
+<END>
+
+13024_A_MOUSE_MAZE
+<BEGIN>
+A mouse maze.
+<END>
+
+13025_A_WORKTOP_FOR_TRAINING_TECHNICIANS
+<BEGIN>
+A Worktop for training technicians.
+<END>
+
+13026_PINBALL_MACHINE
+<BEGIN>
+Pinball machine.
+<END>
+
+13027_INFIRMARY_CHAIR
+<BEGIN>
+Examination Chair.
+<END>
+
+13028_MICROFILM_TABLE
+<BEGIN>
+Microfilm Table.
+<END>
+
+13029_CONTROL_ROOM_INFORMATION_SCREEN
+<BEGIN>
+Control room information screen.
+<END>
+
+13030_CHALKBOARD
+<BEGIN>
+Chalkboard.
+<END>
+
+13031_A_SECURITY_CAMERA
+<BEGIN>
+A security camera.
+<END>
+
+13032_A_HOLDING_CELL
+<BEGIN>
+A Holding Cell.
+<END>
+
+13033_ARCHIVES_WORKTOP
+<BEGIN>
+Archives Worktop.
+<END>
+
+13034_AN_OVERHEAD_PROJECTOR
+<BEGIN>
+An overhead projector.
+<END>
+
+13035_A_SCHOOL_STUDY_DESK
+<BEGIN>
+A School Study Desk.
+<END>
+
+13036_A_HUGE_CRANE
+<BEGIN>
+A Huge Crane.
+<END>
+
+13037_A_CABINET_MADE_TO_HOLD_HANDGUNS
+<BEGIN>
+A cabinet, made to hold handguns.
+<END>
+
+13038_A_PUNCHBAG
+<BEGIN>
+A Training Punchbag.
+<END>
+
+13039_A_GENERATOR
+<BEGIN>
+A power generator.
+<END>
+
+13040_AN_INTIMIDATING_DESK
+<BEGIN>
+An impressive desk, suitable for an inner sanctum.
+<END>
+
+13041_A_SCIENCE_CLASSROOM_TIME_CLOCK
+<BEGIN>
+A science classroom time clock.
+<END>
+
+13042_A_MILITARY_CLASSROOM_TIME_CLOCK
+<BEGIN>
+A military classroom time clock.
+<END>
+
+13043_A_LABORATORY_TIME_CLOCK
+<BEGIN>
+A laboratory time clock.
+<END>
+
+13044_A_SOCIAL_CLASSROOM_TIME_CLOCK
+<BEGIN>
+A social classroom time clock.
+<END>
+
+13045_A_GIANT_LASER_FOR_RESEARCH
+<BEGIN>
+A giant laser for research.
+<END>
+
+13046_A_SECURITY_DESK
+<BEGIN>
+A security desk.
+<END>
+
+13048_KITCHEN_COUNTER_WITH_BIG_MIXER_BOWL
+<BEGIN>
+Kitchen counter with big mixer bowl.
+<END>
+
+13049_A_BEAUTIFUL_STATUE
+<BEGIN>
+A beautiful statue.
+<END>
+
+13050_A_LOCKER_CONTAINING_A_FIRE_EXTINGUISHER_FOR_PUTTING_OUT_FIRES
+<BEGIN>
+A locker containing a fire extinguisher for putting out fires.
+<END>
+
+13051_A_SINISTER_CONFERENCE_TABLE
+<BEGIN>
+A sinister conference table.
+<END>
+
+13052_A_BEAUTIFUL_BABYLONIAN_VASE
+<BEGIN>
+A beautiful Babylonian vase.
+<END>
+
+13053_A_BEAUTIFUL_GRECIAN_URN
+<BEGIN>
+A beautiful Grecian urn.
+<END>
+
+13054_A_BEAUTIFUL_ETRUSCAN_VASE
+<BEGIN>
+A beautiful Etruscan vase.
+<END>
+
+13055_A_LOVELY_PAINTING
+<BEGIN>
+A lovely painting.
+<END>
+
+13056_A_MARVELLOUS_MASTERPIECE
+<BEGIN>
+A marvellous masterpiece.
+<END>
+
+13057_A_LOVELY_CHAIR
+<BEGIN>
+A lovely chair.
+<END>
+
+13058_AN_EVIL_ATRIUM
+<BEGIN>
+An evil Atrium, for soothing one's evil nerves.
+<END>
+
+13059_AN_EVIL_CABINET
+<BEGIN>
+An Evil Cabinet.
+<END>
+
+13060_A_ROULETTE_TABLE
+<BEGIN>
+A Roulette table.
+<END>
+
+13061_A_BACCARAT_TABLE
+<BEGIN>
+A Baccarat table.
+<END>
+
+13062_A_CRAPS_TABLE
+<BEGIN>
+A craps table.
+<END>
+
+13063_A_GRAND_PIANO
+<BEGIN>
+A grand piano.
+<END>
+
+13064_THE_LOBBY_COUNTER
+<BEGIN>
+The lobby counter.
+<END>
+
+13065_THE_HOTEL_BENCH
+<BEGIN>
+The hotel bench.
+<END>
+
+13066_THE_TIKI_BAR_WHERE_TOURISTS_GET_DRUNK_AND_DISORDERLY
+<BEGIN>
+The tiki bar where tourists get drunk and disorderly.
+<END>
+
+13067_A_DANCE_FLOOR_WHERE_TOURISTS_STRUT_THEIR_FUNKY_STUFF
+<BEGIN>
+A dance floor where tourists strut their funky stuff.
+<END>
+
+13068_A_TABLE_IN_THE_LOUNGE
+<BEGIN>
+A table in the lounge.
+<END>
+
+13069_A_BACKUP_TO_THE_BASE_POWERSUPPLY
+<BEGIN>
+A backup to the base powersupply.
+<END>
+
+13070_A_CASINO_TIME_CLOCK
+<BEGIN>
+A hotel time clock.
+<END>
+
+13071_A_LOUNGE_TIME_CLOCK
+<BEGIN>
+A lounge time clock.
+<END>
+
+13072_A_HEAVY_STALL_FOR_THE_SHOOTING_RANGE
+<BEGIN>
+A heavy stall for the shooting range.
+<END>
+
+13073_LABORATORY_BIOTANK
+<BEGIN>
+Chemical tanks for dangerous biological experiments.
+<END>
+
+13074_A_CABINET_MADE_TO_HOLD_HEAVY_MACHINEGUNS
+<BEGIN>
+A cabinet, made to hold heavy machineguns.
+<END>
+
+13075_AN_EVIL_TV_STUDIO
+<BEGIN>
+A dummy TV studio for training spindoctors.
+<END>
+
+13076_A_CAMOUFLAGED_SECURITY_CAMERA
+<BEGIN>
+A camouflaged security camera.
+<END>
+
+13077_THE_RESEARCH_DATA_BANK
+<BEGIN>
+The Databank, to hold valuable experimental data.
+<END>
+
+13078_MARTIAL_ARTS_TRAINING_EQUIPMENT
+<BEGIN>
+Martial arts training equipment.
+<END>
+
+13079_TANNOY_SPEAKERS_FOR_SECURITY_ANNOUNCEMENTS
+<BEGIN>
+Loudspeaker for security announcements.
+<END>
+
+13080_AN_OUTDOOR_SECURITY_CAMERA
+<BEGIN>
+An outdoor security camera.
+<END>
+
+13081_A_FREEZER_RACK
+<BEGIN>
+A freezer rack.
+<END>
+
+13082_A_LABORATORY_CENTRIFUGE
+<BEGIN>
+A laboratory centrifuge.
+<END>
+
+13083_A_CHAIR_USED_TO_INTERROGATE_AGENTS
+<BEGIN>
+A chair used to interrogate agents.
+<END>
+
+13084_A_FAKE_RESEARCH_MACHINE
+<BEGIN>
+A fake Research Machine.
+<END>
+
+13085_AN_PROJECTOR_USED_FOR_TRAINING_SOCIAL_MINIONS
+<BEGIN>
+A projector used for training social minions.
+<END>
+
+13086_AN_EGG_CHAIR
+<BEGIN>
+A chair shaped like an egg.
+<END>
+
+13087_MESSHALL_AUTOMAT
+<BEGIN>
+An automatic food serving machine.
+<END>
+
+13088_PLAYBOY_TRAINING_EQUIPMENT
+<BEGIN>
+Playboy training equipment.
+<END>
+
+13089_AN_ELECTRON_MICROSCOPE_USED_FOR_TRAINING_QUANTUM_PHYSICISTS
+<BEGIN>
+An electron microscope used for training quantum physicists.
+<END>
+
+13090_A_MACHINE_USED_FOR_KEEPING_WATCH_ON_THE_STOCKMARKET
+<BEGIN>
+A machine used for keeping watch on the stockmarket.
+<END>
+
+13091_A_CELL_FOR_PARTICULARLY_TROUBLESOME_AGENTS
+<BEGIN>
+A cell for particularly troublesome agents.
+<END>
+
+13092_RADIO_TANNOY_SPEAKERS_FOR_SECURITY_ANNOUNCEMENTS
+<BEGIN>
+Radio Loudspeaker for security announcements.
+<END>
+
+13093_A_SENTRY_GUN
+<BEGIN>
+A sentry gun.
+<END>
+
+13094_A_DISGUISED_SENTRY_GUN
+<BEGIN>
+A disguised sentry gun.
+<END>
+
+13095_A_DISGUISED_HOLDING_CELL
+<BEGIN>
+A disguised holding cell.
+<END>
+
+13096_A_HEAVY_DUTY_TANNOY
+<BEGIN>
+A Heavy Duty Loudspeaker for security announcements.
+<END>
+
+13097_A_TANNOY_TO_CALL_VALETS
+<BEGIN>
+A Loudspeaker to call Valets.
+<END>
+
+13098_A_TANNOY_USED_TO_CALL_SPINDOCTORS
+<BEGIN>
+A Loudspeaker used to call spindoctors.
+<END>
+
+13099_A_TANNOY_USED_TO_CALL_DIPLOMATS
+<BEGIN>
+A Loudspeaker used to call diplomats.
+<END>
+
+13100_A_TANNOY_USED_TO_CALL_PLAYBOYS
+<BEGIN>
+A Loudspeaker used to call playboys.
+<END>
+
+13101_A_DISGUISED_WEAPONS_CABINET
+<BEGIN>
+A disguised rifle cabinet.
+<END>
+
+13102_A_MULTI_GYM
+<BEGIN>
+A Multi Gym.
+<END>
+
+13103_A_RACK_WHERE_MINIONS_STORE_EQUIPMENT
+<BEGIN>
+A rack where minions store equipment.
+<END>
+
+13104_A_CRYGENIC_CHAMBER_FOR_THE_MINIONS
+<BEGIN>
+A cryogenic chamber to replenish minions.
+<END>
+
+13105_A_SALAD_BAR_FOR_HEALTHY_MINIONS
+<BEGIN>
+A salad bar for healthy minions.
+<END>
+
+13106_A_RECLINING_CHAIR_FOR_MINIONS_TO_RELAX_IN
+<BEGIN>
+A reclining chair for minions to relax in.
+<END>
+
+13107_A_WIDESCREEN_TV_TO_KEEP_MINIONS_OCCUPIED
+<BEGIN>
+A widescreen TV to keep minions occupied.
+<END>
+
+13108_AN_ARCADE_MACHINE_TO_KEEP_MINIONS_LOYAL
+<BEGIN>
+An arcade machine to keep minions loyal.
+<END>
+
+13109_A_POWERFUL_CONTROL_PANEL
+<BEGIN>
+A powerful control panel.
+<END>
+
+13110_A_POWERFUL_COMMUNICATIONS_TOOL
+<BEGIN>
+A powerful communications interception device.
+<END>
+
+13111_A_MACHINE_USED_FOR_KEEPING_WATCH_ON_THE_ART_WORLD
+<BEGIN>
+A huge database of schematics to help your technicians keep your base working more efficiently.
+<END>
+
+13112_A_MACHINE_USED_FOR_WASHING_BRAINS
+<BEGIN>
+A machine used for washing brains.
+<END>
+
+13113_A_MACHINE_USED_FOR_IMPROVING_MINIONS_MINDS
+<BEGIN>
+A machine used for improving minions minds.
+<END>
+
+13114_A_WAY_OF_EDUCATING_MINIONS_ABOUT_THE_WORLD
+<BEGIN>
+A way of educating minions about the world.
+<END>
+
+13115_A_PHARMACY_BOOTH_TO_SUPPLY_THE_MINIONS_WITH_MEDICINE
+<BEGIN>
+A pharmacy booth to supply the minions with medicine.
+<END>
+
+13116_AN_AUTOMATED_SURGICAL_MACHINE
+<BEGIN>
+An automated surgical machine.
+<END>
+
+13117_A_NUCLEAR_POWERED_POWER_GENERATOR
+<BEGIN>
+A nuclear powered power generator.
+<END>
+
+13118_A_DSGUISED_POWER_GENERATOR
+<BEGIN>
+A disguised power generator.
+<END>
+
+13119_A_CAPACITOR_WITH_EXCEPTIONAL_CAPACITY
+<BEGIN>
+A capacitor with exceptional capacity.
+<END>
+
+13120_A_MACHINE_USED_FOR_TRAINING_DIPLOMATS
+<BEGIN>
+A machine used for training diplomats.
+<END>
+
+13121_A_MACHINE_USED_FOR_ENHANCING_GOLD
+<BEGIN>
+A machine used for enhancing gold.
+<END>
+
+13122_A_SUPER_COMPUTER_FOR_COMPUTING_SUPER_COMPUTATIONS
+<BEGIN>
+A supercomputer, capable of terrifying feats of mathematics.
+<END>
+
+13123_A_MACHINE_FOR_USE_IN_THE_LABORATORY
+<BEGIN>
+A machine for use in the laboratory.
+<END>
+
+13124_A_FACILITY_FOR_ORGANIC_RESEARCH
+<BEGIN>
+A facility for organic research.
+<END>
+
+13125_A_MACHINE_USED_FOR_EXPERIMENTING_WITH_RADIATION
+<BEGIN>
+A machine used for experimenting with radiation.
+<END>
+
+13126_A_MACHINE_USED_FOR_EXPERIMENTING_WITH_ATOMS
+<BEGIN>
+A machine used for experimenting with atoms.
+<END>
+
+13127_A_MACHINE_USED_FOR_FUSING_THINGS_TOGETHER_AT_AN_ELEMENTAL_LEVEL
+<BEGIN>
+A machine used for fusing things together at an elemental level.
+<END>
+
+13128_A_MACHINE_USED_FOR_TESTING_IMPACT_STRESS
+<BEGIN>
+A machine used for testing impact stress.
+<END>
+
+13129_A_CAMERA_WITH_A_USEFUL_ZOOM_ABILITY
+<BEGIN>
+A camera with a useful zoom ability.
+<END>
+
+13130_A_WORKTOP_FOR_TRAINING_BIOCHEMISTS
+<BEGIN>
+A Worktop for training Biochemists.
+<END>
+
+13131_A_RACK_MADE_TO_HOLD_A_FLAME_THROWER
+<BEGIN>
+A rack, made to hold a flamethrower.
+<END>
+
+13132_ENTRANCE_TO_THE_ROCKET_CAVE
+<BEGIN>
+Entrance to the rocket cave.
+<END>
+
+13133_A_DUMMY_OBJECT_USED_TO_INDICATE_THAT_THE_GREENHOUSE_HAS_BEEN_UNLOCKED
+<BEGIN>
+A Dummy Object, used to indicate that the GreenHouse has been unlocked.
+<END>
+
+13134_A_DUMMY_OBJECT_USED_TO_INDICATE_THAT_THE_ENVIRONMENT_CHAMBER_HAS_BEEN_UNLOCKED
+<BEGIN>
+A Dummy Object, used to indicate that the Environment Chamber has been unlocked.
+<END>
+
+13135_A_DUMMY_OBJECT_USED_TO_INDICATE_THAT_THE_AI_COMPUTER_HAS_BEEN_UNLOCKED
+<BEGIN>
+A Dummy Object, used to indicate that the AI computer has been unlocked.
+<END>
+
+13136_A_DUMMY_OBJECT_USED_TO_INDICATE_THAT_THE_AI_SUPERWEAPON_PAYLOAD_HAS_BEEN_CHOSEN
+<BEGIN>
+A Dummy Object, used to indicate that the AI superweapon payload has been chosen.
+<END>
+
+13137_A_DUMMY_OBJECT_USED_TO_INDICATE_THAT_THE_ENVIRONMENT_CHAMBER_SUPERWEAPON_PAYLOAD_HAS_BEEN_CHOSEN
+<BEGIN>
+A Dummy Object, used to indicate that the environment chamber superweapon payload has been chosen.
+<END>
+
+13138_A_DUMMY_OBJECT_USED_TO_INDICATE_THAT_THE_GREENHOUSE_SUPERWEAPON_PAYLOAD_HAS_BEEN_CHOSEN
+<BEGIN>
+A Dummy Object, used to indicate that the greenhouse superweapon payload has been chosen.
+<END>
+
+13139_TRANSMITTER_AERIALS
+<BEGIN>
+Transmitter aerials.
+<END>
+
+13150_AN_EVIL_TV_STUDIO
+<BEGIN>
+An evil TV studio for broadcasting your ultimatum.
+<END>
+
+13151_A_BUTTON_TO_START_THE_ROCKET_LAUNCH_SEQUENCE
+<BEGIN>
+A button to start the rocket launch sequence.
+<END>
+
+13155_A_CATWALK_CONSOLE
+<BEGIN>
+A catwalk console.
+<END>
+
+13156_TEST_DUMMY_CREATOR
+<BEGIN>
+A test dummy machine.
+<END>
+
+13158_A_CRYGENIC_CHAMBER_FOR_THE_MINIONS
+<BEGIN>
+A cloning chamber for creating Evil Genius decoys.
+<END>
+
+15000_A_GUN
+<BEGIN>
+A Gun.
+<END>
+
+15001_A_RIFLE
+<BEGIN>
+A Rifle.
+<END>
+
+15002_KATANA_SWORD
+<BEGIN>
+Katana sword.
+<END>
+
+15003_A_FRIGGIN_ROCKET_LAUNCHER
+<BEGIN>
+A Friggin Rocket Launcher.
+<END>
+
+15004_A_HARPOON_GUN
+<BEGIN>
+A Harpoon Gun.
+<END>
+
+15005_ELI_S_SPECIAL_HANDGUN
+<BEGIN>
+Eli's Special Handgun.
+<END>
+
+15007_A_GUN
+<BEGIN>
+A Gun.
+<END>
+
+15008_ELI_S_SPECIAL_HANDGUN_SUPER_HEAD_SHOT_MODE
+<BEGIN>
+Eli's Special Handgun (Super Head Shot mode).
+<END>
+
+15009_A_DOLL
+<BEGIN>
+A Doll.
+<END>
+
+15010_A_MACE
+<BEGIN>
+A Mace.
+<END>
+
+15011_PINKY_AND_PERKY_THE_FAMOUS_PAIR_OF_NINJA_SWORDS
+<BEGIN>
+Pinky and Perky, the famous pair of Ninja swords.
+<END>
+
+15012_A_PAIR_OF_ORDINARY_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+A pair of ordinary fists, equiped with knuckles.
+<END>
+
+15013_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+A pair of good fists, equiped with knuckles.
+<END>
+
+15014_A_PAIR_OF_REALLY_HARD_FISTS_EQUIPED_WITH_KNUCKLE_DUSTERS
+<BEGIN>
+A pair of really hard fists, equiped with knuckle dusters.
+<END>
+
+15015_A_PAIR_OF_BASIC_HENCHMAN_FISTS_EQUIPED_WITH_KNUCKLE_DUSTERS
+<BEGIN>
+A pair of basic henchman fists, equiped with knuckle dusters.
+<END>
+
+15016_A_PAIR_OF_DECENT_HENCHMAN_FISTS_EQUIPED_WITH_KNUCKLE_DUSTERS
+<BEGIN>
+A pair of decent henchman fists, equiped with knuckle dusters.
+<END>
+
+15017_A_PAIR_OF_REALLY_HARD_HENCHMAN_FISTS_EQUIPED_WITH_KNUCKLE_DUSTERS
+<BEGIN>
+A pair of really hard henchman fists, equiped with knuckle dusters.
+<END>
+
+15018_HULK_SMAAASSHH
+<BEGIN>
+Hulk SMAAASSHH.
+<END>
+
+15019_THROWING_STARS
+<BEGIN>
+Throwing Stars.
+<END>
+
+15020_GRENADES
+<BEGIN>
+Grenades.
+<END>
+
+15021_A_HEAVY_MACHINE_GUN
+<BEGIN>
+A Heavy Machine Gun.
+<END>
+
+15022_A_SNIPER_RIFLE
+<BEGIN>
+A Sniper Rifle.
+<END>
+
+15023_A_RIFLE
+<BEGIN>
+A Rifle.
+<END>
+
+15024_A_RIFLE
+<BEGIN>
+A Rifle.
+<END>
+
+15025_A_RIFLE
+<BEGIN>
+A Rifle.
+<END>
+
+15026_A_RIFLE
+<BEGIN>
+A Rifle.
+<END>
+
+15027_A_RIFLE
+<BEGIN>
+A Rifle.
+<END>
+
+15028_TRUSTY_CATTLE_PROD
+<BEGIN>
+Trusty Cattle Prod.
+<END>
+
+15029_A_FLAMETHROWER
+<BEGIN>
+A Flamethrower.
+<END>
+
+15030_AN_ASSASSIN_GUN
+<BEGIN>
+An Assassin Gun.
+<END>
+
+15031_A_PAIR_OF_ORDINARY_FISTS_EQUIPPED_WITH_KNUCKLES
+<BEGIN>
+A pair of ordinary fists, equipped with knuckles.
+<END>
+
+15032_BRUCE_S_FISTS_WHEN_ANGRY
+<BEGIN>
+Bruce's Fists when Angry.
+<END>
+
+15033_BRUCE_S_FISTS
+<BEGIN>
+Bruce's Fists.
+<END>
+
+15034_HENCHMAN_HYPNOTIST_FISTS_DESC
+<BEGIN>
+Hypnotists Fists.
+<END>
+
+15035_A_GUN
+<BEGIN>
+A Gun.
+<END>
+
+15036_A_HEAVY_MACHINE_GUN
+<BEGIN>
+A Heavy Machine Gun.
+<END>
+
+15037_HARD_FISTS
+<BEGIN>
+Hard as Nails Fists.
+<END>
+
+15038_DAGGER
+<BEGIN>
+A Dagger.
+<END>
+
+15039_KNIVES
+<BEGIN>
+A pair of Knives.
+<END>
+
+15040_HENCHMANFISTS_MOKO
+<BEGIN>
+Fists.
+<END>
+
+15041_HENCHMANFISTS_ELI
+<BEGIN>
+Fists.
+<END>
+
+15042_HENCHMANFISTS_IVAN
+<BEGIN>
+Fists.
+<END>
+
+15043_HENCHMANFISTS_VOODOO
+<BEGIN>
+Fists.
+<END>
+
+15044_HENCHMANFISTS_KAISER
+<BEGIN>
+Fists.
+<END>
+
+15045_HENCHMANFISTS_MADSCI
+<BEGIN>
+Fists.
+<END>
+
+15046_MINIONFISTS_MARKSMAN
+<BEGIN>
+Fists.
+<END>
+
+15047_MINIONFISTS_MERCENARY
+<BEGIN>
+Fists.
+<END>
+
+15048_MINIONFISTS_GUARD
+<BEGIN>
+Fists.
+<END>
+
+15049_MINIONFISTS_VALET
+<BEGIN>
+Fists.
+<END>
+
+15050_MINIONFISTS_TECHNICIAN
+<BEGIN>
+Fists.
+<END>
+
+15051_MINIONFISTS_SCIENTIST
+<BEGIN>
+Fists.
+<END>
+
+15052_MINIONFISTS_BIOCHEM
+<BEGIN>
+Fists.
+<END>
+
+15053_MINIONFISTS_QUANTUMPHYS
+<BEGIN>
+Fists.
+<END>
+
+15054_MINIONFISTS_SPINDOCTOR
+<BEGIN>
+Fists.
+<END>
+
+15055_MINIONFISTS_PLAYBOY
+<BEGIN>
+Fists.
+<END>
+
+15056_MINIONFISTS_DIPLOMAT
+<BEGIN>
+Fists.
+<END>
+
+15057_PINKY_AND_PERKY_THE_FAMOUS_PAIR_OF_NINJA_SWORDS_B
+<BEGIN>
+Swords.
+<END>
+
+15058_PINKY_AND_PERKY_THE_FAMOUS_PAIR_OF_NINJA_SWORDS_C
+<BEGIN>
+Swords.
+<END>
+
+15059_PINKY_AND_PERKY_THE_FAMOUS_PAIR_OF_NINJA_SWORDS_D
+<BEGIN>
+Swords.
+<END>
+
+15060_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15061_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15062_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15063_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15064_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15065_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15066_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15067_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15068_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15069_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15070_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15071_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15072_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15073_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15074_A_RIFLE
+<BEGIN>
+Rifle.
+<END>
+
+15075_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15076_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15077_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15078_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15079_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15080_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15081_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15082_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15083_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15084_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15085_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15086_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15087_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15088_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15089_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15090_A_PAIR_OF_GOOD_FISTS_EQUIPED_WITH_KNUCKLES
+<BEGIN>
+Fists.
+<END>
+
+15091_PENDRAGON
+<BEGIN>
+Pendragon
+<END>
+
+15092_BLUNDERBUSS
+<BEGIN>
+Blunderbuss
+<END>
+
+15500_ROCKET
+<BEGIN>
+Rocket.
+<END>
+
+15500_A_ROCKET
+<BEGIN>
+A Rocket.
+<END>
+
+15501_A_GRENADE
+<BEGIN>
+A Grenade.
+<END>
+
+15502_SOME_PLASTIC_EXPLOSIVE
+<BEGIN>
+Some Plastic Explosive.
+<END>
+
+15503_A_NINJA_THROWING_STAR
+<BEGIN>
+A Ninja Throwing Star.
+<END>
+
+15504_A_GRENADE
+<BEGIN>
+A Grenade.
+<END>
+
+15505_SUPER_KATANA_SWORD
+<BEGIN>
+Super katana sword.
+<END>
+
+15506_A_PAIR_OF_UNUSUALLY_HAIRY_FISTS
+<BEGIN>
+A pair of unusually hairy fists.
+<END>
+
+15507_A_PERFUME_BOTTLE
+<BEGIN>
+A bottle of perfume used as a weapon.
+<END>
+
+15508_DAGGER
+<BEGIN>
+A lethal looking dagger.
+<END>
+
+15509_A_GUN
+<BEGIN>
+A standard issue pistol.
+<END>
+
+15510_AGENT_FISTS
+<BEGIN>
+Standard agent fists.
+<END>
+
+15511_AGENT_FISTS_GOOD
+<BEGIN>
+Good agent fists.
+<END>
+
+15512_BRUCE_S_FISTS
+<BEGIN>
+Martial Artist Fists.
+<END>
+
+15513_PENDRAGON
+<BEGIN>
+Pendragon
+<END>
+
+15514_A_HARPOON_BOLT
+<BEGIN>
+A Harpoon Bolt
+<END>
+
+15515_A_GUN
+<BEGIN>
+A pistol
+<END>
+
+15516_A_GUN
+<BEGIN>
+A pistol
+<END>
+
+15517_A_GUN
+<BEGIN>
+A pistol
+<END>
+
+15518_A_GUN
+<BEGIN>
+A pistol
+<END>
+
+15519_A_HARPOON_GUN
+<BEGIN>
+A Harpoon Gun.
+<END>
+
+15520_A_PAIR_OF_REALLY_HARD_FISTS_EQUIPED_WITH_KNUCKLE_DUSTERS
+<BEGIN>
+A pair of really hard fists, equiped with knuckle dusters.
+<END>
+
+15521_A_PAIR_OF_REALLY_HARD_FISTS_EQUIPED_WITH_KNUCKLE_DUSTERS
+<BEGIN>
+A pair of really hard fists, equiped with knuckle dusters.
+<END>
+
+15522_A_GUN
+<BEGIN>
+A pistol
+<END>
+
+15523_A_GUN
+<BEGIN>
+A pistol
+<END>
+
+16000_JUNGLE_TREE_A
+<BEGIN>
+Jungle Tree A.
+<END>
+
+16001_JUNGLE_TREE_B
+<BEGIN>
+Jungle Tree B.
+<END>
+
+16002_JUNGLE_TREE_C
+<BEGIN>
+Jungle Tree C.
+<END>
+
+16003_JUNGLE_TREE_D
+<BEGIN>
+Jungle Tree D.
+<END>
+
+16004_JUNGLE_TREE_E
+<BEGIN>
+Jungle Tree E.
+<END>
+
+16005_JUNGLE_TREE_F
+<BEGIN>
+Jungle Tree F.
+<END>
+
+16006_JUNGLE_TREE_G
+<BEGIN>
+Jungle Tree G.
+<END>
+
+16007_JUNGLE_TREE_H
+<BEGIN>
+Jungle Tree H.
+<END>
+
+16008_AN_IMPOSING_STATUE
+<BEGIN>
+An imposing Statue.
+<END>
+
+16009_A_REALLY_IMPOSING_STATUE
+<BEGIN>
+A really imposing Statue.
+<END>
+
+16010_A_DIRT_PATH_AROUND_THE_NORTH_OF_THE_ISLAND
+<BEGIN>
+A dirt path around the north of the island.
+<END>
+
+16011_A_DIRT_PATH_AROUND_THE_SOUTH_OF_THE_ISLAND
+<BEGIN>
+A dirt path around the south of the island.
+<END>
+
+16012_A_DIRT_PATH_AROUND_THE_EAST_OF_THE_ISLAND
+<BEGIN>
+A dirt path around the east of the island.
+<END>
+
+16013_A_DIRT_PATH_AROUND_THE_WEST_OF_THE_ISLAND
+<BEGIN>
+A dirt path around the west of the island.
+<END>
+
+16014_A_DIRT_PATH_AROUND_THE_VILLAGE_OF_THE_ISLAND
+<BEGIN>
+A dirt path around the village of the island.
+<END>
+
+16015_MONKEY_TREE
+<BEGIN>
+Monkey Tree.
+<END>
+
+16016_JUNGLE_TREE_J
+<BEGIN>
+Jungle Tree J.
+<END>
+
+16017_JUNGLE_TREE_K
+<BEGIN>
+Jungle Tree K.
+<END>
+
+16018_JUNGLE_TREE_L
+<BEGIN>
+Jungle Tree L.
+<END>
+
+16100_DESERT_TREE_A
+<BEGIN>
+Desert Tree A.
+<END>
+
+16101_DESERT_TREE_B
+<BEGIN>
+Desert Tree B.
+<END>
+
+16102_DESERT_TREE_C
+<BEGIN>
+Desert Tree C.
+<END>
+
+16103_DESERT_TREE_D
+<BEGIN>
+Desert Tree D.
+<END>
+
+16104_DESERT_TREE_E
+<BEGIN>
+Desert Tree E.
+<END>
+
+16105_DESERT_TREE_F
+<BEGIN>
+Desert Tree F.
+<END>
+
+17000_JAWS
+<BEGIN>
+Jaws.
+<END>
+
+17001_MANTARAY
+<BEGIN>
+Manta Ray.
+<END>
+
+17100_A_LASER_BEAM_SENSOR
+<BEGIN>
+A laser beam trip sensor.
+<END>
+
+17101_A_PRESSURE_PAD_SENSOR
+<BEGIN>
+A pressure pad sensor.
+<END>
+
+17102_BADDA_BOOM_BADDA_BOOM
+<BEGIN>
+Badda boom badda boom.
+<END>
+
+17103_A_SENSOR_THAT_DETECTS_MOVEMENT
+<BEGIN>
+A sensor that detects movement.
+<END>
+
+17104_A_SENSOR_THAT_DETECTS_MOVEMENT_OUTSIDE
+<BEGIN>
+A sensor that detects movement outside.
+<END>
+
+17105_MANTRAP
+<BEGIN>
+A deadly venus plant capable of consuming a man.
+<END>
+
+17200_POISON_GAS_CAGE_TRAP
+<BEGIN>
+Poison Gas Cage Trap.
+<END>
+
+17201_KNOCKOUT_GAS_CAGE_TRAP
+<BEGIN>
+Knockout Gas Cage Trap.
+<END>
+
+17202_GAS_CAGE_TRAP_SHADOW
+<BEGIN>
+Gas Cage Trap Shadow.
+<END>
+
+17203_PALM_TREE_RUPTURE_NUT_LAUNCHER
+<BEGIN>
+Palm tree rupture-nut launcher.
+<END>
+
+17204_A_BACK_BLASTING_VENTILLATOR_MACHINE
+<BEGIN>
+A back-blasting Ventillator machine.
+<END>
+
+17205_A_SOREMASTER_DELUXE_MACHINE
+<BEGIN>
+A SoreMaster Deluxe machine.
+<END>
+
+17206_A_SPRING_LOADED_SHOOTING_TARGET_DESIGNED_TO_CONFUSE
+<BEGIN>
+A spring-loaded shooting target designed to confuse.
+<END>
+
+17207_DO_NOT_PRESS_TRAP_WITH_A_BIG_RED_BUTTON
+<BEGIN>
+Do Not Press Trap with A Big Red Button.
+<END>
+
+17208_A_CHARGE_CANNON_TRAP
+<BEGIN>
+A high voltage electroshock cannon trap.
+<END>
+
+17209_A_CLASSIC_PIT_TRAP_INSPIRED_BY_YOUR_CHILDHOOD_D_D_GAMES
+<BEGIN>
+A classic pit trap, inspired by your childhood fantasy roleplay games.
+<END>
+
+17210_A_CLASSIC_PIT_TRAP_INSPIRED_BY_YOUR_CHILDHOOD_D_D_GAMES
+<BEGIN>
+A classic pit trap, inspired by your childhood fantasy roleplay games.
+<END>
+
+17211_THE_WORM_BIT
+<BEGIN>
+The worm bit.
+<END>
+
+17212_SATAN_S_CHIMNEY_A_FIENDISH_FIRE_PIT
+<BEGIN>
+Satan's Chimney, a fiendish fire-pit.
+<END>
+
+17213_SATAN_S_CHIMNEY_A_FIENDISH_FIRE_PIT
+<BEGIN>
+Satan's Chimney, a fiendish fire-pit.
+<END>
+
+17214_A_HIVE_OF_BEES_THAT_ATTACK_ATTENTION
+<BEGIN>
+A hive of bees that attack Attention.
+<END>
+
+17215_THE_DEADLY_DESTRUCTIVE_DREADMILL
+<BEGIN>
+The deadly destructive Dreadmill.
+<END>
+
+17216_A_PROMETHEUS_REVENGE_TRAP
+<BEGIN>
+A Prometheus Revenge Trap.
+<END>
+
+17217_LOOK_AWAY_IT_S_THE_MISDIRECTION_TRAP
+<BEGIN>
+Look away, it's the Misdirection trap.
+<END>
+
+17218_A_VENUS_MAN_TRAP
+<BEGIN>
+A venus man trap.
+<END>
+
+17219_A_DEADLY_PIRANHA_TANK
+<BEGIN>
+A deadly piranha tank.
+<END>
+
+17220_A_SUCKER_TRAP
+<BEGIN>
+A giant magnet trap.
+<END>
+
+17221_A_MONEY_MADNESS_TRAP
+<BEGIN>
+A money madness trap.
+<END>
+
+17222_A_MONEY_MADNESS_TRAP
+<BEGIN>
+A money madness trap.
+<END>
+
+17224_A_TRAP_INVOLVING_DAMMED_DAMSELS
+<BEGIN>
+A trap involving dammed damsels.
+<END>
+
+17225_MONKEY_INNA_BOX
+<BEGIN>
+Monkey-Inna-Box.
+<END>
+
+17228_A_MONKEY_TRAP_TO_TRAP_MONKEYS
+<BEGIN>
+A caged chimp called Oliver.
+<END>
+
+17229_LAUGHING_GAS_CAGE_TRAP
+<BEGIN>
+Laughing Gas Cage Trap.
+<END>
+
+17230_LOYALTY_DRAIN_GAS_CAGE_TRAP
+<BEGIN>
+Hallucinogen Gas Cage Trap.
+<END>
+
+17231_STUPID_GAS_CAGE_TRAP
+<BEGIN>
+Nerve Gas Cage Trap.
+<END>
+
+17232_A_HIVE_OF_BEES_THAT_ATTACK_SMARTS
+<BEGIN>
+A hive of bees that attack Smarts.
+<END>
+
+17233_A_HIVE_OF_BEES_THAT_ATTACK_LOYALTY
+<BEGIN>
+A hive of bees that attack loyalty.
+<END>
+
+17234_A_HIVE_OF_BEES_THAT_ATTACK_ENDURANCE
+<BEGIN>
+A hive of bees that attack endurance.
+<END>
+
+17235_A_HIVE_OF_BEES_THAT_ATTACK_HEALTH
+<BEGIN>
+A hive of bees that attack Health.
+<END>
+
+17236_NUT_RUPTURE
+<BEGIN>
+A Nut Rupture Flash Bang Trap
+<END>
+
+17300_A_CARGO_HELICOPTER
+<BEGIN>
+A cargo helicopter.
+<END>
+
+17301_A_MILITARY_STEALTH_RAFT
+<BEGIN>
+A military stealth raft.
+<END>
+
+17304_A_CARGO_BOAT
+<BEGIN>
+A Cargo Boat.
+<END>
+
+17305_A_CARGO_HELICOPTER
+<BEGIN>
+A cargo helicopter.
+<END>
+
+17306_A_SUBMARINE
+<BEGIN>
+A Submarine.
+<END>
+
+17307_A_FLYING_CHARIOT
+<BEGIN>
+A Flying Chariot.
+<END>
+
+17400_HOTEL_HUB
+<BEGIN>
+Hotel Hub.
+<END>
+
+17401_HOTEL_WING
+<BEGIN>
+Hotel Wing.
+<END>
+
+17402_EXTERNAL_STRONGROOM
+<BEGIN>
+Topside Shack.
+<END>
+
+17403_EXTERNAL_STRONGROOM_CUTAWAY
+<BEGIN>
+External Strongroom Top.
+<END>
+
+17500_BUSTED
+<BEGIN>
+Busted.
+<END>
+
+17600_THE_EVIL_GENIUS_SUBMARINE
+<BEGIN>
+The Evil Genius Submarine.
+<END>
+
+17601_THE_EVIL_GENIUS_SUBMARINE_UNDERSIDE
+<BEGIN>
+The Evil Genius Submarine underside.
+<END>
+
+17602_STAGE_1_OF_YOUR_MASTER_PLAN
+<BEGIN>
+Stage 1 of your Master Plan.
+<END>
+
+17603_STAGE_2_OF_YOUR_MASTER_PLAN
+<BEGIN>
+Stage 2 of your Master Plan.
+<END>
+
+17604_STAGE_3_OF_YOUR_MASTER_PLAN
+<BEGIN>
+Stage 3 of your Master Plan.
+<END>
+
+17605_STAGE_4_OF_YOUR_MASTER_PLAN
+<BEGIN>
+Stage 4 of your Master Plan.
+<END>
+
+17606_STAGE_5_OF_YOUR_MASTER_PLAN
+<BEGIN>
+Stage 5 of your Master Plan.
+<END>
+
+17607_CARRIER_FOR_STAGE_1_OF_YOUR_MASTER_PLAN
+<BEGIN>
+Carrier for Stage 1 of your Master Plan.
+<END>
+
+17608_CARRIER_FOR_STAGE_2_OF_YOUR_MASTER_PLAN
+<BEGIN>
+Carrier for Stage 2 of your Master Plan.
+<END>
+
+17609_CARRIER_FOR_STAGE_3_OF_YOUR_MASTER_PLAN
+<BEGIN>
+Carrier for Stage 3 of your Master Plan.
+<END>
+
+17610_CARRIER_FOR_STAGE_4_OF_YOUR_MASTER_PLAN
+<BEGIN>
+Carrier for Stage 4 of your Master Plan.
+<END>
+
+17611_CARRIER_FOR_STAGE_5_OF_YOUR_MASTER_PLAN
+<BEGIN>
+Carrier for Stage 5 of your Master Plan.
+<END>
+
+17612_A_ROCKET_SILO
+<BEGIN>
+A rocket silo.
+<END>
+
+17613_THRUSTERS
+<BEGIN>
+Thrusters.
+<END>
+
+17614_GOING_TO_SEND_YOU_INTO_SPACE_MAN
+<BEGIN>
+Doomsday Device.
+<END>
+
+17615_A_RAILCAR_FOR_THE_ROCKET_SATELLITE
+<BEGIN>
+A railcar for the rocket satellite.
+<END>
+
+17616_AN_OVERHEAD_CRANE
+<BEGIN>
+An overhead crane.
+<END>
+
+17617_AN_EVIL_ROCKET
+<BEGIN>
+An evil rocket.
+<END>
+
+17618_GOING_TO_SEND_YOU_INTO_SPACE_MAN
+<BEGIN>
+Doomsday Device.
+<END>
+
+17619_GOING_TO_SEND_YOU_INTO_SPACE_MAN
+<BEGIN>
+Doomsday Device.
+<END>
+
+17620_DUMMY_FREAK
+<BEGIN>
+Freak Production Available
+<END>
+
+20000_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20001_UNMINED_ROCK_FOUR_SIDES
+<BEGIN>
+Unmined Rock (four sides).
+<END>
+
+20002_UNMINED_ROCK_ONE_SIDE
+<BEGIN>
+Unmined Rock (one side).
+<END>
+
+20003_UNMINED_ROCK_TWO_SIDES
+<BEGIN>
+Unmined Rock (two sides).
+<END>
+
+20004_UNMINED_ROCK_THREE_SIDES
+<BEGIN>
+Unmined Rock (three sides).
+<END>
+
+20005_UNMINED_ROCK_TWO_SIDES_OPPOSITE
+<BEGIN>
+Unmined Rock (two sides opposite).
+<END>
+
+20006_UNMINED_ROCK_CEILING
+<BEGIN>
+Unmined Rock (ceiling).
+<END>
+
+20007_TRANSPARENT_DIRT_3M
+<BEGIN>
+Transparent dirt (3m).
+<END>
+
+20008_TRANSPARENT_DIRT_4M
+<BEGIN>
+Transparent dirt (4m).
+<END>
+
+20009_TRANSPARENT_DIRT_5M
+<BEGIN>
+Transparent dirt (5m).
+<END>
+
+20010_GLOBAL_CUSTOM_MOUNTAINTOP_PIECE_36X36M
+<BEGIN>
+Global Custom MountainTop piece (36x36m).
+<END>
+
+20011_GLOBAL_CUSTOM_MOUNTAINEDGE_36X36
+<BEGIN>
+Global Custom MountainEdge 36x36.
+<END>
+
+20019_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20020_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20021_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20022_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20023_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20024_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20025_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20026_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20027_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20028_UNMINED_DIRT
+<BEGIN>
+Unmined dirt.
+<END>
+
+20029_UNMINED_ROCK_FOUR_SIDES
+<BEGIN>
+Unmined Rock (four sides).
+<END>
+
+20030_UNMINED_ROCK_FOUR_SIDES
+<BEGIN>
+Unmined Rock (four sides).
+<END>
+
+20031_UNMINED_ROCK_FOUR_SIDES
+<BEGIN>
+Unmined Rock (four sides).
+<END>
+
+20032_UNMINED_ROCK_ONE_SIDE
+<BEGIN>
+Unmined Rock (one side).
+<END>
+
+20033_UNMINED_ROCK_ONE_SIDE
+<BEGIN>
+Unmined Rock (one side).
+<END>
+
+20034_UNMINED_ROCK_ONE_SIDE
+<BEGIN>
+Unmined Rock (one side).
+<END>
+
+20035_UNMINED_ROCK_TWO_SIDES
+<BEGIN>
+Unmined Rock (two sides).
+<END>
+
+20036_UNMINED_ROCK_TWO_SIDES
+<BEGIN>
+Unmined Rock (two sides).
+<END>
+
+20037_UNMINED_ROCK_TWO_SIDES
+<BEGIN>
+Unmined Rock (two sides).
+<END>
+
+20038_UNMINED_ROCK_THREE_SIDES
+<BEGIN>
+Unmined Rock (three sides).
+<END>
+
+20039_UNMINED_ROCK_THREE_SIDES
+<BEGIN>
+Unmined Rock (three sides).
+<END>
+
+20040_UNMINED_ROCK_THREE_SIDES
+<BEGIN>
+Unmined Rock (three sides).
+<END>
+
+20041_UNMINED_ROCK_TWO_SIDES_OPPOSITE
+<BEGIN>
+Unmined Rock (two sides opposite).
+<END>
+
+20042_UNMINED_ROCK_TWO_SIDES_OPPOSITE
+<BEGIN>
+Unmined Rock (two sides opposite).
+<END>
+
+20043_UNMINED_ROCK_TWO_SIDES_OPPOSITE
+<BEGIN>
+Unmined Rock (two sides opposite).
+<END>
+
+20044_UNMINED_ROCK_TWO_SIDES_OPPOSITE
+<BEGIN>
+Unmined Rock (two sides opposite).
+<END>
+
+20045_UNMINED_DIRT_EDGE_1_SIDE_A
+<BEGIN>
+Unmined Dirt edge (1 side A).
+<END>
+
+20046_UNMINED_DIRT_EDGE_CORNERIN
+<BEGIN>
+Unmined Dirt edge (CornerIn).
+<END>
+
+20047_UNMINED_DIRT_EDGE_CORNEROUT
+<BEGIN>
+Unmined Dirt edge (CornerOut).
+<END>
+
+20048_UNMINED_DIRT_EDGE_CORNEROUT_L
+<BEGIN>
+Unmined Dirt edge (CornerOut L).
+<END>
+
+20049_UNMINED_DIRT_EDGE_CORNEROUT_R
+<BEGIN>
+Unmined Dirt edge (CornerOut R).
+<END>
+
+20100_GLOBAL_CUSTOM_MOUNTAINEDGE_128X184_A
+<BEGIN>
+Global_Custom_MountainEdge_128X184_A.
+<END>
+
+20101_GLOBAL_CUSTOM_MOUNTAINTOP_PIECE_128X184M
+<BEGIN>
+Global Custom MountainTop piece (128x184m).
+<END>
+
+20102_110X176_MOUNTAIN_EDGE_SECTION
+<BEGIN>
+110X176 Mountain Edge section.
+<END>
+
+20103_2X10_MOUNTAIN_EDGE_SECTION
+<BEGIN>
+2X10 Mountain Edge section.
+<END>
+
+20107_20X10_MOUNTAIN_EDGE_SECTION
+<BEGIN>
+20X10 Mountain Edge section.
+<END>
+
+20108_CORNER_OUT_MOUNTAIN_EDGE_SECTION
+<BEGIN>
+Corner Out Mountain Edge section.
+<END>
+
+20109_CORNER_IN_MOUNTAIN_EDGE_SECTION
+<BEGIN>
+Corner In Mountain Edge section.
+<END>
+
+20110_GLOBAL_CUSTOM_MOUNTAINTOP_SKIRT_PIECE_128X184M
+<BEGIN>
+Global Custom MountainTop skirt piece (128x184m).
+<END>
+
+20112_MOUNTAIN_EDGE_CORNERIN_A
+<BEGIN>
+Mountain Edge CornerIn A.
+<END>
+
+20113_MOUNTAIN_EDGE_CORNERIN_B
+<BEGIN>
+Mountain Edge CornerIn B.
+<END>
+
+20114_GLOBAL_MOUNTAINEDGE_CORNEROUT_A
+<BEGIN>
+Global_MountainEdge_Cornerout_A.
+<END>
+
+20115_GLOBAL_MOUNTAINEDGE_CORNEROUT_B
+<BEGIN>
+Global_MountainEdge_Cornerout_B.
+<END>
+
+20116_GLOBAL_MOUNTAINEDGE_CORNEROUT_C
+<BEGIN>
+Global_MountainEdge_Cornerout_C.
+<END>
+
+20117_GLOBAL_MOUNTAINEDGE_CORNEROUT_D
+<BEGIN>
+Global_MountainEdge_Cornerout_D.
+<END>
+
+20118_GLOBAL_MOUNTAINEDGE_CORNEROUT_E
+<BEGIN>
+Global_MountainEdge_Cornerout_E.
+<END>
+
+20119_GLOBAL_MOUNTAINEDGE_CORNEROUT_F
+<BEGIN>
+Global_MountainEdge_Cornerout_F.
+<END>
+
+20120_GLOBAL_DOUBLE_DOOR_WALL_L_3M
+<BEGIN>
+Global Double Door Wall L (3m).
+<END>
+
+20121_GLOBAL_DOUBLE_DOOR_WALL_L_4M
+<BEGIN>
+Global Double Door Wall L (4m).
+<END>
+
+20122_GLOBAL_DOUBLE_DOOR_WALL_L_5M
+<BEGIN>
+Global Double Door Wall L (5m).
+<END>
+
+20123_GLOBAL_DOUBLE_DOOR_WALL_3M
+<BEGIN>
+Global Double Door Wall (3m).
+<END>
+
+20124_GLOBAL_DOUBLE_DOOR_WALL_4M
+<BEGIN>
+Global Double Door Wall (4m).
+<END>
+
+20125_GLOBAL_DOUBLE_DOOR_WALL_5M
+<BEGIN>
+Global Double Door Wall (5m).
+<END>
+
+20126_GLOBAL_DOUBLE_DOOR_CORNEROUT_L_3M
+<BEGIN>
+Global Double Door CornerOut L (3m).
+<END>
+
+20127_GLOBAL_DOUBLE_DOOR_CORNEROUT_L_4M
+<BEGIN>
+Global Double Door CornerOut L (4m).
+<END>
+
+20128_GLOBAL_DOUBLE_DOOR_CORNEROUT_L_5M
+<BEGIN>
+Global Double Door CornerOut L (5m).
+<END>
+
+20129_GLOBAL_DOUBLE_DOOR_CORNEROUT_R_3M
+<BEGIN>
+Global Double Door CornerOut R (3m).
+<END>
+
+20130_GLOBAL_DOUBLE_DOOR_CORNEROUT_R_4M
+<BEGIN>
+Global Double Door CornerOut R (4m).
+<END>
+
+20131_GLOBAL_DOUBLE_DOOR_CORNEROUT_R_5M
+<BEGIN>
+Global Double Door CornerOut R (5m).
+<END>
+
+20132_GLOBAL_HEAVY_DOOR_WALL_L_3M
+<BEGIN>
+Global Heavy Door Wall L (3m).
+<END>
+
+20133_GLOBAL_HEAVY_DOOR_WALL_L_4M
+<BEGIN>
+Global Heavy Door Wall L (4m).
+<END>
+
+20134_GLOBAL_HEAVY_DOOR_WALL_L_5M
+<BEGIN>
+Global Heavy Door Wall L (5m).
+<END>
+
+20135_GLOBAL_HEAVY_DOOR_WALL_3M
+<BEGIN>
+Global Heavy Door Wall (3m).
+<END>
+
+20136_GLOBAL_HEAVY_DOOR_WALL_4M
+<BEGIN>
+Global Heavy Door Wall (4m).
+<END>
+
+20137_GLOBAL_HEAVY_DOOR_WALL_5M
+<BEGIN>
+Global Heavy Door Wall (5m).
+<END>
+
+20138_GLOBAL_HEAVY_DOOR_CORNEROUT_L_3M
+<BEGIN>
+Global Heavy Door CornerOut L (3m).
+<END>
+
+20139_GLOBAL_HEAVY_DOOR_CORNEROUT_L_4M
+<BEGIN>
+Global Heavy Door CornerOut L (4m).
+<END>
+
+20140_GLOBAL_HEAVY_DOOR_CORNEROUT_L_5M
+<BEGIN>
+Global Heavy Door CornerOut L (5m).
+<END>
+
+20141_GLOBAL_HEAVY_DOOR_CORNEROUT_R_3M
+<BEGIN>
+Global Heavy Door CornerOut R (3m).
+<END>
+
+20142_GLOBAL_HEAVY_DOOR_CORNEROUT_R_4M
+<BEGIN>
+Global Heavy Door CornerOut R (4m).
+<END>
+
+20143_GLOBAL_HEAVY_DOOR_CORNEROUT_R_5M
+<BEGIN>
+Global Heavy Door CornerOut R (5m).
+<END>
+
+20144_GLOBAL_CUSTOM_MOUNTAINTOP_PIECE_72X82M
+<BEGIN>
+Global Custom MountainTop piece (72x82m).
+<END>
+
+20145_GLOBAL_CUSTOM_MOUNTAINTOP_SKIRT_PIECE_72X82M
+<BEGIN>
+Global Custom MountainTop skirt piece (72x82m).
+<END>
+
+20146_2X10_BALD_MOUNTAIN_EDGE_SECTION
+<BEGIN>
+2X10 Bald Mountain Edge section.
+<END>
+
+20150_GLOBAL_LASER_DOOR_CORNEROUT_L
+<BEGIN>
+Global Laser Door CornerOut L.
+<END>
+
+20151_GLOBAL_LASER_DOOR_CORNEROUT_R
+<BEGIN>
+Global Laser Door CornerOut R.
+<END>
+
+20152_GLOBAL_LASER_DOOR_WALL_L
+<BEGIN>
+Global Laser Door Wall L.
+<END>
+
+20153_GLOBAL_LASER_DOOR_WALL_R
+<BEGIN>
+Global Laser Door Wall R.
+<END>
+
+20154_GLOBAL_CUSTOM_MOUNTAINTOP_PIECE_156X234M
+<BEGIN>
+Global_Custom_MountainTop_156x234_A.
+<END>
+
+20155_GLOBAL_CUSTOM_MOUNTAINTOP_SKIRT_PIECE_156X234M
+<BEGIN>
+Global_Custom_MountainTop_Skirt_156x234_A.
+<END>
+
+20156_GLOBAL_EXTERNAL_STRONGROOM_DOOR_WALL_L
+<BEGIN>
+External Strongroom Door Wall L.
+<END>
+
+20157_GLOBAL_EXTERNAL_STRONGROOM_DOOR_WALL_R
+<BEGIN>
+External Strongroom Door Wall R.
+<END>
+
+20158_STRONGROOM_UNMINED
+<BEGIN>
+Unmined Strongroom.
+<END>
+
+20159_STRONGROOM_MINED
+<BEGIN>
+Mined Strongroom.
+<END>
+
+20200_GLOBAL_CUSTOM_MOUNTAINTOP_PIECE_72X82
+<BEGIN>
+Global Custom MountainTop piece (72x82).
+<END>
+
+21000_OCEAN_TILE
+<BEGIN>
+Ocean Tile.
+<END>
+
+21001_SEABED
+<BEGIN>
+SeaBed.
+<END>
+
+21002_BEACH_CLIFF_CORNEROUT
+<BEGIN>
+Beach_Cliff_CornerOut.
+<END>
+
+21003_BEACH_CLIFF_1SIDE_A
+<BEGIN>
+Beach_Cliff_1side_A.
+<END>
+
+21004_BEACH_CLIFF_CORNERIN
+<BEGIN>
+Beach_Cliff_CornerIn.
+<END>
+
+21005_BEACH_CLIFF_1_SIDE_B
+<BEGIN>
+Beach Cliff 1 side B.
+<END>
+
+21006_BEACH_SLOPE_LEADIN_A
+<BEGIN>
+Beach_Slope_LeadIn_A.
+<END>
+
+21007_BEACH_SLOPE_1SIDE_A
+<BEGIN>
+Beach_Slope_1side_A.
+<END>
+
+21008_BEACH_SLOPE_LEADOUT_A
+<BEGIN>
+Beach_Slope_LeadOut_A.
+<END>
+
+21009_BEACH_NOTREES_SLOPE_1SIDE_A
+<BEGIN>
+Beach_NoTrees_Slope_1side_A.
+<END>
+
+21010_BEACH_CLIFF_CORNERINB
+<BEGIN>
+Beach_Cliff_CornerInB.
+<END>
+
+21011_BEACH_CLIFF_CORNEROUTB
+<BEGIN>
+Beach_Cliff_CornerOutB.
+<END>
+
+21012_BEACH_SLOPE_1SIDE_DIVIDED_A
+<BEGIN>
+Beach_Slope_1side_Divided_A.
+<END>
+
+21013_BEACH_SLOPE_1SIDE_8M_A
+<BEGIN>
+Beach_Slope_1side_8m_A.
+<END>
+
+21014_BEACH_CLIFF_1SIDE_C
+<BEGIN>
+Beach_Cliff_1side_C.
+<END>
+
+21015_BEACH_CLIFF_CORNERINC
+<BEGIN>
+Beach_Cliff_CornerInC.
+<END>
+
+21016_BEACH_CLIFF_CORNEROUTC
+<BEGIN>
+Beach_Cliff_CornerOutC.
+<END>
+
+21017_BEACH_SLOPE_1SIDE_8M_C
+<BEGIN>
+Beach_Slope_1side_8m_C.
+<END>
+
+21018_BEACH_SLOPE_1SIDE_C
+<BEGIN>
+Beach_Slope_1side_C.
+<END>
+
+21019_BEACH_SLOPE_1SIDE_DIVIDED_C
+<BEGIN>
+Beach_Slope_1side_Divided_C.
+<END>
+
+21020_BEACH_SLOPE_LEADIN_C
+<BEGIN>
+Beach_Slope_LeadIn_C.
+<END>
+
+21021_BEACH_SLOPE_LEADOUT_C
+<BEGIN>
+Beach_Slope_LeadOut_C.
+<END>
+
+21100_OCEAN_TILE
+<BEGIN>
+Ocean Tile.
+<END>
+
+21101_OCEAN_TILE
+<BEGIN>
+Ocean Tile.
+<END>
+
+21102_OCEAN_TILE
+<BEGIN>
+Ocean Tile.
+<END>
+
+21103_OCEAN_TILE
+<BEGIN>
+Ocean Tile.
+<END>
+
+21104_OCEAN_TILE
+<BEGIN>
+Ocean Tile.
+<END>
+
+21105_OCEAN_TILE
+<BEGIN>
+Ocean Tile.
+<END>
+
+21106_OCEAN_TILE
+<BEGIN>
+Ocean Tile.
+<END>
+
+21107_OCEAN_TILE
+<BEGIN>
+Ocean Tile.
+<END>
+
+21108_OCEAN_TILE
+<BEGIN>
+Ocean Tile.
+<END>
+
+21200_SEABED_N
+<BEGIN>
+SeaBed (N).
+<END>
+
+21201_SEABED_NE
+<BEGIN>
+SeaBed (NE).
+<END>
+
+21202_SEABED_E
+<BEGIN>
+SeaBed (E).
+<END>
+
+21203_SEABED_SE
+<BEGIN>
+SeaBed (SE).
+<END>
+
+21204_SEABED_S
+<BEGIN>
+SeaBed (S).
+<END>
+
+21205_SEABED_SW
+<BEGIN>
+SeaBed (SW).
+<END>
+
+21206_SEABED_W
+<BEGIN>
+SeaBed (W).
+<END>
+
+21207_SEABED_NW
+<BEGIN>
+SeaBed (NW).
+<END>
+
+21500_JUNGLE_FLOOR_UNMINED_1X1
+<BEGIN>
+Jungle Floor Unmined (1x1).
+<END>
+
+21501_JUNGLE_FLOOR_MINED_1X1
+<BEGIN>
+Jungle Floor Mined (1x1).
+<END>
+
+21504_JUNGLE_FLOOR_MINED_2X2
+<BEGIN>
+Jungle Floor Mined (2x2).
+<END>
+
+21505_JUNGLE_FLOOR_MINED_3X3
+<BEGIN>
+Jungle Floor Mined (3x3).
+<END>
+
+21506_JUNGLE_FLOOR_MINED_4X4
+<BEGIN>
+Jungle Floor Mined (4x4).
+<END>
+
+21507_JUNGLE_FLOOR_UNMINED_2X2
+<BEGIN>
+Jungle Floor Unmined (2x2).
+<END>
+
+21508_JUNGLE_FLOOR_UNMINED_3X3
+<BEGIN>
+Jungle Floor Unmined (3x3).
+<END>
+
+21509_JUNGLE_FLOOR_UNMINED_4X4
+<BEGIN>
+Jungle Floor Unmined (4x4).
+<END>
+
+21510_JUNGLE_FLOOR_MINED_1X2
+<BEGIN>
+Jungle Floor Mined 1x2.
+<END>
+
+21511_JUNGLE_FLOOR_MINED_1X3
+<BEGIN>
+Jungle Floor Mined 1x3.
+<END>
+
+21512_JUNGLE_FLOOR_MINED_1X4
+<BEGIN>
+Jungle Floor Mined 1x4.
+<END>
+
+21513_JUNGLE_FLOOR_MINED_L_SHAPE
+<BEGIN>
+Jungle Floor Mined L-shape.
+<END>
+
+21514_JUNGLE_FLOOR_UNMINED_1X2
+<BEGIN>
+Jungle Floor Unmined 1x2.
+<END>
+
+21515_JUNGLE_FLOOR_UNMINED_1X3
+<BEGIN>
+Jungle Floor Unmined 1x3.
+<END>
+
+21516_JUNGLE_FLOOR_UNMINED_1X4
+<BEGIN>
+Jungle Floor Unmined 1x4.
+<END>
+
+21517_JUNGLE_FLOOR_UNMINED_L_SHAPE
+<BEGIN>
+Jungle Floor Unmined (L-shape).
+<END>
+
+22000_CORRIDOR_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+Corridor wall piece (one side) 3m.
+<END>
+
+22003_CORRIDOR_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+Corridor wall piece (CornerIn L) 3m.
+<END>
+
+22006_CORRIDOR_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+Corridor wall piece (CornerIn R) 3m.
+<END>
+
+22009_CORRIDOR_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+Corridor wall piece (CornerIn Both) 3m.
+<END>
+
+22012_CORRIDOR_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+Corridor wall piece (CornerOut L) 3m.
+<END>
+
+22015_CORRIDOR_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+Corridor wall piece (CornerOut R) 3m.
+<END>
+
+22018_CORRIDOR_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+Corridor wall piece (CornerOut Both) 3m.
+<END>
+
+22021_CORRIDOR_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+Corridor wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+22024_CORRIDOR_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+Corridor wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+22029_CORRIDOR_FLOOR_PIECE_EMPTY
+<BEGIN>
+Corridor floor piece (empty).
+<END>
+
+22030_CORRIDOR_CORNERIN_PLUG
+<BEGIN>
+Corridor CornerIn Plug.
+<END>
+
+22031_CORRIDOR_2X2_FLOOR_PIECE
+<BEGIN>
+Corridor 2x2 floor piece.
+<END>
+
+22032_CORRIDOR_3X3_FLOOR_PIECE
+<BEGIN>
+Corridor 3x3 floor piece.
+<END>
+
+22033_CORRIDOR_4X4_FLOOR_PIECE
+<BEGIN>
+Corridor 4x4 floor piece.
+<END>
+
+22034_CORRIDOR_WALL_PIECE_ONE_SIDE_3M_X2
+<BEGIN>
+Corridor wall piece (one side) 3m (x2).
+<END>
+
+22035_CORRIDOR_WALL_PIECE_ONE_SIDE_3M_X3
+<BEGIN>
+Corridor wall piece (one side) 3m (x3).
+<END>
+
+22036_CORRIDOR_WALL_PIECE_ONE_SIDE_3M_X4
+<BEGIN>
+Corridor wall piece (one side) 3m (x4).
+<END>
+
+22037_CORRIDOR_WALL_PIECE_ONE_SIDE_3M_X8
+<BEGIN>
+Corridor wall piece (one side) 3m (x8).
+<END>
+
+22500_STRONGROOM_FLOOR_PIECE_EMPTY
+<BEGIN>
+StrongRoom floor piece (empty).
+<END>
+
+22501_STRONGROOM_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+StrongRoom wall piece (one side) 3m.
+<END>
+
+22504_STRONGROOM_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+StrongRoom wall piece (CornerIn L) 3m.
+<END>
+
+22507_STRONGROOM_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+StrongRoom wall piece (CornerIn R) 3m.
+<END>
+
+22510_STRONGROOM_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+StrongRoom wall piece (CornerIn Both) 3m.
+<END>
+
+22513_STRONGROOM_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+StrongRoom wall piece (CornerOut L) 3m.
+<END>
+
+22516_STRONGROOM_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+StrongRoom wall piece (CornerOut R) 3m.
+<END>
+
+22519_STRONGROOM_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+StrongRoom wall piece (CornerOut Both) 3m.
+<END>
+
+22522_STRONGROOM_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+StrongRoom wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+22525_STRONGROOM_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+StrongRoom wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+22528_STRONGROOM_CORNERIN_PLUG
+<BEGIN>
+StrongRoom CornerIn Plug.
+<END>
+
+22531_STRONGROOM_2X2_FLOOR_PIECE
+<BEGIN>
+StrongRoom 2x2 floor piece.
+<END>
+
+22532_STRONGROOM_3X3_FLOOR_PIECE
+<BEGIN>
+StrongRoom 3x3 floor piece.
+<END>
+
+22533_STRONGROOM_4X4_FLOOR_PIECE
+<BEGIN>
+StrongRoom 4x4 floor piece.
+<END>
+
+22534_STRONGROOM_WALL_1_SIDE_3M_X2
+<BEGIN>
+StrongRoom Wall 1 Side 3m (x2).
+<END>
+
+22535_STRONGROOM_WALL_1_SIDE_3M_X3
+<BEGIN>
+StrongRoom Wall 1 Side 3m (x3).
+<END>
+
+22536_STRONGROOM_WALL_1_SIDE_3M_X4
+<BEGIN>
+StrongRoom Wall 1 Side 3m (x4).
+<END>
+
+22537_STRONGROOM_WALL_1_SIDE_3M_X8
+<BEGIN>
+StrongRoom Wall 1 Side 3m (x8).
+<END>
+
+23000_BARRACKS_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+Barracks wall piece (one side) 3m.
+<END>
+
+23003_BARRACKS_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+Barracks wall piece (CornerIn L) 3m.
+<END>
+
+23006_BARRACKS_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+Barracks wall piece (CornerIn R) 3m.
+<END>
+
+23009_BARRACKS_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+Barracks wall piece (CornerIn Both) 3m.
+<END>
+
+23012_BARRACKS_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+Barracks wall piece (CornerOut L) 3m.
+<END>
+
+23015_BARRACKS_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+Barracks wall piece (CornerOut R) 3m.
+<END>
+
+23018_BARRACKS_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+Barracks wall piece (CornerOut Both) 3m.
+<END>
+
+23021_BARRACKS_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+Barracks wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+23024_BARRACKS_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+Barracks wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+23029_BARRACKS_FLOOR_PIECE_EMPTY
+<BEGIN>
+Barracks floor piece (empty).
+<END>
+
+23030_BARRACKS_CORNERIN_PLUG
+<BEGIN>
+Barracks CornerIn Plug.
+<END>
+
+23031_BARRACKS_2X2_FLOOR_PIECE
+<BEGIN>
+Barracks 2x2 floor piece.
+<END>
+
+23032_BARRACKS_3X3_FLOOR_PIECE
+<BEGIN>
+Barracks 3x3 floor piece.
+<END>
+
+23033_BARRACKS_4X4_FLOOR_PIECE
+<BEGIN>
+Barracks 4x4 floor piece.
+<END>
+
+23034_BARRACKS_WALL_1_SIDE_3M_X2
+<BEGIN>
+Barracks Wall 1 Side 3m (x2).
+<END>
+
+23035_BARRACKS_WALL_1_SIDE_3M_X3
+<BEGIN>
+Barracks Wall 1 Side 3m (x3).
+<END>
+
+23036_BARRACKS_WALL_1_SIDE_3M_X4
+<BEGIN>
+Barracks Wall 1 Side 3m (x4).
+<END>
+
+23037_BARRACKS_WALL_1_SIDE_3M_X8
+<BEGIN>
+Barracks Wall 1 Side 3m (x8).
+<END>
+
+23500_CONTROLROOM_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+ControlRoom wall piece (one side) 3m.
+<END>
+
+23503_CONTROLROOM_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+ControlRoom wall piece (CornerIn L) 3m.
+<END>
+
+23506_CONTROLROOM_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+ControlRoom wall piece (CornerIn R) 3m.
+<END>
+
+23509_CONTROLROOM_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+ControlRoom wall piece (CornerIn Both) 3m.
+<END>
+
+23512_CONTROLROOM_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+ControlRoom wall piece (CornerOut L) 3m.
+<END>
+
+23515_CONTROLROOM_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+ControlRoom wall piece (CornerOut R) 3m.
+<END>
+
+23518_CONTROLROOM_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+ControlRoom wall piece (CornerOut Both) 3m.
+<END>
+
+23521_CONTROLROOM_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+ControlRoom wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+23524_CONTROLROOM_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+ControlRoom wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+23529_CONTROLROOM_FLOOR_PIECE_EMPTY
+<BEGIN>
+ControlRoom floor piece (empty).
+<END>
+
+23530_CONTROLROOM_CORNERIN_PLUG
+<BEGIN>
+ControlRoom CornerIn Plug.
+<END>
+
+23531_CONTROLROOM_2X2_FLOOR_PIECE
+<BEGIN>
+ControlRoom 2x2 floor piece.
+<END>
+
+23532_CONTROLROOM_3X3_FLOOR_PIECE
+<BEGIN>
+ControlRoom 3x3 floor piece.
+<END>
+
+23533_CONTROLROOM_4X4_FLOOR_PIECE
+<BEGIN>
+ControlRoom 4x4 floor piece.
+<END>
+
+23534_CONTROLROOM_WALL_1_SIDE_3M_X2
+<BEGIN>
+ControlRoom Wall 1 Side 3m (x2).
+<END>
+
+23535_CONTROLROOM_WALL_1_SIDE_3M_X3
+<BEGIN>
+ControlRoom Wall 1 Side 3m (x3).
+<END>
+
+23536_CONTROLROOM_WALL_1_SIDE_3M_X4
+<BEGIN>
+ControlRoom Wall 1 Side 3m (x4).
+<END>
+
+23537_CONTROLROOM_WALL_1_SIDE_3M_X8
+<BEGIN>
+ControlRoom Wall 1 Side 3m (x8).
+<END>
+
+24000_MESSHALL_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+MessHall wall piece (one side) 3m.
+<END>
+
+24003_MESSHALL_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+MessHall wall piece (CornerIn L) 3m.
+<END>
+
+24006_MESSHALL_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+MessHall wall piece (CornerIn R) 3m.
+<END>
+
+24009_MESSHALL_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+MessHall wall piece (CornerIn Both) 3m.
+<END>
+
+24012_MESSHALL_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+MessHall wall piece (CornerOut L) 3m.
+<END>
+
+24015_MESSHALL_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+MessHall wall piece (CornerOut R) 3m.
+<END>
+
+24018_MESSHALL_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+MessHall wall piece (CornerOut Both) 3m.
+<END>
+
+24021_MESSHALL_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+MessHall wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+24024_MESSHALL_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+MessHall wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+24029_MESSHALL_FLOOR_PIECE_EMPTY
+<BEGIN>
+MessHall floor piece (empty).
+<END>
+
+24030_MESSHALL_CORNERIN_PLUG
+<BEGIN>
+MessHall CornerIn Plug.
+<END>
+
+24031_MESSHALL_2X2_FLOOR_PIECE
+<BEGIN>
+MessHall 2x2 floor piece.
+<END>
+
+24032_MESSHALL_3X3_FLOOR_PIECE
+<BEGIN>
+MessHall 3x3 floor piece.
+<END>
+
+24033_MESSHALL_4X4_FLOOR_PIECE
+<BEGIN>
+MessHall 4x4 floor piece.
+<END>
+
+24034_MESSHALL_WALL_1_SIDE_3M_X2
+<BEGIN>
+MessHall Wall 1 Side 3m (x2).
+<END>
+
+24035_MESSHALL_WALL_1_SIDE_3M_X3
+<BEGIN>
+MessHall Wall 1 Side 3m (x3).
+<END>
+
+24036_MESSHALL_WALL_1_SIDE_3M_X4
+<BEGIN>
+MessHall Wall 1 Side 3m (x4).
+<END>
+
+24037_MESSHALL_WALL_1_SIDE_3M_X8
+<BEGIN>
+MessHall Wall 1 Side 3m (x8).
+<END>
+
+24500_TARPAULIN_WALL_PIECE_ONE_SIDE
+<BEGIN>
+Tarpaulin wall piece (one side).
+<END>
+
+24501_TARPAULIN_WALL_PIECE_ONE_SIDE
+<BEGIN>
+Tarpaulin wall piece (one side).
+<END>
+
+24502_TARPAULIN_WALL_PIECE_ONE_SIDE
+<BEGIN>
+Tarpaulin wall piece (one side).
+<END>
+
+24503_TARPAULIN_WALL_PIECE_TWO_SIDES
+<BEGIN>
+Tarpaulin wall piece (two sides).
+<END>
+
+24504_TARPAULIN_WALL_PIECE_TWO_SIDES
+<BEGIN>
+Tarpaulin wall piece (two sides).
+<END>
+
+24505_TARPAULIN_WALL_PIECE_TWO_SIDES
+<BEGIN>
+Tarpaulin wall piece (two sides).
+<END>
+
+24506_TARPAULIN_CEILING_PIECE
+<BEGIN>
+Tarpaulin ceiling piece.
+<END>
+
+24507_TARPAULIN_CEILING_PIECE
+<BEGIN>
+Tarpaulin ceiling piece.
+<END>
+
+24508_TARPAULIN_CEILING_PIECE
+<BEGIN>
+Tarpaulin ceiling piece.
+<END>
+
+24509_TARPAULIN_WALL_PIECE_TWO_SIDES_OPPOSITE
+<BEGIN>
+Tarpaulin wall piece (two sides opposite).
+<END>
+
+24510_TARPAULIN_WALL_PIECE_TWO_SIDES_OPPOSITE
+<BEGIN>
+Tarpaulin wall piece (two sides opposite).
+<END>
+
+24511_TARPAULIN_WALL_PIECE_TWO_SIDES_OPPOSITE
+<BEGIN>
+Tarpaulin wall piece (two sides opposite).
+<END>
+
+24512_TARPAULIN_WALL_PIECE_THREE_SIDES
+<BEGIN>
+Tarpaulin wall piece (three sides).
+<END>
+
+24513_TARPAULIN_WALL_PIECE_THREE_SIDES
+<BEGIN>
+Tarpaulin wall piece (three sides).
+<END>
+
+24514_TARPAULIN_WALL_PIECE_THREE_SIDES
+<BEGIN>
+Tarpaulin wall piece (three sides).
+<END>
+
+24515_TARPAULIN_WALL_PIECE_FOUR_SIDES
+<BEGIN>
+Tarpaulin wall piece (four sides).
+<END>
+
+24516_TARPAULIN_WALL_PIECE_FOUR_SIDES
+<BEGIN>
+Tarpaulin wall piece (four sides).
+<END>
+
+24517_TARPAULIN_WALL_PIECE_FOUR_SIDES
+<BEGIN>
+Tarpaulin wall piece (four sides).
+<END>
+
+25000_GLOBAL_ARCH_CORNER_2SIDES_3M
+<BEGIN>
+Global arch corner 2sides (3m).
+<END>
+
+25003_GLOBAL_ARCH_CORNER_3SIDES_3M
+<BEGIN>
+Global arch corner 3sides (3m).
+<END>
+
+25006_GLOBAL_ARCH_CORNER_4SIDES_3M
+<BEGIN>
+Global arch corner 4sides (3m).
+<END>
+
+25012_GLOBAL_ARCH_CENTRAL_3M
+<BEGIN>
+Global arch central (3m).
+<END>
+
+25015_GLOBAL_ARCH_END_3M
+<BEGIN>
+Global arch end (3m).
+<END>
+
+25018_GLOBAL_ARCH_END_3M
+<BEGIN>
+Global arch end (3m).
+<END>
+
+25021_GLOBAL_ARCH_CORNER_2SIDES_3M
+<BEGIN>
+Global arch corner 2sides (3m).
+<END>
+
+25024_GLOBAL_ARCH_CORNER_2SIDES_3M
+<BEGIN>
+Global arch corner 2sides (3m).
+<END>
+
+25027_GLOBAL_ARCH_CORNER_2SIDES_3M
+<BEGIN>
+Global arch corner 2sides (3m).
+<END>
+
+25030_GLOBAL_ARCH_CORNER_4SIDES_3M
+<BEGIN>
+Global arch corner 4sides (3m).
+<END>
+
+25033_GLOBAL_ARCH_CORNER_4SIDES_3M
+<BEGIN>
+Global arch corner 4sides (3m).
+<END>
+
+25036_GLOBAL_ARCH_CORNER_4SIDES_3M
+<BEGIN>
+Global arch corner 4sides (3m).
+<END>
+
+25039_GLOBAL_ARCH_CORNER_3SIDES_3M
+<BEGIN>
+Global arch corner 3sides (3m).
+<END>
+
+25042_GLOBAL_ARCH_CORNER_3SIDES_3M
+<BEGIN>
+Global arch corner 3sides (3m).
+<END>
+
+25045_GLOBAL_ARCH_CORNER_3SIDES_3M
+<BEGIN>
+Global arch corner 3sides (3m).
+<END>
+
+25048_GLOBAL_ARCHCORNER_4SIDES_3M_CAP_A
+<BEGIN>
+Global_ArchCorner_4sides_3m_Cap_A.
+<END>
+
+25053_BLUEPRINT_ARCH_LEFT_END_3M
+<BEGIN>
+Blueprint arch left end (3m).
+<END>
+
+25056_GLOBAL_ARCH_END_RIGHT_3M
+<BEGIN>
+Global arch end right (3m).
+<END>
+
+25059_BLUEPRINT_ARCH_CORNER_2SIDES_OUT_3M
+<BEGIN>
+Blueprint arch corner 2sides out (3m).
+<END>
+
+25062_BLUEPRINT_ARCH_CORNER_2SIDES_3M
+<BEGIN>
+Blueprint arch corner 2sides (3m).
+<END>
+
+25065_BLUEPRINT_ARCH_CENTRAL_3M
+<BEGIN>
+Blueprint arch central (3m).
+<END>
+
+25100_GLOBAL_DEPTHBORDER_3M
+<BEGIN>
+Global DepthBorder (3m).
+<END>
+
+25200_TRAININGROOM_FLOOR_PIECE_EMPTY
+<BEGIN>
+TrainingRoom floor piece (empty).
+<END>
+
+25201_TRAININGROOM_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+TrainingRoom wall piece (one side) 3m.
+<END>
+
+25204_TRAININGROOM_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+TrainingRoom wall piece (CornerIn L) 3m.
+<END>
+
+25207_TRAININGROOM_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+TrainingRoom wall piece (CornerIn R) 3m.
+<END>
+
+25210_TRAININGROOM_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+TrainingRoom wall piece (CornerIn Both) 3m.
+<END>
+
+25213_TRAININGROOM_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+TrainingRoom wall piece (CornerOut L) 3m.
+<END>
+
+25216_TRAININGROOM_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+TrainingRoom wall piece (CornerOut R) 3m.
+<END>
+
+25219_TRAININGROOM_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+TrainingRoom wall piece (CornerOut Both) 3m.
+<END>
+
+25222_TRAININGROOM_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+TrainingRoom wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+25225_TRAININGROOM_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+TrainingRoom wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+25228_TRAININGROOM_CORNERIN_PLUG
+<BEGIN>
+TrainingRoom CornerIn Plug.
+<END>
+
+25231_TRAININGROOM_2X2_FLOOR_PIECE
+<BEGIN>
+TrainingRoom 2x2 floor piece.
+<END>
+
+25232_TRAININGROOM_3X3_FLOOR_PIECE
+<BEGIN>
+TrainingRoom 3x3 floor piece.
+<END>
+
+25233_TRAININGROOM_4X4_FLOOR_PIECE
+<BEGIN>
+TrainingRoom 4x4 floor piece.
+<END>
+
+25234_TRAININGROOM_WALL_1_SIDE_3M_X2
+<BEGIN>
+TrainingRoom Wall 1 Side 3m (x2).
+<END>
+
+25235_TRAININGROOM_WALL_1_SIDE_3M_X3
+<BEGIN>
+TrainingRoom Wall 1 Side 3m (x3).
+<END>
+
+25236_TRAININGROOM_WALL_1_SIDE_3M_X4
+<BEGIN>
+TrainingRoom Wall 1 Side 3m (x4).
+<END>
+
+25237_TRAININGROOM_WALL_1_SIDE_3M_X8
+<BEGIN>
+TrainingRoom Wall 1 Side 3m (x8).
+<END>
+
+25400_ARCHIVES_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+Archives wall piece (one side) 3m.
+<END>
+
+25403_ARCHIVES_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+Archives wall piece (CornerIn L) 3m.
+<END>
+
+25406_ARCHIVES_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+Archives wall piece (CornerIn R) 3m.
+<END>
+
+25409_ARCHIVES_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+Archives wall piece (CornerIn Both) 3m.
+<END>
+
+25412_ARCHIVES_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+Archives wall piece (CornerOut L) 3m.
+<END>
+
+25415_ARCHIVES_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+Archives wall piece (CornerOut R) 3m.
+<END>
+
+25418_ARCHIVES_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+Archives wall piece (CornerOut Both) 3m.
+<END>
+
+25421_ARCHIVES_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+Archives wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+25424_ARCHIVES_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+Archives wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+25429_ARCHIVES_FLOOR_PIECE_EMPTY
+<BEGIN>
+Archives floor piece (empty).
+<END>
+
+25430_ARCHIVES_CORNERIN_PLUG
+<BEGIN>
+Archives CornerIn Plug.
+<END>
+
+25431_ARCHIVES_2X2_FLOOR_PIECE
+<BEGIN>
+Archives Floor (2x2).
+<END>
+
+25432_ARCHIVES_3X3_FLOOR_PIECE
+<BEGIN>
+Archives Floor (3x3).
+<END>
+
+25433_ARCHIVES_4X4_FLOOR_PIECE
+<BEGIN>
+Archives Floor (4x4).
+<END>
+
+25434_ARCHIVES_WALL_1_SIDE_3M_X2
+<BEGIN>
+Archives Wall 1 Side 3m (x2).
+<END>
+
+25435_ARCHIVES_WALL_1_SIDE_3M_X3
+<BEGIN>
+Archives Wall 1 Side 3m (x3).
+<END>
+
+25436_ARCHIVES_WALL_1_SIDE_3M_X4
+<BEGIN>
+Archives Wall 1 Side 3m (x4).
+<END>
+
+25437_ARCHIVES_WALL_1_SIDE_3M_X8
+<BEGIN>
+Archives Wall 1 Side 3m (x8).
+<END>
+
+25600_ARMOURY_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+Armory wall piece (one side) 3m.
+<END>
+
+25603_ARMOURY_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+Armory wall piece (CornerIn L) 3m.
+<END>
+
+25606_ARMOURY_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+Armory wall piece (CornerIn R) 3m.
+<END>
+
+25609_ARMOURY_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+Armory wall piece (CornerIn Both) 3m.
+<END>
+
+25612_ARMOURY_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+Armory wall piece (CornerOut L) 3m.
+<END>
+
+25615_ARMOURY_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+Armory wall piece (CornerOut R) 3m.
+<END>
+
+25618_ARMOURY_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+Armory wall piece (CornerOut Both) 3m.
+<END>
+
+25621_ARMOURY_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+Armory wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+25624_ARMOURY_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+Armory wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+25629_ARMOURY_FLOOR_PIECE_EMPTY
+<BEGIN>
+Armory floor piece (empty).
+<END>
+
+25630_ARMOURY_CORNERIN_PLUG
+<BEGIN>
+Armory CornerIn Plug.
+<END>
+
+25631_ARMOURY_2X2_FLOOR_PIECE
+<BEGIN>
+Armory Floor (2x2).
+<END>
+
+25632_ARMOURY_3X3_FLOOR_PIECE
+<BEGIN>
+Armory Floor (3x3).
+<END>
+
+25633_ARMOURY_4X4_FLOOR_PIECE
+<BEGIN>
+Armory Floor (4x4).
+<END>
+
+25634_ARMOURY_WALL_1_SIDE_3M_X2
+<BEGIN>
+Armory Wall 1 Side 3m (x2).
+<END>
+
+25635_ARMOURY_WALL_1_SIDE_3M_X3
+<BEGIN>
+Armory Wall 1 Side 3m (x3).
+<END>
+
+25636_ARMOURY_WALL_1_SIDE_3M_X4
+<BEGIN>
+Armory Wall 1 Side 3m (x4).
+<END>
+
+25637_ARMOURY_WALL_1_SIDE_3M_X8
+<BEGIN>
+Armory Wall 1 Side 3m (x8).
+<END>
+
+25800_INFIRMARY_FLOOR_PIECE_EMPTY
+<BEGIN>
+Infirmary floor piece (empty).
+<END>
+
+25801_INFIRMARY_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+Infirmary wall piece (one side) 3m.
+<END>
+
+25804_INFIRMARY_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+Infirmary wall piece (CornerIn L) 3m.
+<END>
+
+25807_INFIRMARY_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+Infirmary wall piece (CornerIn R) 3m.
+<END>
+
+25810_INFIRMARY_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+Infirmary wall piece (CornerIn Both) 3m.
+<END>
+
+25813_INFIRMARY_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+Infirmary wall piece (CornerOut L) 3m.
+<END>
+
+25816_INFIRMARY_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+Infirmary wall piece (CornerOut R) 3m.
+<END>
+
+25819_INFIRMARY_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+Infirmary wall piece (CornerOut Both) 3m.
+<END>
+
+25822_INFIRMARY_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+Infirmary wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+25825_INFIRMARY_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+Infirmary wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+25828_INFIRMARY_CORNERIN_PLUG
+<BEGIN>
+Infirmary CornerIn Plug.
+<END>
+
+25831_INFIRMARY_2X2_FLOOR_PIECE
+<BEGIN>
+Infirmary 2x2 floor piece.
+<END>
+
+25832_INFIRMARY_3X3_FLOOR_PIECE
+<BEGIN>
+Infirmary 3x3 floor piece.
+<END>
+
+25833_INFIRMARY_4X4_FLOOR_PIECE
+<BEGIN>
+Infirmary 4x4 floor piece.
+<END>
+
+25834_INFIRMARY_WALL_1_SIDE_3M_X2
+<BEGIN>
+Infirmary Wall 1 Side 3m (x2).
+<END>
+
+25835_INFIRMARY_WALL_1_SIDE_3M_X3
+<BEGIN>
+Infirmary Wall 1 Side 3m (x3).
+<END>
+
+25836_INFIRMARY_WALL_1_SIDE_3M_X4
+<BEGIN>
+Infirmary Wall 1 Side 3m (x4).
+<END>
+
+25837_INFIRMARY_WALL_1_SIDE_3M_X8
+<BEGIN>
+Infirmary Wall 1 Side 3m (x8).
+<END>
+
+26000_LABORATORY_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+Laboratory wall piece (one side) 3m.
+<END>
+
+26003_LABORATORY_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+Laboratory wall piece (CornerIn L) 3m.
+<END>
+
+26006_LABORATORY_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+Laboratory wall piece (CornerIn R) 3m.
+<END>
+
+26009_LABORATORY_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+Laboratory wall piece (CornerIn Both) 3m.
+<END>
+
+26012_LABORATORY_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+Laboratory wall piece (CornerOut L) 3m.
+<END>
+
+26015_LABORATORY_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+Laboratory wall piece (CornerOut R) 3m.
+<END>
+
+26018_LABORATORY_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+Laboratory wall piece (CornerOut Both) 3m.
+<END>
+
+26021_LABORATORY_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+Laboratory wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+26024_LABORATORY_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+Laboratory wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+26029_LABORATORY_FLOOR_PIECE_EMPTY
+<BEGIN>
+Laboratory floor piece (empty).
+<END>
+
+26030_LABORATORY_CORNERIN_PLUG
+<BEGIN>
+Laboratory CornerIn Plug.
+<END>
+
+26031_LABORATORY_2X2_FLOOR_PIECE
+<BEGIN>
+Laboratory 2x2 floor piece.
+<END>
+
+26032_LABORATORY_3X3_FLOOR_PIECE
+<BEGIN>
+Laboratory 3x3 floor piece.
+<END>
+
+26033_LABORATORY_4X4_FLOOR_PIECE
+<BEGIN>
+Laboratory 4x4 floor piece.
+<END>
+
+26034_LABORATORY_WALL_1_SIDE_3M_X2
+<BEGIN>
+Laboratory Wall 1 Side 3m (x2).
+<END>
+
+26035_LABORATORY_WALL_1_SIDE_3M_X3
+<BEGIN>
+Laboratory Wall 1 Side 3m (x3).
+<END>
+
+26036_LABORATORY_WALL_1_SIDE_3M_X4
+<BEGIN>
+Laboratory Wall 1 Side 3m (x4).
+<END>
+
+26037_LABORATORY_WALL_1_SIDE_3M_X8
+<BEGIN>
+Laboratory Wall 1 Side 3m (x8).
+<END>
+
+26200_STAFFROOM_FLOOR_PIECE_EMPTY
+<BEGIN>
+StaffRoom floor piece (empty).
+<END>
+
+26201_STAFFROOM_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+StaffRoom wall piece (one side) 3m.
+<END>
+
+26204_STAFFROOM_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+StaffRoom wall piece (CornerIn L) 3m.
+<END>
+
+26207_STAFFROOM_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+StaffRoom wall piece (CornerIn R) 3m.
+<END>
+
+26210_STAFFROOM_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+StaffRoom wall piece (CornerIn Both) 3m.
+<END>
+
+26213_STAFFROOM_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+StaffRoom wall piece (CornerOut L) 3m.
+<END>
+
+26216_STAFFROOM_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+StaffRoom wall piece (CornerOut R) 3m.
+<END>
+
+26219_STAFFROOM_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+StaffRoom wall piece (CornerOut Both) 3m.
+<END>
+
+26222_STAFFROOM_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+StaffRoom wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+26225_STAFFROOM_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+StaffRoom wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+26228_STAFFROOM_CORNERIN_PLUG
+<BEGIN>
+StaffRoom CornerIn Plug.
+<END>
+
+26231_STAFFROOM_2X2_FLOOR_PIECE
+<BEGIN>
+StaffRoom 2x2 floor piece.
+<END>
+
+26232_STAFFROOM_3X3_FLOOR_PIECE
+<BEGIN>
+StaffRoom 3x3 floor piece.
+<END>
+
+26233_STAFFROOM_4X4_FLOOR_PIECE
+<BEGIN>
+StaffRoom 4x4 floor piece.
+<END>
+
+26234_STAFFROOM_WALL_1_SIDE_3M_X2
+<BEGIN>
+StaffRoom Wall 1 Side 3m (x2).
+<END>
+
+26235_STAFFROOM_WALL_1_SIDE_3M_X3
+<BEGIN>
+StaffRoom Wall 1 Side 3m (x3).
+<END>
+
+26236_STAFFROOM_WALL_1_SIDE_3M_X4
+<BEGIN>
+StaffRoom Wall 1 Side 3m (x4).
+<END>
+
+26237_STAFFROOM_WALL_1_SIDE_3M_X8
+<BEGIN>
+StaffRoom Wall 1 Side 3m (x8).
+<END>
+
+26400_30X78_CAVELAGOON_SECTION
+<BEGIN>
+30X78 CaveLagoon section.
+<END>
+
+26401_CAVELAGOON_TRANSITION_L_SEGMENT
+<BEGIN>
+CaveLagoon transition L segment.
+<END>
+
+26402_CAVELAGOON_TRANSITION_R_SEGMENT
+<BEGIN>
+CaveLagoon transition R segment.
+<END>
+
+26403_CAVELAGOON_WALL_1_SIDE
+<BEGIN>
+CaveLagoon wall (1 side).
+<END>
+
+26406_CAVE_LAGOON_FLOOR
+<BEGIN>
+Cave Lagoon Floor.
+<END>
+
+26407_CAVELAGOON_WALL_PLUG_3M
+<BEGIN>
+CaveLagoon wall plug (3m).
+<END>
+
+26410_44X60_CAVEROCKET_SECTION
+<BEGIN>
+A large cavern.
+<END>
+
+26411_44X60_DEVELOPED_CAVEROCKET_SECTION
+<BEGIN>
+Developed Rocket Cavern.
+<END>
+
+26412_CAVE_LAGOON_FLOOR
+<BEGIN>
+Cave Lagoon Floor.
+<END>
+
+26413_CAVELAGOON_WALL_1_SIDE
+<BEGIN>
+CaveLagoon wall (1 side).
+<END>
+
+26414_ENTRANCE_TO_THE_ROCKET_CAVE
+<BEGIN>
+Entrance to the rocket cave.
+<END>
+
+26600_HANGAR_CATWALK_FLOOR_PIECE_EMPTY
+<BEGIN>
+Hangar Catwalk floor piece (empty).
+<END>
+
+26601_HANGAR_CATWALK_WALL_1_SIDE
+<BEGIN>
+Hangar Catwalk wall 1 side.
+<END>
+
+26602_HANGAR_CATWALK_WALL_2_SIDES
+<BEGIN>
+Hangar Catwalk wall 2 sides.
+<END>
+
+26603_HANGAR_CATWALK_WALL_2_SIDES_OPPOSITE
+<BEGIN>
+Hangar Catwalk wall 2 sides opposite.
+<END>
+
+26604_HANGAR_CATWALK_WALL_3_SIDES
+<BEGIN>
+Hangar Catwalk wall 3 sides.
+<END>
+
+26605_HANGAR_CATWALK_WALL_4_SIDES
+<BEGIN>
+Hangar Catwalk wall 4 sides.
+<END>
+
+26606_HANGAR_CATWALK_WALL_CORNER_OUT_PIECE
+<BEGIN>
+Hangar Catwalk wall corner out piece.
+<END>
+
+26609_HANGAR_UNMINED_TILE
+<BEGIN>
+Hangar Unmined Tile.
+<END>
+
+26610_CAVELAGOON_WALL_CORNER_OUT_PLUG_3M
+<BEGIN>
+CaveLagoon wall corner out plug (3m).
+<END>
+
+26613_HANGAR_UNMINEABLE_TILE
+<BEGIN>
+Hangar Unmineable Tile.
+<END>
+
+27000_EGOFFICE_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+EGOffice wall piece (one side) 3m.
+<END>
+
+27003_EGOFFICE_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+EGOffice wall piece (CornerIn L) 3m.
+<END>
+
+27006_EGOFFICE_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+EGOffice wall piece (CornerIn R) 3m.
+<END>
+
+27009_EGOFFICE_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+EGOffice wall piece (CornerIn Both) 3m.
+<END>
+
+27012_EGOFFICE_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+EGOffice wall piece (CornerOut L) 3m.
+<END>
+
+27015_EGOFFICE_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+EGOffice wall piece (CornerOut R) 3m.
+<END>
+
+27018_EGOFFICE_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+EGOffice wall piece (CornerOut Both) 3m.
+<END>
+
+27021_EGOFFICE_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+EGOffice wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+27024_EGOFFICE_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+EGOffice wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+27029_EGOFFICE_FLOOR_PIECE_EMPTY
+<BEGIN>
+EGOffice floor piece (empty).
+<END>
+
+27030_EGOFFICE_CORNERIN_PLUG
+<BEGIN>
+EGOffice CornerIn Plug.
+<END>
+
+27031_EGOFFICE_2X2_FLOOR_PIECE
+<BEGIN>
+EGOffice 2x2 floor piece.
+<END>
+
+27032_EGOFFICE_3X3_FLOOR_PIECE
+<BEGIN>
+EGOffice 3x3 floor piece.
+<END>
+
+27033_EGOFFICE_4X4_FLOOR_PIECE
+<BEGIN>
+EGOffice 4x4 floor piece.
+<END>
+
+27400_POWERPLANT_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+PowerPlant wall piece (one side) 3m.
+<END>
+
+27403_POWERPLANT_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+PowerPlant wall piece (CornerIn L) 3m.
+<END>
+
+27406_POWERPLANT_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+PowerPlant wall piece (CornerIn R) 3m.
+<END>
+
+27409_POWERPLANT_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+PowerPlant wall piece (CornerIn Both) 3m.
+<END>
+
+27412_POWERPLANT_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+PowerPlant wall piece (CornerOut L) 3m.
+<END>
+
+27415_POWERPLANT_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+PowerPlant wall piece (CornerOut R) 3m.
+<END>
+
+27418_POWERPLANT_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+PowerPlant wall piece (CornerOut Both) 3m.
+<END>
+
+27421_POWERPLANT_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+PowerPlant wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+27424_POWERPLANT_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+PowerPlant wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+27429_POWERPLANT_FLOOR_PIECE_EMPTY
+<BEGIN>
+PowerPlant floor piece (empty).
+<END>
+
+27430_POWERPLANT_CORNERIN_PLUG
+<BEGIN>
+PowerPlant CornerIn Plug.
+<END>
+
+27431_POWERPLANT_2X2_FLOOR_PIECE
+<BEGIN>
+PowerPlant 2x2 floor piece.
+<END>
+
+27432_POWERPLANT_3X3_FLOOR_PIECE
+<BEGIN>
+PowerPlant 3x3 floor piece.
+<END>
+
+27433_POWERPLANT_4X4_FLOOR_PIECE
+<BEGIN>
+PowerPlant 4x4 floor piece.
+<END>
+
+27434_POWERPLANT_WALL_1_SIDE_3M_X2
+<BEGIN>
+PowerPlant Wall 1 Side 3m (x2).
+<END>
+
+27435_POWERPLANT_WALL_1_SIDE_3M_X3
+<BEGIN>
+PowerPlant Wall 1 Side 3m (x3).
+<END>
+
+27436_POWERPLANT_WALL_1_SIDE_3M_X4
+<BEGIN>
+PowerPlant Wall 1 Side 3m (x4).
+<END>
+
+27437_POWERPLANT_WALL_1_SIDE_3M_X8
+<BEGIN>
+PowerPlant Wall 1 Side 3m (x8).
+<END>
+
+27600_UNMINED_HOTEL
+<BEGIN>
+Unmined hotel.
+<END>
+
+27601_MINED_HOTEL
+<BEGIN>
+Mined hotel.
+<END>
+
+27602_HOTEL_HUB_TOP_CUTAWAY
+<BEGIN>
+Hotel Hub Top Cutaway.
+<END>
+
+27603_HOTEL_WING_TOP_CUTAWAY
+<BEGIN>
+Hotel Wing Top Cutaway.
+<END>
+
+27604_HOTEL_DOUBLE_DOOR_WALL_3M
+<BEGIN>
+Hotel Double Door Wall (3m).
+<END>
+
+27605_HOTEL_DOUBLE_DOOR_WALL_4M
+<BEGIN>
+Hotel Double Door Wall (4m).
+<END>
+
+27606_HOTEL_DOUBLE_DOOR_WALL_5M
+<BEGIN>
+Hotel Double Door Wall (5m).
+<END>
+
+27607_HOTEL_DOUBLE_DOOR_WALL_3M
+<BEGIN>
+Hotel Double Door Wall (3m).
+<END>
+
+27608_HOTEL_DOUBLE_DOOR_WALL_4M
+<BEGIN>
+Hotel Double Door Wall (4m).
+<END>
+
+27609_HOTEL_DOUBLE_DOOR_WALL_5M
+<BEGIN>
+Hotel Double Door Wall (5m).
+<END>
+
+27610_HOTEL_DOUBLE_DOOR_CORNEROUT_L_3M
+<BEGIN>
+Hotel Double Door CornerOut L (3m).
+<END>
+
+27611_HOTEL_DOUBLE_DOOR_CORNEROUT_L_4M
+<BEGIN>
+Hotel Double Door CornerOut L (4m).
+<END>
+
+27612_HOTEL_DOUBLE_DOOR_CORNEROUT_L_5M
+<BEGIN>
+Hotel Double Door CornerOut L (5m).
+<END>
+
+27613_HOTEL_DOUBLE_DOOR_CORNEROUT_R_3M
+<BEGIN>
+Hotel Double Door CornerOut R (3m).
+<END>
+
+27614_HOTEL_DOUBLE_DOOR_CORNEROUT_R_4M
+<BEGIN>
+Hotel Double Door CornerOut R (4m).
+<END>
+
+27615_HOTEL_DOUBLE_DOOR_CORNEROUT_R_5M
+<BEGIN>
+Hotel Double Door CornerOut R (5m).
+<END>
+
+27616_HOTEL_DOOR_PLUG_L
+<BEGIN>
+Hotel Door Plug L.
+<END>
+
+27617_HOTEL_DOOR_PLUG_R
+<BEGIN>
+Hotel Door Plug R.
+<END>
+
+27800_HOTELCASINO_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+HotelCasino wall piece (one side) 3m.
+<END>
+
+27803_HOTELCASINO_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+HotelCasino wall piece (CornerIn L) 3m.
+<END>
+
+27806_HOTELCASINO_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+HotelCasino wall piece (CornerIn R) 3m.
+<END>
+
+27809_HOTELCASINO_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+HotelCasino wall piece (CornerIn Both) 3m.
+<END>
+
+27812_HOTELCASINO_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+HotelCasino wall piece (CornerOut L) 3m.
+<END>
+
+27815_HOTELCASINO_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+HotelCasino wall piece (CornerOut R) 3m.
+<END>
+
+27818_HOTELCASINO_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+HotelCasino wall piece (CornerOut Both) 3m.
+<END>
+
+27821_HOTELCASINO_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+HotelCasino wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+27824_HOTELCASINO_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+HotelCasino wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+27829_HOTEL_CASINO_FLOOR_PIECE_EMPTY
+<BEGIN>
+Hotel Casino floor piece (empty).
+<END>
+
+27830_HOTEL_CASINO_CORNERIN_PLUG
+<BEGIN>
+Hotel Casino CornerIn Plug.
+<END>
+
+27831_HOTELCASINO_2X2_FLOOR_PIECE
+<BEGIN>
+Hotel Casino Floor (2x2).
+<END>
+
+27832_HOTELCASINO_3X3_FLOOR_PIECE
+<BEGIN>
+Hotel Casino Floor (3x3).
+<END>
+
+27833_HOTELCASINO_4X4_FLOOR_PIECE
+<BEGIN>
+Hotel Casino Floor (4x4).
+<END>
+
+28000_HOTELLOBBY_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+HotelLobby wall piece (one side) 3m.
+<END>
+
+28003_HOTELLOBBY_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+HotelLobby wall piece (CornerIn L) 3m.
+<END>
+
+28006_HOTELLOBBY_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+HotelLobby wall piece (CornerIn R) 3m.
+<END>
+
+28009_HOTELLOBBY_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+HotelLobby wall piece (CornerIn Both) 3m.
+<END>
+
+28012_HOTELLOBBY_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+HotelLobby wall piece (CornerOut L) 3m.
+<END>
+
+28015_HOTELLOBBY_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+HotelLobby wall piece (CornerOut R) 3m.
+<END>
+
+28018_HOTELLOBBY_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+HotelLobby wall piece (CornerOut Both) 3m.
+<END>
+
+28021_HOTELLOBBY_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+HotelLobby wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+28024_HOTELLOBBY_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+HotelLobby wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+28029_HOTEL_LOBBY_FLOOR_PIECE_EMPTY
+<BEGIN>
+Hotel Lobby floor piece (empty).
+<END>
+
+28030_HOTEL_LOBBY_CORNERIN_PLUG
+<BEGIN>
+Hotel Lobby CornerIn Plug.
+<END>
+
+28031_HOTELLOBBY_2X2_FLOOR_PIECE
+<BEGIN>
+Hotel Lobby Floor (2x2).
+<END>
+
+28032_HOTELLOBBY_3X3_FLOOR_PIECE
+<BEGIN>
+Hotel Lobby Floor (3x3).
+<END>
+
+28033_HOTELLOBBY_4X4_FLOOR_PIECE
+<BEGIN>
+Hotel Lobby Floor (4x4).
+<END>
+
+28200_HOTELLOUNGE_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+HotelLounge wall piece (one side) 3m.
+<END>
+
+28203_HOTELLOUNGE_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+HotelLounge wall piece (CornerIn L) 3m.
+<END>
+
+28206_HOTELLOUNGE_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+HotelLounge wall piece (CornerIn R) 3m.
+<END>
+
+28209_HOTELLOUNGE_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+HotelLounge wall piece (CornerIn Both) 3m.
+<END>
+
+28212_HOTELLOUNGE_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+HotelLounge wall piece (CornerOut L) 3m.
+<END>
+
+28215_HOTELLOUNGE_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+HotelLounge wall piece (CornerOut R) 3m.
+<END>
+
+28218_HOTELLOUNGE_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+HotelLounge wall piece (CornerOut Both) 3m.
+<END>
+
+28221_HOTELLOUNGE_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+HotelLounge wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+28224_HOTELLOUNGE_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+HotelLounge wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+28229_HOTEL_LOUNGE_FLOOR_PIECE_EMPTY
+<BEGIN>
+Hotel Lounge floor piece (empty).
+<END>
+
+28230_HOTEL_LOUNGE_CORNERIN_PLUG
+<BEGIN>
+Hotel Lounge CornerIn Plug.
+<END>
+
+28231_HOTELLOUNGE_2X2_FLOOR_PIECE
+<BEGIN>
+Hotel Lounge Floor (2x2).
+<END>
+
+28232_HOTELLOUNGE_3X3_FLOOR_PIECE
+<BEGIN>
+Hotel Lounge Floor (3x3).
+<END>
+
+28233_HOTELLOUNGE_4X4_FLOOR_PIECE
+<BEGIN>
+Hotel Lounge Floor (4x4).
+<END>
+
+28400_DIRT_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+Dirt wall piece (one side) 3m.
+<END>
+
+28429_DIRT_FLOOR_PIECE_EMPTY
+<BEGIN>
+Dirt floor piece (empty).
+<END>
+
+28431_DIRT_2X2_FLOOR_PIECE
+<BEGIN>
+Dirt 2x2 floor piece.
+<END>
+
+28432_DIRT_3X3_FLOOR_PIECE
+<BEGIN>
+Dirt 3x3 floor piece.
+<END>
+
+28433_DIRT_4X4_FLOOR_PIECE
+<BEGIN>
+Dirt 4x4 floor piece.
+<END>
+
+28600_FREEZER_WALL_PIECE_ONE_SIDE_3M
+<BEGIN>
+Freezer wall piece (one side) 3m.
+<END>
+
+28603_FREEZER_WALL_PIECE_CORNERIN_L_3M
+<BEGIN>
+Freezer wall piece (CornerIn L) 3m.
+<END>
+
+28606_FREEZER_WALL_PIECE_CORNERIN_R_3M
+<BEGIN>
+Freezer wall piece (CornerIn R) 3m.
+<END>
+
+28609_FREEZER_WALL_PIECE_CORNERIN_BOTH_3M
+<BEGIN>
+Freezer wall piece (CornerIn Both) 3m.
+<END>
+
+28612_FREEZER_WALL_PIECE_CORNEROUT_L_3M
+<BEGIN>
+Freezer wall piece (CornerOut L) 3m.
+<END>
+
+28615_FREEZER_WALL_PIECE_CORNEROUT_R_3M
+<BEGIN>
+Freezer wall piece (CornerOut R) 3m.
+<END>
+
+28618_FREEZER_WALL_PIECE_CORNEROUT_BOTH_3M
+<BEGIN>
+Freezer wall piece (CornerOut Both) 3m.
+<END>
+
+28621_FREEZER_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+<BEGIN>
+Freezer wall piece (CornerOut L CornerIn R) 3m.
+<END>
+
+28624_FREEZER_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+<BEGIN>
+Freezer wall piece (CornerOut R CornerIn L) 3m.
+<END>
+
+28629_FREEZER_FLOOR_PIECE_EMPTY
+<BEGIN>
+Freezer floor piece (empty).
+<END>
+
+28630_FREEZER_CORNERIN_PLUG
+<BEGIN>
+Freezer CornerIn Plug.
+<END>
+
+28631_FREEZER_2X2_FLOOR_PIECE
+<BEGIN>
+Freezer 2x2 floor piece.
+<END>
+
+28632_FREEZER_3X3_FLOOR_PIECE
+<BEGIN>
+Freezer 3x3 floor piece.
+<END>
+
+28633_FREEZER_4X4_FLOOR_PIECE
+<BEGIN>
+Freezer 4x4 floor piece.
+<END>
+
+28634_FREEZER_WALL_1_SIDE_3M_X2
+<BEGIN>
+Freezer Wall 1 Side 3m (x2).
+<END>
+
+28635_FREEZER_WALL_1_SIDE_3M_X3
+<BEGIN>
+Freezer Wall 1 Side 3m (x3).
+<END>
+
+28636_FREEZER_WALL_1_SIDE_3M_X4
+<BEGIN>
+Freezer Wall 1 Side 3m (x4).
+<END>
+
+28637_FREEZER_WALL_1_SIDE_3M_X8
+<BEGIN>
+Freezer Wall 1 Side 3m (x8).
+<END>
+
+28800_DESERT_FLOOR_UNMINED_1X1
+<BEGIN>
+Desert Floor Unmined (1x1).
+<END>
+
+28801_DESERT_FLOOR_UNMINED_2X2
+<BEGIN>
+Desert Floor Unmined (2x2).
+<END>
+
+28802_DESERT_FLOOR_UNMINED_3X3
+<BEGIN>
+Desert Floor Unmined (3x3).
+<END>
+
+28803_DESERT_FLOOR_UNMINED_4X4
+<BEGIN>
+Desert Floor Unmined (4x4).
+<END>
+
+28810_DESERT_FLOOR_MINED_1X1
+<BEGIN>
+Desert Floor Mined (1x1).
+<END>
+
+28811_DESERT_FLOOR_MINED_2X2
+<BEGIN>
+Desert Floor Mined (2x2).
+<END>
+
+28812_DESERT_FLOOR_MINED_3X3
+<BEGIN>
+Desert Floor Mined (3x3).
+<END>
+
+28813_DESERT_FLOOR_MINED_4X4
+<BEGIN>
+Desert Floor Mined (4x4).
+<END>
+
+50021_WORLD_DOMINATION_MANAGER
+<BEGIN>
+World Domination Manager
+<END>
+
+50022_IT_S_A_TINY_HELICOPTER_AH_BLESS
+<BEGIN>
+It's a tiny helicopter. Ah, bless!
+<END>
+
+50023_MAN_DOWN
+<BEGIN>
+Man Down.
+<END>
+
+50024_ISLAND_2
+<BEGIN>
+Island 2.
+<END>
+
+50025_ISLAND_2
+<BEGIN>
+Island 2.
+<END>
+
+50026_ISLAND_2
+<BEGIN>
+Island 2.
+<END>
+
+50000_ANTARCTICA
+<BEGIN>
+Antarctica.
+<END>
+
+50001_AUSTRALASIA
+<BEGIN>
+Australasia.
+<END>
+
+50002_CENTRAL_ASIA
+<BEGIN>
+Central Asia.
+<END>
+
+50003_CENTRAL_RUSSIA
+<BEGIN>
+Central Russia.
+<END>
+
+50004_CUBA
+<BEGIN>
+Cuba.
+<END>
+
+50005_EAST_COAST
+<BEGIN>
+East Coast.
+<END>
+
+50006_EASTERN_BLOC
+<BEGIN>
+Eastern Bloc.
+<END>
+
+50007_EUROPE
+<BEGIN>
+Europe.
+<END>
+
+50008_MIDDLE_EAST
+<BEGIN>
+Middle East.
+<END>
+
+50009_MID_WEST
+<BEGIN>
+Mid-West.
+<END>
+
+50010_NORTH_AFRICA
+<BEGIN>
+North Africa.
+<END>
+
+50011_NORTH_CHINA
+<BEGIN>
+North China.
+<END>
+
+50012_PACIFIC_ALLIES
+<BEGIN>
+Pacific Allies.
+<END>
+
+50013_POLYNESIA
+<BEGIN>
+Polynesia.
+<END>
+
+50014_SIBERIA
+<BEGIN>
+Siberia.
+<END>
+
+50015_SOUTH_AFRICA
+<BEGIN>
+Southern Africa.
+<END>
+
+50016_SOUTH_AMERICA
+<BEGIN>
+South America.
+<END>
+
+50017_SOUTHEAST_ASIA
+<BEGIN>
+Southeast Asia.
+<END>
+
+50018_SUB_CONTINENT
+<BEGIN>
+The Indian Subcontinent.
+<END>
+
+50019_WEST_COAST
+<BEGIN>
+West Coast.
+<END>
+
+50100_AMERICAN_JUSTICE_PRESENCE
+<BEGIN>
+P.A.T.R.I.O.T. Justice Presence.
+<END>
+
+50101_EUROPEAN_JUSTICE_PRESENCE
+<BEGIN>
+S.A.B.R.E. Justice Presence.
+<END>
+
+50102_RUSSIA_JUSTICE_PRESENCE
+<BEGIN>
+H.A.M.M.E.R. Justice Presence.
+<END>
+
+50103_CHINESE_JUSTICE_PRESENCE
+<BEGIN>
+A.N.V.I.L. Justice Presence.
+<END>
+
+50104_UNALIGNED_JUSTICE_PRESENCE
+<BEGIN>
+S.M.A.S.H. Justice Presence.
+<END>
+
+50105_RAMBO
+<BEGIN>
+Dirk Masters
+<END>
+
+50106_SUPER_COOL_DUDE
+<BEGIN>
+John Steele
+<END>
+
+50107_ICE_QUEEN
+<BEGIN>
+Katerina Frostanova
+<END>
+
+50108_WANNA_FIGHT_FIGHT_ME
+<BEGIN>
+Jet Chan
+<END>
+
+50109_AMAZONIAN_WARRIOR_QUEEN
+<BEGIN>
+Mariana Mamba
+<END>
+
+50110_EVIL_MONKEY_TERRORISES_LONDON
+<BEGIN>
+Evil Monkey Terrorizes London
+<END>
+
+50301_TEST_ACT_OF_INFAMY
+<BEGIN>
+Tutorial Act of Infamy
+<END>
+
+50302_STEAL_THE_LIBRARY_BLUEPRINTS
+<BEGIN>
+Steal the Library Blueprints
+<END>
+
+50303_EUROPEAN_CRIME_LORD
+<BEGIN>
+Indian Crime Lord
+<END>
+
+50304_AMERICAN_CRIME_LORD
+<BEGIN>
+American Crime Lord
+<END>
+
+50305_ORIENTAL_CRIME_LORD
+<BEGIN>
+Oriental Crime Lord
+<END>
+
+50306_INTERNATIONAL_ARMS_CRIME_LORD
+<BEGIN>
+International Arms Crime Lord
+<END>
+
+50307_ORIENTAL_INVESTIGATION
+<BEGIN>
+Oriental Investigation
+<END>
+
+50308_FRIKKEN_LASER
+<BEGIN>
+Frikken Laser
+<END>
+
+50309_MAXIMUM_IMPACT
+<BEGIN>
+Maximum Impact
+<END>
+
+50310_SPINNING_AROUND
+<BEGIN>
+Spinning Around
+<END>
+
+50311_FOOL_THE_PRESS
+<BEGIN>
+Fool the Press
+<END>
+
+50312_MAID_KIDNAP
+<BEGIN>
+Kidnap Hotel Head Maid
+<END>
+
+50313_MAID_KIDNAP
+<BEGIN>
+Seize Hotel Head Maid
+<END>
+
+50314_HANDYMAN_KIDNAP
+<BEGIN>
+Abduct Repairman
+<END>
+
+50315_HANDYMAN_KIDNAP
+<BEGIN>
+Capture Technician
+<END>
+
+50316_SPINDOCTOR_KIDNAP
+<BEGIN>
+Abduct Spin-Doctor
+<END>
+
+50317_SPINDOCTOR_KIDNAP
+<BEGIN>
+Take Spin-Doctor Hostage
+<END>
+
+50318_SCIENTIST_KIDNAP
+<BEGIN>
+Snatch Science Specialist
+<END>
+
+50319_SCIENTIST_KIDNAP
+<BEGIN>
+Take Scientist Hostage
+<END>
+
+50320_QPHYS_KIDNAP
+<BEGIN>
+Kidnap Quantum Physicist
+<END>
+
+50321_QPHYS_KIDNAP
+<BEGIN>
+Abduct Quantum Physicist
+<END>
+
+50322_PLAYBOY_KIDNAP
+<BEGIN>
+Snatch Riviera Playboy
+<END>
+
+50323_PLAYBOY_KIDNAP
+<BEGIN>
+Seize Hollywood Playboy
+<END>
+
+50324_MERC_KIDNAP
+<BEGIN>
+Kidnap Militia Leader
+<END>
+
+50325_MERC_KIDNAP
+<BEGIN>
+Capture Mercenary Soldier
+<END>
+
+50326_MARTIAL_ARTIST_KIDNAP
+<BEGIN>
+Capture Martial Arts Master
+<END>
+
+50327_MARTIAL_ARTIST_KIDNAP
+<BEGIN>
+Kidnap Ancient Martial Artist
+<END>
+
+50328_MARKSMAN_KIDNAP
+<BEGIN>
+Capture Marksman Specialist
+<END>
+
+50329_MARKSMAN_KIDNAP
+<BEGIN>
+Seize Military Sniper
+<END>
+
+50330_GUARD_KIDNAP
+<BEGIN>
+Capture Guard
+<END>
+
+50331_GUARD_KIDNAP
+<BEGIN>
+Take Guard Hostage
+<END>
+
+50332_DIPLOMAT_KIDNAP
+<BEGIN>
+Capture Diplomatic Envoy
+<END>
+
+50333_DIPLOMAT_KIDNAP
+<BEGIN>
+Kidnap Diplomatic Envoy
+<END>
+
+50334_BIO_CHEM_KIDNAP
+<BEGIN>
+Seize a Biochemist
+<END>
+
+50335_BIO_CHEM_KIDNAP
+<BEGIN>
+Kidnap a Biochemist
+<END>
+
+50336_UBER_LOOT_EIFFEL_TOWER
+<BEGIN>
+Uber-Loot: Eiffel Tower
+<END>
+
+50337_UBER_LOOT_MILLION_DOLLAR_BILL
+<BEGIN>
+Uber-Loot: Million Dollar Bill
+<END>
+
+50338_UBER_LOOT_ARK_OF_THE_COVENANT
+<BEGIN>
+Uber-Loot: Ark of the Covenant
+<END>
+
+50339_UBER_LOOT_MUMMY_S_SARCOPHAGUS
+<BEGIN>
+Uber-Loot: Mummy's Sarcophagus
+<END>
+
+50340_UBER_LOOT_SAMURAI_ARMOUR
+<BEGIN>
+Uber-Loot: Samurai Armor
+<END>
+
+50341_UBER_LOOT_EXCALIBUR
+<BEGIN>
+Uber-Loot: Arthur's Excalibur
+<END>
+
+50342_CODEX_OF_KNOWLEDGE
+<BEGIN>
+Steal the Codex of Knowledge
+<END>
+
+50343_MERCENARY_SCIENTIST
+<BEGIN>
+Employ Mercenary Scientist
+<END>
+
+50344_MERCENARY_SCIENTIST
+<BEGIN>
+Entice Mercenary Scientist
+<END>
+
+50345_MERCENARY_SCIENTIST
+<BEGIN>
+Recruit Mercenary Scientist
+<END>
+
+50346_MERCENARY_SCIENTIST
+<BEGIN>
+Bribe Mercenary Scientist
+<END>
+
+50347_MERCENARY_SCIENTIST
+<BEGIN>
+Coerce Mercenary Scientist
+<END>
+
+50348_OBJECTIVE7_MOLE_EUROPE
+<BEGIN>
+Swindle a Seat on the S.A.B.R.E. Council
+<END>
+
+50349_OBJECTIVE7_MOLE_USA
+<BEGIN>
+Bribe a Place on the P.A.T.R.I.O.T. Council
+<END>
+
+50350_OBJECTIVE7_MOLE_CHINA
+<BEGIN>
+Blackmail a Seat on A.N.V.I.L. Council
+<END>
+
+50351_OBJECTIVE7_MOLE_RUSSIA
+<BEGIN>
+Plant an Agent on H.A.M.M.E.R. Council
+<END>
+
+50352_OBJECTIVE7_MOLE_UNALIGNED
+<BEGIN>
+Infiltrate and Coerce S.M.A.S.H.
+<END>
+
+50353_OBJECTIVE7_RESOURCE_EUROPE
+<BEGIN>
+Buyout De Laagers Diamond Mining Inc
+<END>
+
+50357_OBJECTIVE7_RESOURCE_UNALIGNED
+<BEGIN>
+Acquire Peruvian Titanium Source
+<END>
+
+50355_OBJECTIVE7_RESOURCE_CHINA
+<BEGIN>
+Infiltrate A.N.V.I.L's Top-secret Ore Mine 
+<END>
+
+50356_OBJECTIVE7_RESOURCE_RUSSIA
+<BEGIN>
+Steal Oil from ESKO Oil Refinery
+<END>
+
+50354_OBJECTIVE7_RESOURCE_USA
+<BEGIN>
+Takeover the Wyotech Advanced Polymers
+<END>
+
+50358_INFOONE
+<BEGIN>
+Acquire some Doomsday Device Data
+<END>
+
+50359_INFOTWO
+<BEGIN>
+Acquire some Doomsday Device Data
+<END>
+
+50360_INFOTHREE
+<BEGIN>
+Acquire some Doomsday Device Data
+<END>
+
+50361_COSMONAUT
+<BEGIN>
+Lure the Cosmonaut.
+<END>
+
+50362_ROCKET_ENGINE_PLANS
+<BEGIN>
+Steal the Rocket Engine Plans
+<END>
+
+50363_USA_DOOMSDAY_TECHNOLOGY
+<BEGIN>
+Steal the Gyroscopic Plasma Inducer
+<END>
+
+50364_EUROPEAN_DOOMSDAY_TECHNOLOGY
+<BEGIN>
+Steal the Electromagnetic Flux Transponder
+<END>
+
+50365_CHINESE_DOOMSDAY_TECHNOLOGY
+<BEGIN>
+Steal the Meteorite of Unfathomable Molecular Structure
+<END>
+
+50366_RECRUIT_ELI
+<BEGIN>
+Recruit Eli Barracuda
+<END>
+
+50367_RECRUIT_TOPHAT
+<BEGIN>
+Recruit Lord Kane
+<END>
+
+50368_RECRUIT_JUBEI
+<BEGIN>
+Recruit Jubei
+<END>
+
+50369_RECRUIT_MATRON
+<BEGIN>
+Recruit The Matron
+<END>
+
+50370_RECRUIT_IVAN
+<BEGIN>
+Recruit Red Ivan
+<END>
+
+50371_RECRUIT_VOODOO
+<BEGIN>
+Recruit Montezuma
+<END>
+
+50372_RECRUIT_FEMALESCI
+<BEGIN>
+Recruit Dr Neurocide
+<END>
+
+50373_RECRUIT_HYPNO
+<BEGIN>
+Recruit the Great Mesmero
+<END>
+
+50374_RECRUIT_MOKO
+<BEGIN>
+Recruit Moko
+<END>
+
+50375_RECRUIT_BUTCHER
+<BEGIN>
+Recruit The Butcher
+<END>
+
+50376_AOI_NTUTORIAL
+<BEGIN>
+A tutorial Act of Infamy
+<END>
+
+50377_DEFEATSA_ANVIL
+<BEGIN>
+Kidnap Jet Chan's Mentor
+<END>
+
+50378_DEFEATSA_PATRIOT
+<BEGIN>
+Infiltrate Dirk Master's Gym
+<END>
+
+50379_DEFEATSA_HAMMER
+<BEGIN>
+Steal Mr Snuggles
+<END>
+
+50380_OBJECTIVE15_CLONINGCHAMBER
+<BEGIN>
+Steal the cloning chamber
+<END>
+
+50381_HENCHMAN_RECRUIT_HUNTER
+<BEGIN>
+Recruit BONUS Henchman
+<END>
+
+50460_TOTEM1
+<BEGIN>
+Steal the first cursed totem pole section
+<END>
+
+50461_TOTEM2
+<BEGIN>
+Steal the second cursed totem pole section.
+<END>
+
+50462_TOTEM3
+<BEGIN>
+Steal the third cursed totem pole section.
+<END>
+
+50463_TOTEM4
+<BEGIN>
+Steal the fourth cursed totem pole section
+<END>
+
+50464_SOUTH_AFRICA_CASINO_UNLOCK
+<BEGIN>
+Gambling Pay Off
+<END>
+
+50465_MONKEY_BOX
+<BEGIN>
+Monkey Magic
+<END>
+
+
+####################################################
+## 	    AOI Generic Notoriety Titles	  ##
+####################################################
+
+50400_AFRICA_5_EAR_PLUG_TITLE
+<BEGIN>
+Ear Plug
+<END>
+
+50401_MIDDLE_EAST_5_OIL_LEAK_TITLE
+<BEGIN>
+Oil Leak
+<END>
+
+50402_SOUTH_AMERICA_5_OILSEED_INFERNO_TITLE
+<BEGIN>
+Oilseed Inferno
+<END>
+
+50403_SOUTH_AFRICA_5_CHINESE_WHISPERS_TITLE
+<BEGIN>
+Chinese Whispers
+<END>
+
+50404_ANTARCTICA_5_COMING_IN_FROM_THE_COLD_TITLE
+<BEGIN>
+Coming In From The Cold
+<END>
+
+50405_POLYNESIAN_5_FISHY_BUSINESS_TITLE
+<BEGIN>
+Fishy Business
+<END>
+
+50406_CENTRAL_ASIA_5_MING_BLING_BLING_TITLE
+<BEGIN>
+Ming Bling Bling
+<END>
+
+50407_NORTH_ASIA_5_PHILOSOPHER_STONE_TITLE
+<BEGIN>
+Philosopher's Stone
+<END>
+
+50408_CENTRAL_ASIA_5_NOW_YOU_STEAL_IT_TITLE
+<BEGIN>
+Now you Steal It
+<END>
+
+50409_SOUTHEAST_ASIA_5_PHILANDERING_PANDA_TITLE
+<BEGIN>
+Philandering Panda
+<END>
+
+50410_SUBCONTINENT_5_FORGING_AHEAD_TITLE
+<BEGIN>
+Forging Ahead
+<END>
+
+50411_AUSTRALASIA_5_EYE_SPY_TITLE
+<BEGIN>
+Eye Spy
+<END>
+
+50412_SOUTH_AFRICA_5_GENERAL_DISARRAY_TITLE
+<BEGIN>
+General Disarray
+<END>
+
+50413_SUBCONTINENT_5_IN_THE_DRINK_TITLE
+<BEGIN>
+In the Drink
+<END>
+
+50414_EUROPE_5_ROYAL_RUMBLE_TITLE
+<BEGIN>
+Royal Rumble
+<END>
+
+50415_GULF_MEXICO_5_MISSILE_CRISIS_TITLE
+<BEGIN>
+Missile Crisis
+<END>
+
+50416_GULF_MEXICO_5_MINES_A_LARGE_ONE_TITLE
+<BEGIN>
+Mines a Large One
+<END>
+
+50417_CENTRAL_RUSSIA_5_THE_SOUND_OF_MUSIC_TITLE
+<BEGIN>
+The Sound of Music
+<END>
+
+50418_EASTERN_BLOC_5_ESPRIT_DE_CORPSE_TITLE
+<BEGIN>
+Esprit de Corpse
+<END>
+
+50419_SIBERIA_5_MAMMOTH_TASK_TITLE
+<BEGIN>
+Mammoth Task
+<END>
+
+50420_WEST_COAST_5_GOLDEN_OPPORTUNITY_TITLE
+<BEGIN>
+Golden Opportunity
+<END>
+
+50421_PACIFIC_ALLIES_5_SAMURAI_SWORD_SWINDLE_TITLE
+<BEGIN>
+Samurai Sword Swindle
+<END>
+
+50422_WEST_COAST_5_FELONIUS_FUND_RASIER_TITLE
+<BEGIN>
+Felonious Fund-Raiser
+<END>
+
+50423_EAST_COAST_5_POP_STAR_FRACAS_TITLE
+<BEGIN>
+Pop Star Fracas
+<END>
+
+50424_MID_WEST_5_WELL_SUITED_TITLE
+<BEGIN>
+Well Suited
+<END>
+
+50425_MIDDLE_EAST_10_DOUBLE_DOUBLE_OIL_AND_TROUBLE_TITLE
+<BEGIN>
+Double, Double Oil and Trouble
+<END>
+
+50426_SOUTH_AMERICA_10_COLLATERAL_DAMAGE_TITLE
+<BEGIN>
+Collateral Damage
+<END>
+
+50427_MIDDLE_EAST_10_SHEIKING_THE_RUG_TITLE
+<BEGIN>
+Sheiking the Rug
+<END>
+
+50428_AFRICA_10_ELEPHANT_GRAVEYARD_TITLE
+<BEGIN>
+Elephant's Graveyard
+<END>
+
+50429_SOUTH_AMERICA_10_GUATEMALAN_GOLD_RUSH_TITLE
+<BEGIN>
+Guatemalan Gold Rush
+<END>
+
+50430_ANTARCTICA_10_ICY_RECEPTION_TITLE
+<BEGIN>
+Icy Reception
+<END>
+
+50431_POLYNESIAN_ISLES_10_CONTRADICTION_TITLE
+<BEGIN>
+Contradiction
+<END>
+
+50432_NORTH_ASIA_10_AND_ANOTHER_MING_TITLE
+<BEGIN>
+And Another Ming
+<END>
+
+50433_CENTRAL_ASIA_10_BUDDHA_BARTER_TITLE
+<BEGIN>
+Buddha Buster
+<END>
+
+50434_SOUTHEAST_ASIA_10_CHAIRMAN_COUP_TITLE
+<BEGIN>
+Chairman Coup
+<END>
+
+50435_NORTH_ASIA_10_CLASS_ACT_TITLE
+<BEGIN>
+Class Act
+<END>
+
+50436_STEAL_VASE_C
+<BEGIN>
+Ming the Worthless
+<END>
+
+50437_BURN_NATIONAL_PARK
+<BEGIN>
+Burn National Park
+<END>
+
+50438_DESTROY_DIAMOND_MINE
+<BEGIN>
+Destroy Diamond Mine
+<END>
+
+50439_STEAL_WARGALLEY
+<BEGIN>
+Grab Priceless Model
+<END>
+
+50440_NICK_CROWN_JEWELS
+<BEGIN>
+Grab the Garibaldi Crown Jewels
+<END>
+
+50441_PILFER_ORLOV_DIAMOND
+<BEGIN>
+Pilfer Giant Diamond
+<END>
+
+50442_ADMINISTER_STEROIDS_TO_PAMPLONA_BULLS
+<BEGIN>
+Administer Steroids to Pamplona Bulls
+<END>
+
+50443_STEAL_PAINTING_B
+<BEGIN>
+Steal El Presidente's Painting
+<END>
+
+50444_RAID_SECRET_SUBMARINE_PENS
+<BEGIN>
+Raid Secret Submarine Pens
+<END>
+
+50445_HACK_INTO_AUTOMATED_DEFENCE_NETWORK
+<BEGIN>
+Hack into Automated Defense Network
+<END>
+
+50446_RAID_WAR_MUSEUM
+<BEGIN>
+Raid War Museum
+<END>
+
+50447_CONTROL_RAW_MATERIALS_NETWORK
+<BEGIN>
+Vodka Plot
+<END>
+
+50448_TAKE_THE_THRONE
+<BEGIN>
+Obtain Ancient Throne
+<END>
+
+50449_DESTABILIZE_STOCK_MARKET
+<BEGIN>
+Destabilize Stock Market
+<END>
+
+50450_DESTROY_SECRET_WEAPONS_RESEARCH_FACILITY
+<BEGIN>
+Out Clubbing
+<END>
+
+50451_OBLITERATE_NASHVILLE
+<BEGIN>
+Obliterate Nashville
+<END>
+
+50452_STEAL_PAINTING_A
+<BEGIN>
+Steal National Treasure
+<END>
+
+50453_CAUSE_NATIONAL_POWER_CUT
+<BEGIN>
+Cause National Power Cut
+<END>
+
+50454_SABOTAGE_JETPACK_RESEARCH
+<BEGIN>
+Sabotage Jetpack Flight Test
+<END>
+
+50455_SUPPORT_CRIMINAL_NATIONAL_COUP
+<BEGIN>
+Island Incursion
+<END>
+
+50456_SUPPORT_ROGUE_GENERAL_S_CAMPAIGN
+<BEGIN>
+Support Rogue General's Campaign
+<END>
+
+50457_ACQUIRE_THE_CODEBREAKER
+<BEGIN>
+Steal Prototype Automatic Decoder
+<END>
+
+50458_EASTERN_BLOC_ATTROCITY
+<BEGIN>
+Soviet Sugar Rush
+<END>
+
+50459_ASSASSINATE_MR_PRESIDENT
+<BEGIN>
+Assassinate Mr. President
+<END>
+

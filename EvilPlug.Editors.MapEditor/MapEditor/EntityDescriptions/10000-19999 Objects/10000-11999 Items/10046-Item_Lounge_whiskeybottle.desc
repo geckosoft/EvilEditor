@@ -1,0 +1,8 @@
+ObjType=Item
+ObjName=WHISKEY
+Filename=StaffProp_Lounge_WhiskeyBottle_A.GR2
+TextDescription=A_BOTTLE_OF_LAPHROIG
+----
+ItemData=1
+ItemVisiblyCarried=true
+----

@@ -1,0 +1,67 @@
+ObjType=Object
+ObjName=AZTEC_AMULET
+Filename=Loot_AztecAmulet_A.GR2
+TextDescription=A_DRAMATIC_REPRESENTATION_OF_A_WARRIOR_SPIRIT_THIS_AMULET_OR_PENDANT_IS_ADORNED_WITH_THE_IMAGE_OF_TONIATU_OR_TONIATUH_THE_AZTEC_GOD_OF_THE_SUN_AND_WAR
+----
+Destructible=false
+EvidenceRating=30
+ValueRating=30
+ThreatRating=0
+PurchaseCost=0
+HeatGenerated=15
+
+AreaEffect
+Continuous=false
+Radius=10.0
+Frequency=4.0
+ScaleEffect=Loyalty +1.0
+ScaleEffect=Endurance +0.2
+ScaleEffect=Attention +0.2
+NumFilters=1
+EntityType=Minion
+---
+GUIIconBaseName=Loot_AztecAmulet_A
+----
+NotPlayerBuildable
+NotPlayerDestructable
+BlocksVision=false
+---
+BlocksTiles=true
+CanSteal=true
+IsTransferLoot
+----
+NumInteractionSlots=3
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_01
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Basic,Social
+TimeOfDay= 06:00 - 20:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_03
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=4
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Basic,Military
+TimeOfDay= 06:00 - 20:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_04
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=8
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Basic
+TimeOfDay= 06:00 - 20:00
+---

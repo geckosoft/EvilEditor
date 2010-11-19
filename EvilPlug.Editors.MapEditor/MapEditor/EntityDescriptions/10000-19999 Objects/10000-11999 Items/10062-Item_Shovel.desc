@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=SHOVEL
+Filename=StaffProp_Shovel_A.GR2
+TextDescription=A_SHOVEL_FOR_DIGGING_HOLES
+----
+ItemVisiblyCarried=true
+

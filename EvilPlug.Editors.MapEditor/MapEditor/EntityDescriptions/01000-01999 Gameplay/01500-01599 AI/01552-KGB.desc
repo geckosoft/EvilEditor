@@ -1,0 +1,114 @@
+ObjType=LawAgency
+ObjName=LawAgency
+TextDescription=H_A_M_M_E_R
+---
+BodyBagID=10072
+SwagBagID=10099
+AttritionPieceID=50102
+SuperAgentAttritionPieceID=50107
+BaseResponseTime=2000
+HeatToTimeRatio=19
+HyperMultiplier=10
+HyperCheckInterval=30
+TimePerHeatDecrease=40
+TouristPopulation=1
+TouristThresholds=30,999,999,40
+MaxTouristStayDays=10
+HeatPerPanickedTourist=5
+InvestigationTime=10
+TemporaryHeatForAttack=1
+TemporaryHeatLasts=60
+IncreaseThreatModPerAttack=0.1
+NotorietyDecreasePerObjectRetrieved=5
+HeatDecreaseForNothingFound=1.0
+WorldDominationHeatInterval=20
+WorldDominationHeatDecay=1
+SuperAgentID=953
+SuperAgentChance=0.025
+SuperAgentThresholds=100,100,100,100
+SuperAgentOperationType=I,S
+AgencyLogo=Logo_Russia_A_01
+MaleTouristID=919
+FemaleTouristID=924
+
+
+AgentEntry=820, 0, 0, "I", 2, 10, 0, 1, 4
+AgentEntry=821, 10, 0, "I", 2, 10, 0, 1, 4
+AgentEntry=822, 20, 0, "I", 2, 10, 0, 1, 4
+AgentEntry=823, 30, 0, "I", 2, 10, 0, 1, 4
+
+AgentEntry=825, 0, 50, "I", 1, 10, 0, 1, 4
+AgentEntry=826, 10, 50, "I", 1, 10, 0, 1, 4
+AgentEntry=827, 20, 50, "I", 1, 10, 0, 1, 4
+AgentEntry=828, 30, 50, "I", 1, 10, 0, 1, 4
+
+AgentEntry=830, 5, 0, "R", 2, 15, 0, 1, 4
+AgentEntry=831, 15, 0, "R", 2, 15, 0, 1, 4
+AgentEntry=832, 25, 0, "R", 2, 15, 0, 1, 4
+AgentEntry=833, 35, 0, "R", 2, 15, 0, 1, 4
+
+AgentEntry=835, 5, 50, "R", 2, 15, 0, 1, 4
+AgentEntry=836, 15, 50, "R", 2, 15, 0, 1, 4
+AgentEntry=837, 25, 50, "R", 2, 15, 0, 1, 4
+AgentEntry=838, 35, 50, "R", 2, 15, 0, 1, 4
+
+AgentEntry=840, 15, 0, "S", 2, 15, 0, 1, 5
+AgentEntry=841, 25, 0, "S", 2, 15, 0, 1, 5
+AgentEntry=842, 35, 0, "S", 2, 15, 0, 1, 5
+AgentEntry=843, 45, 0, "S", 2, 15, 0, 1, 5
+
+AgentEntry=845, 15, 50, "S", 2, 15, 0, 1, 5
+AgentEntry=846, 25, 50, "S", 2, 15, 0, 1, 5
+AgentEntry=847, 35, 50, "S", 2, 15, 0, 1, 5
+AgentEntry=848, 45, 50, "S", 2, 15, 0, 1, 5
+
+AgentEntry=850, 20, 0, "A", 2, 10, 1, 1, 7
+AgentEntry=851, 30, 0, "A", 2, 10, 1, 1, 7
+AgentEntry=852, 40, 0, "A", 2, 10, 1, 1, 7
+AgentEntry=853, 50, 0, "A", 3, 10, 1, 1, 7
+
+AgentEntry=855, 20, 50, "A", 2, 10, 1, 1, 7
+AgentEntry=856, 30, 50, "A", 2, 10, 1, 1, 7
+AgentEntry=857, 40, 50, "A", 2, 10, 1, 1, 7
+AgentEntry=858, 50, 50, "A", 3, 10, 1, 1, 7
+
+
+MissionEntry=00, 100, 100, 00, 100, 00, 100, 00, 100
+MissionEntry=05, 90, 100, 10, 100, 00, 100, 00, 100
+MissionEntry=10, 75, 100, 25, 100, 00, 100, 00, 100
+MissionEntry=15, 60, 100, 35, 100, 05, 100, 00, 100
+MissionEntry=20, 50, 100, 45, 100, 05, 100, 00, 100
+MissionEntry=25, 40, 100, 45, 100, 10, 100, 05, 100
+MissionEntry=30, 30, 100, 45, 100, 15, 100, 10, 100
+MissionEntry=35, 20, 100, 45, 100, 15, 100, 20, 100
+MissionEntry=40, 15, 100, 35, 100, 20, 100, 30, 100
+MissionEntry=45, 10, 100, 25, 100, 25, 100, 40, 100
+MissionEntry=50, 05, 100, 20, 100, 25, 100, 50, 100
+MissionEntry=55, 00, 100, 20, 100, 20, 100, 60, 100
+MissionEntry=60, 00, 100, 20, 100, 20, 100, 60, 100
+MissionEntry=65, 00, 100, 10, 100, 20, 100, 70, 100
+MissionEntry=70, 00, 100, 10, 100, 20, 100, 70, 100
+MissionEntry=75, 00, 100, 00, 100, 20, 100, 80, 100
+MissionEntry=80, 00, 100, 00, 100, 20, 100, 80, 100
+MissionEntry=85, 00, 100, 00, 100, 10, 100, 90, 100
+MissionEntry=90, 00, 100, 00, 100, 10, 100, 90, 100
+MissionEntry=95, 00, 100, 00, 100, 00, 100, 100, 100
+MissionEntry=100, 00, 100, 00, 100, 00, 100, 100, 100
+
+
+--------------------Description of Parameters---------------------------
+--- BaseResponseTime is how often in seconds at 0 heat the agency will responsd
+--- HeatToTimeRatio is how many seconds the response time is reduced for each % of heat
+--- HyperMultiplier is how much the heat should be multiplied by to work
+--- out how long hyperawareness lasts in seconds
+
+--- HyperCheckInterval is how many seconds between checks during hyper awareness
+--- TimePerHeatDecrease is how many seconds to lose a % of heat
+
+--- AgentEntry=<AgentID>, <HeatLevel>, <NotorietyLevel>, "IRSA Capabilities", 
+--- -- <BaseNumber>, <EXtraPerHeat>, <MinExtra>, <MaxExtra>
+
+--- MissionEntry=<HeatLevel>, <I %>, <I TH>, <R %>, <R TH>, <S %>, <S TH>, <A %>, <A TH>
+--- IRSA=Investigation, Retrieval, Sabotage, Assault. TH = Threshold
+---------------------------------------------------------------------------
+

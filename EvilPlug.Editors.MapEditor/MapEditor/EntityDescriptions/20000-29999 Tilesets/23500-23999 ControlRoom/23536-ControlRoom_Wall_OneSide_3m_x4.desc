@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=CONTROLROOM_WALL_1_SIDE_3M_X4
+Filename=ControlRoom_Wall_1side_3m_A_x4.GR2
+TextDescription=CONTROLROOM_WALL_1_SIDE_3M_X4
+---
+IsWalkable
+IsReflective
+---

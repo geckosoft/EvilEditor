@@ -1,0 +1,158 @@
+ObjType=Object
+ObjName=LOUNGE_BAR
+Filename=[Jungle]HotelLounge_Bar_A.GR2
+Filename=[Desert]HotelLounge_Desert_Bar_A.GR2
+Filename=Animset_HotelLounge_Bar.AS
+TextDescription=THE_TIKI_BAR_WHERE_TOURISTS_GET_DRUNK_AND_DISORDERLY
+AmbientSound=music-lounge-3c
+---
+Health=200
+EvidenceRating=2
+ValueRating=1
+ThreatRating=0
+PurchaseCost=7500
+---
+GUIIconBaseName=[Jungle]HotelLounge_Bar
+GUIIconBaseName=[Desert]HotelLounge_Desert_Bar_A
+---
+CoolDownTime=200
+BlocksTiles=true
+IsSlave
+MinimumFunTime=10
+MaximumFunTime=30
+---
+
+NumInteractionSlots=14
+
+InteractionReason=Working
+HotspotName=Pos_Dummy_Stand_Here
+ATNNetworkName=Working_Lounge Bar Manager
+ExclusionMask=1
+StartPriority=520
+InterruptPriority=525
+NumFilters=1
+MinionClass=Social
+
+InteractionReason=Working
+HotspotName=Pos_Dummy_Stand_Here02
+ATNNetworkName=Working_Lounge Bar Manager
+ExclusionMask=1
+StartPriority=520
+InterruptPriority=525
+NumFilters=1
+MinionClass=Social
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_01
+ATNNetworkName=LoungeBar_01
+Optional
+ExclusionMask=1
+NumFilters=1
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_01
+ATNNetworkName=LoungeBar_01
+Optional
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+TimeOfDay=13:00 - 21:00
+Scale=Loyalty < 30%
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_02
+ATNNetworkName=LoungeBar_02
+Optional
+ExclusionMask=2
+NumFilters=1
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_02
+ATNNetworkName=LoungeBar_02
+Optional
+ExclusionMask=2
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+TimeOfDay=13:00 - 21:00
+Scale=Loyalty < 30%
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_03
+ATNNetworkName=LoungeBar_03
+Optional
+ExclusionMask=4
+NumFilters=1
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_03
+ATNNetworkName=LoungeBar_03
+Optional
+ExclusionMask=4
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+TimeOfDay=13:00 - 21:00
+Scale=Loyalty < 30%
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_04
+ATNNetworkName=LoungeBar_04
+Optional
+ExclusionMask=8
+NumFilters=1
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_04
+ATNNetworkName=LoungeBar_04
+Optional
+ExclusionMask=8
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+TimeOfDay=13:00 - 21:00
+Scale=Loyalty < 30%
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_05
+ATNNetworkName=LoungeBar_05
+Optional
+ExclusionMask=16
+NumFilters=1
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_05
+ATNNetworkName=LoungeBar_05
+Optional
+ExclusionMask=16
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+TimeOfDay=13:00 - 21:00
+Scale=Loyalty < 30%
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_06
+ATNNetworkName=LoungeBar_06
+Optional
+ExclusionMask=32
+NumFilters=1
+TimeOfDay= 13:00 - 21:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_06
+ATNNetworkName=LoungeBar_06
+Optional
+ExclusionMask=32
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+TimeOfDay=13:00 - 21:00
+Scale=Loyalty < 30%
+---

@@ -1,0 +1,8 @@
+ObjType=Item
+ObjName=MONKEY
+Filename=Animal_Monkey_A.col
+Filename=AnimSet_Animal_Monkey.as
+TextDescription=MONKEY
+----
+ItemVisiblyCarried=true
+----

@@ -1,0 +1,11 @@
+ObjType=Room
+ObjName=UNMINEDDIRT
+TextDescription=UNMINEDDIRT
+-----
+Tileset=UnminedDirt
+RoomType=UnminedDirt
+UnitCost=0
+ReverbMin=Inside
+ReverbMax=Inside
+Mixer=Inside_Base
+-----

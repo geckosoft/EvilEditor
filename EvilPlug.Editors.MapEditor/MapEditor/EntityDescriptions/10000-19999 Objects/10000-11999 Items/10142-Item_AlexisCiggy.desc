@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=CIGGY
+Filename=Weapon_AlexisCigarette_A.GR2
+TextDescription=CIGGY
+----
+ItemVisiblyCarried=true
+----

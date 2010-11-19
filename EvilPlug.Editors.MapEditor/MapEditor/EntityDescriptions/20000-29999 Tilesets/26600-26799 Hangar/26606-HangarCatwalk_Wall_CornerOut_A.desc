@@ -1,0 +1,9 @@
+ObjType=Scenery
+ObjName=HANGAR_CATWALK_WALL_CORNEROUT
+Filename=HangarCatwalk_Wall_CornerOut_A.GR2
+TextDescription=HANGAR_CATWALK_WALL_CORNER_OUT_PIECE
+---
+IsWalkable
+IsReflective
+ReflectionHeightOffset=-10
+---

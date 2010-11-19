@@ -1,0 +1,75 @@
+ObjType=Henchman
+ObjName=ELI_BARRACUDA
+Filename=Large_HenchmanBasic_B.GR2
+Filename=AnimSet_HenchmanEli.as
+TextDescription=ELI_THE_HARD_HITTING_FAST_TALKING_GANGSTER
+-----
+GUIIconBaseName=Henchman_Eli
+-----
+Speed=0.8
+Health=70
+Loyalty=70
+Smarts=50
+Attention=40
+Endurance=50
+FOVAngle=1.57
+FOVRange=30
+EvidenceRating=15
+ValueRating=0
+ThreatRating=15
+-----
+ItemType=Character
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_M_L.as
+AnimationType=M_L
+-----
+Immortal=true
+EvidenceMod=0.5
+ValueMod=0.5
+ThreatMod=2.0
+WeaponID=15041
+WeaponID=15005
+Armour.Health=75
+Armour.Loyalty=75
+Armour.Smarts=75
+Armour.Attention=75
+Armour.Endurance=75
+DesiredName=$CHAR_NAME_ELI_BARRACUDA$
+FeedbackSound=Attack FeedbackDialogue-Attack-Eli
+FeedbackSound=Capture FeedbackDialogue-Capture-Eli
+FeedbackSound=MoveTo FeedbackDialogue-MoveTo-Eli
+FeedbackSound=UseSpecial FeedbackDialogue-UseSpecial-Eli
+-----
+AdvancementSchemeType=Henchman
+CashPotentialPercentage=10
+PlottingBenefit=5
+RegionalHeatPenalty=5
+RegionalHeatBenefit=0
+ChanceOfPerishing=10
+PerishModifier=1
+-----
+Portrait=GUI_Henchman_Eli_
+PotentialFollower=100
+PotentialFollower=104
+PotentialFollower=108
+PotentialFollower=101
+PotentialFollower=111
+PotentialFollower=102
+PotentialFollower=107
+PotentialFollower=109
+PotentialFollower=110
+PotentialFollower=103
+PotentialFollower=106
+PotentialFollower=105
+PotentialFollower=112
+SpecialAbility=Super Head Shot
+EPCost=350.0
+RechargeTime=120
+SpecialAbility=Ghetto Posse
+EPCost=550.0
+RechargeTime=240
+PercentSADamageToKill=80
+SecondsIncapacitated=120
+-----

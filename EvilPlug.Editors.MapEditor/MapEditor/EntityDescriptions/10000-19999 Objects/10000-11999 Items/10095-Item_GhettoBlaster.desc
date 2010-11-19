@@ -1,0 +1,10 @@
+ObjType=Item
+ObjName=GHETTOBLASTER
+Filename=Weapons_GhettoBlaster_A.GR2
+TextDescription=A_GHETTOBLASTER
+----
+ItemType=GhettoBlaster
+ItemVisiblyCarried=true
+ItemMotionSet=M_L,M_L_Carrying_GhettoBlaster.as
+ItemAttachedToBone=Bip01 R Hand
+----

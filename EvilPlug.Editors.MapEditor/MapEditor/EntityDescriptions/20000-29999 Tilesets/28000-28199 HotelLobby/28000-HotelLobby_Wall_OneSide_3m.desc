@@ -1,0 +1,9 @@
+ObjType=Scenery
+ObjName=HOTELLOBBY_WALL_1_SIDE_3M
+Filename=[Jungle]HotelLobby_Wall_1side_3m_A.COL
+Filename=[Desert]HotelLobby_Desert_Wall_1side_3m_A.COL
+TextDescription=HOTELLOBBY_WALL_PIECE_ONE_SIDE_3M
+---
+IsWalkable
+IsReflective
+---

@@ -1,0 +1,28 @@
+ObjType=Room
+ObjName=ARCHIVES
+TextDescription=ARCHIVES_ROOM_ENTITY
+-----
+Tileset=Archives
+RoomType=Archives
+UnitCost=300
+GUIIconBaseName=Archives
+HatDescriptionID=10024,0
+RoomLightColourData=DefaultRoomLighting.rlc
+FootstepSound=scuffs & steps-walk_ind-comb_L
+FootstepSound=scuffs & steps-walk_ind-comb_R
+FootstepSound.L.M_M_A=scuffs & steps-walk_ind-leth_L
+FootstepSound.R.M_M_A=scuffs & steps-walk_ind-leth_R
+FootstepSound.L.M_L=scuffs & steps-walk_ind-leth_L
+FootstepSound.R.M_L=scuffs & steps-walk_ind-leth_R
+FootstepSound.L.F_M=scuffs & steps-walk_ind-heels_L
+FootstepSound.R.F_M=scuffs & steps-walk_ind-heels_R
+FootstepSound.L.F_M_A=scuffs & steps-walk_ind-heels_L
+FootstepSound.R.F_M_A=scuffs & steps-walk_ind-heels_R
+FootstepSound.L.M_XL=scuffs & steps-FreakWalk-ind_L
+FootstepSound.R.M_XL=scuffs & steps-FreakWalk-ind_R
+FootstepSound.L.M_S=scuffs & steps-EvilGWalk-ind_L
+FootstepSound.R.M_S=scuffs & steps-EvilGWalk-ind_R
+ReverbMin=room_Archives_min
+ReverbMax=room_Archives_max
+Mixer=room_Archives
+-----

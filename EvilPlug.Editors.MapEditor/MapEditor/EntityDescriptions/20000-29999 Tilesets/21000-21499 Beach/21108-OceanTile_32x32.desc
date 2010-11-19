@@ -1,0 +1,7 @@
+ObjType=Scenery
+ObjName=OCEAN_TILE
+Filename=Ocean_Tile_32x32.COL
+TextDescription=OCEAN_TILE
+-----
+CanBeReflected=false
+-----

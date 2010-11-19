@@ -1,0 +1,11 @@
+ObjType=Beach
+ObjName=BEACH_NOTREES_SLOPE_1SIDE_A
+Filename=Beach_Slope_1side_A.COL
+TextDescription=BEACH_NOTREES_SLOPE_1SIDE_A
+---
+GuiIconBaseName=Beach_Slope_1_Side_A_No_Trees
+CanBeReflected=false
+NotPlayerBuildable=true
+---
+TreeEntry=-1,200,100,100
+ValidHeight=-6.4,3.0

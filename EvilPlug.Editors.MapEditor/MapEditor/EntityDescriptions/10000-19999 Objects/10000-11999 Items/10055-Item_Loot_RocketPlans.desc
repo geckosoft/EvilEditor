@@ -1,0 +1,43 @@
+ObjType=Object
+ObjName=ROCKET_PLANS
+Filename=Loot_RocketPlans_A.GR2
+Filename=Animset_Rocket_Plans.as
+TextDescription=DETAILED_CONSTRUCTION_BLUEPRINTS_FOR_BUILDING_A_SPACE_ROCKET
+----
+Destructible=false
+EvidenceRating=40
+ValueRating=30
+ThreatRating=0
+PurchaseCost=0
+HeatGenerated=15
+
+AreaEffect
+Continuous=false
+Radius=6.0
+Frequency=2.0
+ScaleEffect=Loyalty +0.5
+ScaleEffect=Smarts +0.5
+NumFilters=1
+EntityType=Minion
+---
+GUIIconBaseName=Loot_RocketPlans_A
+----
+NotPlayerBuildable
+NotPlayerDestructable
+BlocksVision=false
+---
+BlocksTiles=true
+CanSteal=true
+IsTransferLoot
+----
+NumInteractionSlots=1
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_PickUpObject
+ATNNetworkName=Rocket Plans
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Science
+TimeOfDay= 10:00 - 20:00

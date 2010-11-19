@@ -1,0 +1,23 @@
+ObjType=Weapon
+ObjName=MACE
+Filename=Weapons_Matron_Ball&Chain_A.GR2
+TextDescription=A_MACE
+----
+EvidenceRating=9
+ValueRating=0
+ThreatRating=10
+PurchaseCost=500
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemFitsInPocket=true
+ItemMotionSet=M_S,M_S_Carrying_Mace.as
+----
+WeaponType=Sword
+Damage=20
+Range=3
+MuzzleFlash=None
+OnlyVisibleInAttack
+----

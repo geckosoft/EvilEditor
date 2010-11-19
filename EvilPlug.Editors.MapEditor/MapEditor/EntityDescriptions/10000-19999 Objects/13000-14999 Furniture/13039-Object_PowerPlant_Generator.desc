@@ -1,0 +1,19 @@
+ObjType=Object
+ObjName=GENERATOR
+Filename=PowerPlant_Generator_A.GR2
+Filename=AnimSet_PowerPlant_Generator.as
+TextDescription=A_GENERATOR
+AmbientSound=objects-power plant-generator loop
+---
+Health=100
+EvidenceRating=15
+ValueRating=30
+ThreatRating=0
+PurchaseCost=10000
+HeatGenerated=5
+---
+GUIIconBaseName=PowerPlant_Generator
+---
+BlocksTiles=true
+PowerGenerator=15
+---

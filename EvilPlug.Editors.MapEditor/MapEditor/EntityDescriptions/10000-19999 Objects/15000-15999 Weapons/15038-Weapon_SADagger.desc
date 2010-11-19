@@ -1,0 +1,23 @@
+ObjType=Weapon
+ObjName=DAGGER
+Filename=Weapons_Knife_Amazon_A.GR2
+TextDescription=DAGGER
+----
+EvidenceRating=9
+ValueRating=0
+ThreatRating=10
+PurchaseCost=500
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Pelvis
+ItemNotInUseBone=Bip01 Pelvis
+ItemMotionSet=F_M_A,F_M_A_Carrying_Dagger.as
+----
+WeaponType=Sword
+Damage=15
+Range=3
+MuzzleFlash=None
+OnlyVisibleInAttack
+----

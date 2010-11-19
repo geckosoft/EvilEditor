@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=JUNGLE_EXTERIOR_DOOR_DIRT_PLUG
+Filename=Jungle_DoorExterior_DirtPlug_A.COL
+TextDescription=JUNGLE_EXTERIOR_DOOR_DIRT_PLUG
+Lighting=Outdoor
+---
+CanBeGhost=false
+---

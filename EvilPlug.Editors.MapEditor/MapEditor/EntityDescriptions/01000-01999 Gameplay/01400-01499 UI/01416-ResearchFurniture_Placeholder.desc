@@ -1,0 +1,7 @@
+ObjType=BuildingBlock
+---=This is a dummy description for unbuilt research furniture in the research window.
+ObjName=RESEARCH_FURNITURE_PLACEHOLDER
+TextDescription=RESEARCH_FURNITURE_PLACEHOLDER
+---
+GUIIconBaseName=Laboratory_NotBuiltYet
+---

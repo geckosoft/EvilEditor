@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=CORRIDOR_FLOOR
+Filename=Corridor_Floor_A.gr2
+TextDescription=CORRIDOR_FLOOR_PIECE_EMPTY
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

@@ -1,0 +1,13 @@
+ObjType=Insect
+ObjName=SWARM_OF_BEES
+TextDescription=LOYALTY_LOWERING_BEES
+---
+PatrolRange=12
+VisionRange=8
+NormalSpeed=3
+AttackSpeed=5
+AttackDamage=10
+AttackScale=Loyalty
+DelayBetweenAttacks=2
+MaxAttacks=20
+PatrolTime=60

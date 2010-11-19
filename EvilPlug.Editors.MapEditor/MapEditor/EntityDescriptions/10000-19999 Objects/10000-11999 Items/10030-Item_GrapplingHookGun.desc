@@ -1,0 +1,6 @@
+ObjType=BuildingBlock
+ObjName=GRAPPLINGHOOKGUN
+Filename=Tools_GrapplingHookGun_A.GR2
+Filename=AnimSet_GrapplingHook.AS
+TextDescription=A_GRAPPLING_HOOK_LAUNCHER
+----

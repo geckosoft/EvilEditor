@@ -1,0 +1,56 @@
+ObjType=Object
+ObjName=SATELLITE
+Filename=Loot_Satellite_A.GR2
+TextDescription=THE_COSMOS_60_CARRIES_A_16_CHANNEL_NAI_TL_SCINTILLATOR_40_X_40_MM_IN_SIZE_IT_IS_SURROUNDED_IN_A_CHARGED_PARTICLE_REJECTION_SCINTILLATOR_THE_SPACECRAFT_WEIGHS_1600_KG_AND_THE_DETECTOR_IS_SENSITIVE_TO_0_5_2_0_MEV_PHOTONS
+----
+Destructible=false
+EvidenceRating=20
+ValueRating=35
+ThreatRating=0
+PurchaseCost=0
+HeatGenerated=15
+
+AreaEffect
+Continuous=false
+Radius=5.0
+Frequency=2.0
+ScaleEffect=Smarts +0.6
+ScaleEffect=Attention +0.6
+NumFilters=1
+EntityType=Minion
+
+GUIIconBaseName=Loot_Satellite_A
+----
+NotPlayerBuildable
+NotPlayerDestructable
+BlocksVision=false
+---
+BlocksTiles=true
+CanSteal=true
+IsTransferLoot
+----
+NumInteractionSlots=2
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_01
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Science
+TimeOfDay= 10:00 - 18:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_02
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=2
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Science
+TimeOfDay= 10:00 - 18:00
+
+---

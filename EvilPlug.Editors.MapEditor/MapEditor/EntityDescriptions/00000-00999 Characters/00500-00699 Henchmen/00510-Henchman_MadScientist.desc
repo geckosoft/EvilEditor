@@ -1,0 +1,67 @@
+ObjType=Henchman
+ObjName=MAD_SCIENTIST
+Filename=Woman_HenchmanScientist_A.GR2
+Filename=AnimSet_HenchmanMadScientist.as
+TextDescription=GENIUS_OR_MADNESS_WHO_KNOWS
+-----
+GUIIconBaseName=Henchman_Scientist
+-----
+Health=40
+Loyalty=80
+Smarts=100
+Attention=100
+Endurance=50
+FOVAngle=1.57
+FOVRange=30
+EvidenceRating=50
+ValueRating=0
+ThreatRating=50
+HeatGenerated=5
+-----
+ItemType=Character
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_F_M.as
+ItemMotionSet=M_L,M_L_Carrying_F_M_A.as
+AnimationType=F_M
+-----
+Immortal=true
+EvidenceMod=0.5
+ValueMod=0.5
+ThreatMod=2.0
+WeaponID=15045
+Armour.Health=75
+Armour.Loyalty=75
+Armour.Smarts=75
+Armour.Attention=75
+Armour.Endurance=75
+DesiredName=$CHAR_NAME_DR_NEUROCIDE$
+FeedbackSound=Attack FeedbackDialogue-Attack-DrNeurocide
+FeedbackSound=Capture FeedbackDialogue-Capture-DrNeurocide
+FeedbackSound=MoveTo FeedbackDialogue-MoveTo-DrNeurocide
+FeedbackSound=UseSpecial FeedbackDialogue-UseSpecial-DrNeurocide
+-----
+AdvancementSchemeType=Henchman
+CashPotentialPercentage=10
+PlottingBenefit=5
+RegionalHeatPenalty=5
+RegionalHeatBenefit=0
+ChanceOfPerishing=10
+PerishModifier=1
+-----
+Portrait=GUI_Henchman_FemaleScientist_
+SpecialAbility=Poison Pour Homme
+EPCost=900.0
+RechargeTime=120
+SpecialAbility=Hallucinogenic Powder
+EPCost=600.0
+RechargeTime=300
+PotentialFollower=100
+PotentialFollower=103
+PotentialFollower=106
+PotentialFollower=105
+PotentialFollower=112
+PercentSADamageToKill=80
+SecondsIncapacitated=120
+-----

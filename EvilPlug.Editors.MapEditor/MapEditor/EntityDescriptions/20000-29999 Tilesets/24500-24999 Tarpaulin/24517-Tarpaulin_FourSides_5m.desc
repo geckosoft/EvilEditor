@@ -1,0 +1,12 @@
+ObjType=Tarpaulin
+ObjName=TARPAULIN_4_SIDES_5M
+Filename=Tarp_4sides_5m_A.GR2
+TextDescription=TARPAULIN_WALL_PIECE_FOUR_SIDES
+Lighting=Indoor
+---
+CanBeReflected=false
+NotPlayerBuildable
+NotSelectable
+---
+IsWalkable
+---

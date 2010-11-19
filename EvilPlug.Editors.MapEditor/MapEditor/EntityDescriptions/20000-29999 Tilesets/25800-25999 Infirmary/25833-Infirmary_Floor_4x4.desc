@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=INFIRMARY_FLOOR_4X4
+Filename=Infirmary_Floor_4x4_A.COL
+TextDescription=INFIRMARY_4X4_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

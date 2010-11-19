@@ -1,0 +1,10 @@
+ObjType=WorldRegion
+ObjName=EASTERNBLOC
+Filename=WorldMap_Region_EasternBloc.gr2
+TextDescription=EASTERN_BLOC
+Lighting=MISSIONGAME
+----
+Region=2
+JusticePresence=30
+CashPotential=15000
+Secrecy=12

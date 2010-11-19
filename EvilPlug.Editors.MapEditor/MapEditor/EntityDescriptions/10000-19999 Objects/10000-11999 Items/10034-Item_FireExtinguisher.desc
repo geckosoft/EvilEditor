@@ -1,0 +1,17 @@
+ObjType=Item
+ObjName=FIRE_EXTINGUISHER
+Filename=StaffProp_FireExtinguisher_A.GR2
+TextDescription=THIS_IS_GOOD_FOR_PUTTING_OUT_FIRES
+----
+NotSelectable
+EvidenceRating=0
+ValueRating=0
+ThreatRating=0
+PurchaseCost=0
+----
+ItemType=FireExtinguisher
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemMotionSet=M_M,M_M_Carrying_FireExtinguisher.as
+----

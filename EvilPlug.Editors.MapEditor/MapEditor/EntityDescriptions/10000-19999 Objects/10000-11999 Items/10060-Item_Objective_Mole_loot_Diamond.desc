@@ -1,0 +1,33 @@
+ObjType=Object
+ObjName=DIAMOND
+Filename=Loot_Diamond_A.GR2
+TextDescription=THE_HEART_OF_MAN
+----
+Destructible=false
+EvidenceRating=50
+ValueRating=45
+ThreatRating=0
+PurchaseCost=0
+HeatGenerated=16
+
+AreaEffect
+Continuous=false
+Radius=6.0
+Frequency=1.0
+ScaleEffect=Loyalty +0.2
+ScaleEffect=Attention +0.2
+NumFilters=1
+EntityType=Minion
+---
+GUIIconBaseName=Loot_Diamond
+----
+NotPlayerBuildable
+NotPlayerDestructable
+BlocksVision=false
+---
+BlocksTiles=true
+Cansteal=true
+IsTransferLoot
+----
+
+---

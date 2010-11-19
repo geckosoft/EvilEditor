@@ -1,0 +1,17 @@
+ObjType=Projectile
+ObjName=PENDRAGON
+Filename=Animal_Monkey_A.col
+Filename=Animset_Animal_Monkey.as
+TextDescription=PENDRAGON
+----
+RadiusDamage=40
+Range=50
+SpeedRange=10,20
+WeaponArcs
+ExplodeOnContact
+CreateAt=Bip01 R Hand
+ExplosionEffect=
+MinRange=15
+FlyingAnimation=special_idle
+LandAnimation=special_end
+PanicEveryone=true

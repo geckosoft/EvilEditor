@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=EGOFFICE_FLOOR_3X3
+Filename=EGOffice_Floor_3x3_A.COL
+TextDescription=EGOFFICE_3X3_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

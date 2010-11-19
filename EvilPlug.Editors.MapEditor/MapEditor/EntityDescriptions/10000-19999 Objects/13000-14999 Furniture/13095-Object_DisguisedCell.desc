@@ -1,0 +1,32 @@
+ObjType=HoldingCell
+ObjName=DISGUISED_HOLDING_CELL
+Filename=Security_DisguisedCell_A.GR2
+Filename=AnimSet_Security_DisguisedHoldingCell.as
+TextDescription=A_DISGUISED_HOLDING_CELL
+---
+Health=250
+EvidenceRating=15
+ValueRating=5
+ThreatRating=0
+PurchaseCost=15000
+HeatGenerated=1
+---
+GUIIconBaseName=Security_DisguisedCell_A
+---
+BlocksTiles=true
+IsSlave
+NumInteractionSlots=2
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Accessibility_01
+ExclusionMask=0
+---
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Accessibility_02
+ExclusionMask=0
+---
+PrisonerScaleUpdate=Health -0.05
+PrisonerScaleUpdate=Endurance +1
+PrisonerScaleUpdate=Attention +2
+PrisonerScaleUpdate=Smarts +1
+PrisonerScaleUpdate=Loyalty +1
+

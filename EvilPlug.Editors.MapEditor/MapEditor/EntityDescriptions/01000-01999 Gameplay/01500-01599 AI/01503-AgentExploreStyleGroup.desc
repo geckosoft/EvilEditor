@@ -1,0 +1,8 @@
+ObjType=AgentGroup
+ObjName=GROUP_OF_AGENTS
+TextDescription=A_GROUP_OF_CONSPIRATORS_EXPLORING
+---
+AgentType=Conspirator
+StandardBehaviour=BasicExplore
+EscapeBehaviour=BasicEscape
+PlayerFriendly=false

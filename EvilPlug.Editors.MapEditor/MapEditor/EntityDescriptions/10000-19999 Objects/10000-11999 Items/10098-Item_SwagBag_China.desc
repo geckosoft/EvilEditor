@@ -1,0 +1,19 @@
+ObjType=SwagBag
+ObjName=CHINA_SWAG_BAG
+Filename=Accessories_BackpackThief_China_A.GR2
+TextDescription=CHINA_BACKPACK
+----
+EvidenceRating=0
+ValueRating=0
+ThreatRating=0
+PurchaseCost=0
+PurchaseCost=0
+----
+ItemType=SwagBag
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemNotInUseBone=Bip01 Spine1
+ItemFitsInPocket=false
+----
+MaxCash=10000

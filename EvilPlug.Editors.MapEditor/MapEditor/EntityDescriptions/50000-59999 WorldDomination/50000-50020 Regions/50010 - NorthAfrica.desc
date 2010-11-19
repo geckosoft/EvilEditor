@@ -1,0 +1,10 @@
+ObjType=WorldRegion
+ObjName=NORTHAFRICA
+Filename=WorldMap_Region_NorthAfrica.gr2
+TextDescription=NORTH_AFRICA
+Lighting=MISSIONGAME
+----
+Region=4
+JusticePresence=16
+CashPotential=10000
+Secrecy=4

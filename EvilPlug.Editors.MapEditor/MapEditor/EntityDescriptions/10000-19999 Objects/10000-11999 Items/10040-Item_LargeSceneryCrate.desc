@@ -1,0 +1,19 @@
+ObjType=Item
+ObjName=FLAT_PACKED_CRATE
+Filename=Containers_Crate_C.GR2
+TextDescription=A_FLAT_PACKED_CRATE_FROM_ACME_USING_THE_INFLATABLE_POLYGON_ENGINE
+----
+EvidenceRating=5
+ValueRating=5
+ThreatRating=5
+PurchaseCost=1500
+----
+GUIIconBaseName=Containers_Crate_C
+---
+ItemType=LargeSceneryCrate
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_Crate.as
+ForcesWalkMode=false
+----

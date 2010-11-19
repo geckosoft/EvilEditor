@@ -1,0 +1,12 @@
+ObjType=WorldAttrition
+ObjName=RUSSIANAGENT
+Filename=Russia_Investigator_A_03.COL
+TextDescription=RUSSIA_JUSTICE_PRESENCE
+Lighting=MISSIONGAME
+----
+MinDuration=50
+MaxDuration=160
+AttritionInterval=50
+AttritionRiskModifier=0
+ThreatDescription=ATTRITION_THREAT_NORMAL
+BaseGeometry=Mission_FigureBase_Agent_A.GR2

@@ -1,0 +1,11 @@
+ObjType=Room
+ObjName=OCEAN
+TextDescription=OCEAN
+-----
+Tileset=Ocean
+RoomType=Ocean
+UnitCost=0
+ReverbMin=room_Ocean_min
+ReverbMax=room_Ocean_max
+Mixer=Outside_Base
+-----

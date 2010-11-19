@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=LABORATORY_FLOOR_4X4
+Filename=Laboratory_Floor_4x4_A.COL
+TextDescription=LABORATORY_4X4_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

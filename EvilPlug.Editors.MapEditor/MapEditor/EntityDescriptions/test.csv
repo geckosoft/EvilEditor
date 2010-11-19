@@ -1,0 +1,5 @@
+DescID,,BlankColumn,DefaultHatID
+100,,,10007
+101,RaiseError,,10022
+NotADescID,,,
+8,NoSuchDesc,,

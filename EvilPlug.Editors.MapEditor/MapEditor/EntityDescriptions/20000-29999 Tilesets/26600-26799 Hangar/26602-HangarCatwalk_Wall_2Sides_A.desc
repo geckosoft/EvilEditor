@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=HANGAR_CATWALK_WALL_2_SIDES
+Filename=HangarCatwalk_Wall_2sides_A.GR2
+TextDescription=HANGAR_CATWALK_WALL_2_SIDES
+---
+CanBeReflected=true
+---
+IsWalkable
+ReflectionHeightOffset=-10
+---

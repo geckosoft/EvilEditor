@@ -1,0 +1,20 @@
+ObjType=Spawn
+ObjName=GLIDER_SPAWN
+TextDescription=A_GLIDER_SPAWN
+-----
+VehicleDescriptionID=10134 0
+VehicleDescriptionID=10132 1
+VehicleDescriptionID=10130 2
+VehicleDescriptionID=10133 3
+VehicleDescriptionID=10131 4
+PEVStartOffset=0,25,6.978
+PEVVelocity=0,-4,6
+PEVLandingAni=Hangglider_Landing
+PEVIdleAni=Hangglider_idle
+PEVTakeoffAni=Hangglider_takeoff
+DisembarkDelay=2.5
+AcceptsArrivals=true
+AcceptsEscapees=true
+MoveAfterDisembarkPositionOffset=0,0,0
+SpawnType=7
+-----

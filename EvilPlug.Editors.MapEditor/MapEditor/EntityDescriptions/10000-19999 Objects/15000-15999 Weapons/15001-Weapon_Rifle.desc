@@ -1,0 +1,25 @@
+ObjType=Weapon
+ObjName=RIFLE
+Filename=Weapons_Rifle_A.GR2
+TextDescription=A_RIFLE
+----
+EvidenceRating=9
+ValueRating=0
+ThreatRating=20
+PurchaseCost=500
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemNotInUseBone=Bip01 Spine1
+ItemMotionSet=M_M,M_M_Carrying_Rifle.as
+ItemMotionSet=M_M_A,M_M_A_Carrying_Rifle.as
+ItemMotionSet=M_L,M_L_Carrying_Rifle.as
+----
+WeaponType=Rifle
+Damage=4
+Range=30
+MinRange=5
+MuzzleFlash=Automatic
+RateOfFire=0.5

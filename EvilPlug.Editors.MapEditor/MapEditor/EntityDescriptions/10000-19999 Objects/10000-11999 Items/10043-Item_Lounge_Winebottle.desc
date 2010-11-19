@@ -1,0 +1,8 @@
+ObjType=Item
+ObjName=WINEBOTTLE
+Filename=StaffProp_Lounge_WineBottle_A.GR2
+TextDescription=A_LOVELY_BOTTLE_OF_MERLOT
+----
+ItemData=1
+ItemVisiblyCarried=true
+----

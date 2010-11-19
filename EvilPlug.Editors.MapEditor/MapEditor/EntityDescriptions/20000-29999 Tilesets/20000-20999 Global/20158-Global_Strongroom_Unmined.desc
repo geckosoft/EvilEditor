@@ -1,0 +1,12 @@
+ObjType=Scenery
+ObjName=STRONGROOM_UNMINED
+Filename=Strongroom_UnminedStrongroom_A.GR2
+TextDescription=STRONGROOM_UNMINED
+---
+CanBeReflected=false
+GUIIconBaseName=uNMIneD_HoTEl
+---
+IsGhostWalkable
+CanBeMined
+BlocksVision
+---

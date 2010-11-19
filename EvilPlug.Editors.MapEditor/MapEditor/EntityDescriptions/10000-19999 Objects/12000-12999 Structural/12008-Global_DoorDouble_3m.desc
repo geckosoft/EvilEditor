@@ -1,0 +1,22 @@
+ObjType=Door
+ObjName=STANDARD_DOOR
+Filename=Global_DoorDouble_3m_A.COL
+Filename=Global_DoorDouble_3m_A.AS
+TextDescription=A_BASIC_SECURITY_DOOR
+---
+Health=200
+PurchaseCost=1500
+---
+GUIIconBaseName=Door
+---
+IsWalkable
+IsReflective
+RequireOriginalTileSet=UnminedDirt
+---
+PowerConsumer=1
+---
+OpenSound=doors-sliding doors-sliding door
+CloseSound=doors-sliding doors-sliding door
+FadeTime=0.25
+Resistance=20
+---

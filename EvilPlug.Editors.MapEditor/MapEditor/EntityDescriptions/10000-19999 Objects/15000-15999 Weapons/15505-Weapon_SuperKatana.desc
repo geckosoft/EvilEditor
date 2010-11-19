@@ -1,0 +1,23 @@
+ObjType=Weapon
+ObjName=SUPER_KATANA_SWORD
+Filename=Weapons_Sword_Katana_A.GR2
+TextDescription=SUPER_KATANA_SWORD
+----
+EvidenceRating=9
+ValueRating=0
+ThreatRating=10
+PurchaseCost=500
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Pelvis
+ItemNotInUseBone=Bip01 Pelvis
+ItemMotionSet=M_M,M_M_Carrying_Sword.as
+ItemCanBeDropped=false
+----
+WeaponType=Sword
+Damage=200
+Range=3
+MuzzleFlash=None
+----

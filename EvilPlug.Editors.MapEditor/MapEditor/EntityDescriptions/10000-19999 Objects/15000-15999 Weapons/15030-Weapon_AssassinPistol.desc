@@ -1,0 +1,26 @@
+ObjType=Weapon
+ObjName=ASSASSIN_PISTOL
+Filename=Weapons_Handgun_A.GR2
+TextDescription=AN_ASSASSIN_GUN
+----
+EvidenceRating=20
+ValueRating=0
+ThreatRating=20
+PurchaseCost=1000
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemFitsInPocket=true
+ItemMotionSet=M_M,M_M_Carrying_Pistol.as
+ItemMotionSet=M_M_A,M_M_A_Carrying_Pistol.as
+ItemMotionSet=F_M_A,F_M_A_Carrying_Pistol.as
+ItemMotionSet=M_L,M_L_Carrying_Pistol.as
+----
+WeaponType=Pistol
+Damage=100
+Range=20
+MinRange=4
+MuzzleFlash=Pistol
+RateOfFire=1.0

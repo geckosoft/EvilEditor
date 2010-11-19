@@ -1,0 +1,27 @@
+ObjType=Weapon
+ObjName=PISTOL
+Filename=Weapons_Handgun_A.GR2
+TextDescription=A_GUN
+----
+EvidenceRating=10
+ValueRating=0
+ThreatRating=10
+PurchaseCost=200
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemFitsInPocket=true
+ItemMotionSet=M_M,M_M_Carrying_Pistol.as
+ItemMotionSet=M_M_A,M_M_A_Carrying_Pistol.as
+ItemMotionSet=F_M_A,F_M_A_Carrying_Pistol.as
+ItemMotionSet=M_L,M_L_Carrying_Pistol.as
+ItemMotionSet=M_S,EmptySet.as
+----
+WeaponType=Pistol
+Damage=4
+Range=20
+MinRange=4
+MuzzleFlash=Pistol
+RateOfFire=1.0

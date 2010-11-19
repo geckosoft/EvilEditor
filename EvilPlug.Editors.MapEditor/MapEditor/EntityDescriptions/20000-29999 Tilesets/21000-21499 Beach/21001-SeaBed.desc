@@ -1,0 +1,7 @@
+ObjType=BuildingBlock
+ObjName=SEA_BED
+Filename=SeaBed.COL
+TextDescription=SEABED
+-----
+CanBeReflected=false
+-----

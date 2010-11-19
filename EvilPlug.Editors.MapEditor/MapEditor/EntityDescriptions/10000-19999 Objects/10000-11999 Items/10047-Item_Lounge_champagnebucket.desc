@@ -1,0 +1,8 @@
+ObjType=Item
+ObjName=ICEBUCKET
+Filename=StaffProp_Lounge_ChampagneBucket_A.GR2
+TextDescription=A_CHILLED_BOTTLE_OF_CHAMPERS
+----
+ItemData=1
+ItemVisiblyCarried=true
+----

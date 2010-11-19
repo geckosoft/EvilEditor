@@ -1,0 +1,23 @@
+ObjType=Door
+ObjName=FIELD_BARRIER_DOOR
+Filename=Global_FieldBarrierDoor_3m_A.COL
+Filename=Global_DoorLaser_3m_A.AS
+TextDescription=HIGH_SECURITY_DOOR_WITH_FIELD_BARRIER
+AmbientSound=objects-door-laserbeams
+---
+Health=300
+PurchaseCost=7500
+---
+GUIIconBaseName=Global_FieldBarrierDoor_3m_A
+---
+IsWalkable
+IsReflective
+RequireOriginalTileSet=UnminedDirt
+---
+PowerConsumer=4
+---
+OpenSound=doors-sliding doors-sliding door
+CloseSound=doors-sliding doors-sliding door
+FadeTime=0.25
+Resistance=75
+---

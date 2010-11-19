@@ -1,0 +1,23 @@
+ObjType=Weapon
+ObjName=BLUNDERBUSS
+Filename=Weapons_Blunderbuss_A.GR2
+TextDescription=BLUNDERBUSS
+----
+EvidenceRating=9
+ValueRating=0
+ThreatRating=20
+PurchaseCost=500
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Spine1
+ItemNotInUseBone=Bip01 Spine1
+ItemMotionSet=M_L,M_L_Carrying_Rifle.as
+----
+WeaponType=Rifle
+Damage=30
+Range=40
+MinRange=4
+MuzzleFlash=Automatic
+RateOfFire=1

@@ -1,0 +1,13 @@
+ObjType=Weapon
+ObjName=MONKEY_FISTS_OF_CONFUSION
+TextDescription=A_PAIR_OF_UNUSUALLY_HAIRY_FISTS
+----
+----
+ItemType=Weapon
+ItemVisiblyCarried=false
+ItemData=0
+----
+WeaponType=Fists
+AttackType=Attention
+Damage=50
+----

@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=BEAKER
+Filename=StaffProp_Beaker_A.GR2
+TextDescription=A_BEAKER
+----
+ItemVisiblyCarried=true
+----

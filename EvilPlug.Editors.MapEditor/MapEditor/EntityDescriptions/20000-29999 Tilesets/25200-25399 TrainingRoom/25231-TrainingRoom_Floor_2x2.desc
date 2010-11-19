@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=TRAININGROOM_FLOOR_2X2
+Filename=TrainingRoom_Floor_2x2_A.COL
+TextDescription=TRAININGROOM_2X2_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

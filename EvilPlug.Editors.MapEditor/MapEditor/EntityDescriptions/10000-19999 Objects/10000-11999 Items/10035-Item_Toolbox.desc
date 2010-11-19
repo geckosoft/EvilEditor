@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=TOOLBOX
+Filename=Tools_Toolbox_A.GR2
+TextDescription=A_TOOLBOX_NOT_BIG_ENOUGH_FOR_POWER_TOOLS_BUT_GOOD_FOR_SPANNERS
+----
+ItemVisiblyCarried=true
+----

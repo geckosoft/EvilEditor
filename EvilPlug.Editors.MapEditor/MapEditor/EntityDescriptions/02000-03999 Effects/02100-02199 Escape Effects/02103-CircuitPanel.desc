@@ -1,0 +1,7 @@
+ObjType=BuildingBlock
+ObjName=CIRCUIT_PANEL
+Filename=AgentSabotage_CircuitPanel_A.COL
+Filename=Circuit_Panel.as
+TextDescription=CIRCUIT_PANEL
+---
+CanBeReflected=false

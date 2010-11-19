@@ -1,0 +1,9 @@
+ObjType=Item
+ObjName=SPOON
+Filename=StaffProp_Spoon.GR2
+TextDescription=A_BIG_SPOON_FOR_STIRRING_SOUP
+----
+NotSelectable
+----
+ItemVisiblyCarried=true
+----

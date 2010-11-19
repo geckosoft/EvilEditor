@@ -1,0 +1,11 @@
+ObjType=Object
+ObjName=TIKI_STATUE
+Filename=Jungle_TikiStatue_B.GR2
+TextDescription=A_REALLY_IMPOSING_STATUE
+---
+GuiIconBaseName=Tiki_Statue2
+NotSelectable
+Destructible=false
+---
+BlocksTiles=true
+---

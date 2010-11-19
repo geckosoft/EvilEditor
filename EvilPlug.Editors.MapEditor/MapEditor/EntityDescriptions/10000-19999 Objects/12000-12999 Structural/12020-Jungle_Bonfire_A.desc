@@ -1,0 +1,17 @@
+ObjType=Object
+ObjName=JUNGLE_BONFIRE
+Filename=Jungle_Bonfire_A.GR2
+TextDescription=A_BIG_JUNGLE_BONFIRE
+---
+ConsiderPoints=0
+---
+GuiIconBaseName=Tiki_Bonfire
+NotSelectable
+Destructible=false
+---
+CanCastShadow=false
+---
+BlocksVision=false
+---
+BlocksTiles=true
+---

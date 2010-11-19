@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=TRAININGROOM_WALL_CORNEROUT_BOTH_3M
+Filename=TrainingRoom_Wall_CornerOut_Both_3m_A.GR2
+TextDescription=TRAININGROOM_WALL_PIECE_CORNEROUT_BOTH_3M
+---
+IsWalkable
+IsReflective
+---

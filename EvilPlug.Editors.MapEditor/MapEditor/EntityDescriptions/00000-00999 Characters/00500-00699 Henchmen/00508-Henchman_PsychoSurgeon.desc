@@ -1,0 +1,65 @@
+ObjType=Henchman
+ObjName=PSYCHO_SURGEON
+Filename=Medium_Henchman_Butcher_A.GR2
+Filename=AnimSet_HenchmanPsycho.as
+TextDescription=PSYCHO_SURGEON
+-----
+GUIIconBaseName=Henchman_butcher
+-----
+Speed=1.0
+Health=60
+Loyalty=40
+Smarts=90
+Attention=70
+Endurance=60
+FOVAngle=1.57
+FOVRange=30
+EvidenceRating=50
+ValueRating=0
+ThreatRating=50
+HeatGenerated=5
+-----
+ItemType=Character
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+AnimationType=M_M
+-----
+Immortal=true
+EvidenceMod=0.5
+ValueMod=0.5
+ThreatMod=2.0
+WeaponID=15039
+Armour.Health=75
+Armour.Loyalty=75
+Armour.Smarts=75
+Armour.Attention=75
+Armour.Endurance=75
+DesiredName=$CHAR_NAME_THE_BUTCHER$
+FeedbackSound=Attack FeedbackDialogue-Attack-TheButcher
+FeedbackSound=Capture FeedbackDialogue-Capture-TheButcher
+FeedbackSound=MoveTo FeedbackDialogue-MoveTo-TheButcher
+FeedbackSound=UseSpecial FeedbackDialogue-UseSpecial-TheButcher
+-----
+AdvancementSchemeType=Henchman
+CashPotentialPercentage=10
+PlottingBenefit=5
+RegionalHeatPenalty=5
+RegionalHeatBenefit=0
+ChanceOfPerishing=10
+PerishModifier=1
+-----
+Portrait=GUI_Henchman_Butcher_
+SpecialAbility=Facade of Normality
+EPCost=850.0
+RechargeTime=120
+PotentialFollower=100
+PotentialFollower=103
+PotentialFollower=106
+PotentialFollower=105
+PotentialFollower=112
+SpecialAbility=Terror Tactics
+EPCost=700.0
+RechargeTime=300
+PercentSADamageToKill=80
+SecondsIncapacitated=120

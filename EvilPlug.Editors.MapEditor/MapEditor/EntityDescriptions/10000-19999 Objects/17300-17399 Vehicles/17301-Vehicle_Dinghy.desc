@@ -1,0 +1,17 @@
+ObjType=Vehicle
+ObjName=DINGHY
+Filename=Boat_StealthRaft_A.COL
+TextDescription=A_MILITARY_STEALTH_RAFT
+---
+NumFilters=3
+OperationType=A,S
+WeaponType=Rifle
+Sex=Male
+---
+VehicleMovementSpeed=3
+VisiblePassengers=true
+ArrivalSound=vehicles-motorboat-arrival
+LeavingSound=vehicles-motorboat-leaving
+TravellingSound=vehicles-motorboat-travelling
+VehicleApproachPositionOffset=0,0,-10
+---

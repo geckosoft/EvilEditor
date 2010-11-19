@@ -1,0 +1,17 @@
+ObjType=Spawn
+ObjName=KITE_SPAWN
+TextDescription=A_KITE_SPAWN
+-----
+VehicleDescriptionID=10128 3
+VehicleDescriptionID=10129 4
+PEVStartOffset=0,20.0,10.7
+PEVVelocity=0,-4,5
+PEVLandingAni=Kite_Landing
+PEVIdleAni=Kite_idle
+PEVTakeoffAni=Kite_takeoff
+DisembarkDelay=2.5
+AcceptsArrivals=true
+AcceptsEscapees=true
+MoveAfterDisembarkPositionOffset=0,0,0
+SpawnType=6
+-----

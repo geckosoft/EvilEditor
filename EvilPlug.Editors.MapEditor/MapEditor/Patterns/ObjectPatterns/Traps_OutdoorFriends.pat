@@ -1,0 +1,2 @@
+FriendTileSet=DesertMined
+FriendTileSet=JungleMined

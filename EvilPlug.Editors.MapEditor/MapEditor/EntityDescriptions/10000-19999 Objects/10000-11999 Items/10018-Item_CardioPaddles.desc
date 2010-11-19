@@ -1,0 +1,9 @@
+ObjType=Item
+ObjName=CARDIO_PADDLES
+Filename=StaffProp_CardioPaddle_A.GR2
+TextDescription=ELECTRIC_PADDLES_FOR_SHOCKING_MINIONS
+----
+ItemVisiblyCarried=true
+ItemMotionSet=A_M,A_M_Carrying_CardioPaddle.as
+ItemCanBeDropped=false
+----

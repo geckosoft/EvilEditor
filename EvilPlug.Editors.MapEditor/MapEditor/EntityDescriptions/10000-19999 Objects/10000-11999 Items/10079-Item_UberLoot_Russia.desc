@@ -1,0 +1,79 @@
+ObjType=Object
+ObjName=THE_ARK_OF_THE_COVENANT
+Filename=Loot_ArkOfCovenant_A.GR2
+TextDescription=A_RELIC_BEARING_ARK
+----
+Destructible=false
+EvidenceRating=30
+ValueRating=30
+ThreatRating=0
+PurchaseCost=0
+HeatGenerated=15
+
+AreaEffect
+Continuous=false
+Radius=10.0
+Frequency=5.0
+ScaleEffect=Loyalty +1.0
+ScaleEffect=Endurance +1.0
+ScaleEffect=Attention +1.0
+NumFilters=1
+EntityType=Minion
+---
+GUIIconBaseName=Loot_ArkOfCovenant_A
+----
+NotPlayerBuildable
+NotPlayerDestructable
+BlocksVision=false
+---
+BlocksTiles=true
+CanSteal=true
+IsTransferLoot
+----
+
+NumInteractionSlots=4
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_01
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Science
+TimeOfDay= 09:00 - 19:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_02
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=2
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Science
+TimeOfDay= 09:00 - 19:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_03
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=4
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Science
+TimeOfDay= 09:00 - 19:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_04
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=8
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Science
+TimeOfDay= 09:00 - 19:00
+---

@@ -1,0 +1,12 @@
+ObjType=Tarpaulin
+ObjName=TARPAULIN_2_SIDES_3M
+Filename=Tarp_2sides_3m_A.GR2
+TextDescription=TARPAULIN_WALL_PIECE_TWO_SIDES
+Lighting=Indoor
+---
+CanBeReflected=false
+NotPlayerBuildable
+NotSelectable
+---
+IsWalkable
+---

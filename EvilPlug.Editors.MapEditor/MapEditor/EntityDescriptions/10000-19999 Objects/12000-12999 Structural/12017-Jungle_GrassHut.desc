@@ -1,0 +1,17 @@
+ObjType=Object
+ObjName=JUNGLE_GRASSHUT
+Filename=Jungle_GrassHut_B.GR2
+TextDescription=A_NATIVE_S_HUT
+---
+ConsiderPoints=0
+---
+EvidenceRating=5
+GuiIconBaseName=Tiki_GrassHut
+NotPlayerBuildable
+NotSelectable
+Destructible=false
+---
+BlocksVision=true
+---
+BlocksTiles=true
+---

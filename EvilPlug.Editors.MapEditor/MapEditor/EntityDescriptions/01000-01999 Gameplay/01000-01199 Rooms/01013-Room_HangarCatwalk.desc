@@ -1,0 +1,16 @@
+ObjType=Room
+ObjName=HANGAR
+TextDescription=HANGAR_ROOM_ENTITY
+-----
+Tileset=HangarCatwalk
+RoomType=HangarCatwalk
+UnitCost=250
+GUIIconBaseName=HangarCatwalk
+IsNonExplosiveConstruction
+RoomLightColourData=DefaultRoomLighting.rlc
+FootstepSound=scuffs & steps-walk_metal-comb_L
+FootstepSound=scuffs & steps-walk_metal-comb_R
+ReverbMin=room_Hangar_min
+ReverbMax=room_Hangar_max
+Mixer=room_HangarCatwalk
+-----

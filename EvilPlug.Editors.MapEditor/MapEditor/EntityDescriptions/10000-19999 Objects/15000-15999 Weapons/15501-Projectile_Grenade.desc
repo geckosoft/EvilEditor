@@ -1,0 +1,14 @@
+ObjType=Projectile
+ObjName=GRENADE
+Filename=Weapons_Grenade_A.GR2
+TextDescription=A_GRENADE
+----
+Damage=25
+RadiusDamage=10
+Range=40
+SpeedRange=5,15
+WeaponArcs
+ExplodeDelay=0.5
+CreateAt=Bip01 L Hand
+ExplosionEffect=:Grenade
+MinRange=12

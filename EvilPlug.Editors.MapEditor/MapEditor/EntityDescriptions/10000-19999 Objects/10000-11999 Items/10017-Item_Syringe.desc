@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=SYRINGE
+Filename=StaffProp_Syringe_A.GR2
+TextDescription=A_BIG_SYRINGE_OUCH
+----
+ItemVisiblyCarried=true
+----

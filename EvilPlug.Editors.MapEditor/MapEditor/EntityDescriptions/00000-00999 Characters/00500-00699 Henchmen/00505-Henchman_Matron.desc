@@ -1,0 +1,66 @@
+ObjType=Henchman
+ObjName=THE_MATRON
+Filename=Small_Henchman_Matron_A.GR2
+Filename=AnimSet_HenchmanRosa.as
+TextDescription=MEAN_MAMA_MATRON
+-----
+GUIIconBaseName=Henchman_Matron
+-----
+Speed=0.8
+Health=50
+Loyalty=100
+Smarts=70
+Attention=60
+Endurance=40
+FOVAngle=1.57
+FOVRange=30
+EvidenceRating=5
+ValueRating=0
+ThreatRating=5
+-----
+ItemType=Character
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_M_S.as
+AnimationType=M_S
+-----
+Immortal=true
+EvidenceMod=0.5
+ValueMod=0.5
+ThreatMod=2.0
+WeaponID=15010
+Armour.Health=75
+Armour.Loyalty=75
+Armour.Smarts=75
+Armour.Attention=75
+Armour.Endurance=75
+DesiredName=$CHAR_NAME_THE_MATRON$
+FeedbackSound=Attack FeedbackDialogue-Attack-Matron
+FeedbackSound=Capture FeedbackDialogue-Capture-Matron
+FeedbackSound=MoveTo FeedbackDialogue-MoveTo-Matron
+FeedbackSound=UseSpecial FeedbackDialogue-UseSpecial-Matron
+-----
+AdvancementSchemeType=Henchman
+CashPotentialPercentage=10
+PlottingBenefit=5
+RegionalHeatPenalty=5
+RegionalHeatBenefit=0
+ChanceOfPerishing=10
+PerishModifier=1
+-----
+Portrait=GUI_Henchman_Matron_
+PotentialFollower=100
+PotentialFollower=102
+PotentialFollower=107
+PotentialFollower=109
+PotentialFollower=110
+SpecialAbility=Electro Shock Treatment
+EPCost=950.0
+RechargeTime=200
+SpecialAbility=Motherly Love
+EPCost=650.0
+RechargeTime=120
+PercentSADamageToKill=80
+SecondsIncapacitated=120
+-----

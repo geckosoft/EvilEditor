@@ -1,0 +1,26 @@
+ObjType=Object
+ObjName=TV_STUDIO
+Filename=EGOffice_TVstudio_A.GR2
+Filename=Animset_SocialClassroom_TVstudio.AS
+TextDescription=AN_EVIL_TV_STUDIO
+---
+Health=100
+EvidenceRating=2
+ValueRating=10
+ThreatRating=0
+PurchaseCost=7000
+---
+GUIIconBaseName=EGoffice_TVstudio_A
+---
+Unique
+---
+BlocksTiles=true
+NumInteractionSlots=1
+
+InteractionReason=BeingEvil
+HotspotName=Pos_Dummy_enter01
+ATNNetworkName=Objective_9 - TVStudioWorking_EG
+ExclusionMask=0
+NumFilters=1
+EntityType=Genius
+---

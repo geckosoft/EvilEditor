@@ -1,0 +1,11 @@
+ObjType=WorldRegion
+ObjName=PACIFICALLIES
+Filename=WorldMap_Region_PacificAllies.gr2
+TextDescription=PACIFIC_ALLIES
+Lighting=MISSIONGAME
+----
+Region=0
+JusticePresence=30
+CashPotential=15000
+Secrecy=7
+InsetGeometry=WorldMap_Inset_PacificAllies.GR2

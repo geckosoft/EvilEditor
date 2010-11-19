@@ -1,0 +1,50 @@
+ObjType=Object
+ObjName=LOUNGE_TABLE
+Filename=HotelLounge_Table_A.GR2
+Filename=Animset_LoungeTable.AS
+TextDescription=A_TABLE_IN_THE_LOUNGE
+---
+Health=75
+EvidenceRating=2
+ValueRating=1
+ThreatRating=0
+PurchaseCost=5000
+---
+GUIIconBaseName=HotelLounge_Table
+---
+CoolDownTime=100
+BlocksTiles=true
+IsSlave
+MinimumFunTime=30
+MaximumFunTime=120
+---
+
+NumInteractionSlots=3
+
+InteractionReason=Working
+HotspotName=Pos_Dummy_staff
+ATNNetworkName=Working_Lounge_Table
+Optional
+ExclusionMask=1
+StartPriority=520
+InterruptPriority=525
+NumFilters=1
+MinionClass=Social
+
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_in_out
+ATNNetworkName=Bar Table Left
+ExclusionMask=0
+NumFilters=2
+Sex=Male
+TimeOfDay= 13:00 - 21:00
+
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_in_out01
+ATNNetworkName=Bar Table Right
+ExclusionMask=0
+NumFilters=2
+Sex=Female
+TimeOfDay= 13:00 - 21:00

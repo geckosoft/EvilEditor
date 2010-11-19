@@ -1,0 +1,8 @@
+ObjType=Item
+ObjName=COCKTAILSHAKER
+Filename=StaffProp_Lounge_CocktailShaker_A.GR2
+TextDescription=A_COCKTAIL_SHAKER
+----
+ItemData=1
+ItemVisiblyCarried=true
+----

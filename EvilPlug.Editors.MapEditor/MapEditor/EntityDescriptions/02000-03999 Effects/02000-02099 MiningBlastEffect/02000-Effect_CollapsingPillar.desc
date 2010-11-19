@@ -1,0 +1,6 @@
+ObjType=Object
+ObjName=COLLAPSING_PILLAR
+Filename=Effect_MiningBlast_A.COL
+Filename=AnimSet_MiningBlastEffect.AS
+TextDescription=A_COLLAPSING_PILLAR
+---

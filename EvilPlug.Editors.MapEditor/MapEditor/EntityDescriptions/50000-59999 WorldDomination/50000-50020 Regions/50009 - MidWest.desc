@@ -1,0 +1,12 @@
+ObjType=WorldRegion
+ObjName=MIDWEST
+Filename=WorldMap_Region_MidWest.gr2
+TextDescription=MID_WEST
+Lighting=MISSIONGAME
+InformationEntity=OBJECTIVE_5_INFO_THREE_3
+----
+Region=0
+JusticePresence=34
+CashPotential=20000
+Secrecy=4
+InformationEntityThreshold=4

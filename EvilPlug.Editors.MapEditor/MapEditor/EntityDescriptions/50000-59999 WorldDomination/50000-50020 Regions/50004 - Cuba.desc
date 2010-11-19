@@ -1,0 +1,11 @@
+ObjType=WorldRegion
+ObjName=CUBA
+Filename=WorldMap_Region_Cuba.gr2
+TextDescription=CUBA
+Lighting=MISSIONGAME
+----
+Region=2
+JusticePresence=10
+CashPotential=5000
+Secrecy=7
+InsetGeometry=WorldMap_Inset_Cuba.GR2

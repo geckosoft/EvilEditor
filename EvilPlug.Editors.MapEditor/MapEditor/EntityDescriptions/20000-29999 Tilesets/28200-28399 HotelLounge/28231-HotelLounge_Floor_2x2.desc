@@ -1,0 +1,11 @@
+ObjType=Scenery
+ObjName=HOTELLOUNGE_FLOOR_2X2
+Filename=[Jungle]HotelLounge_Floor_2x2_A.COL
+Filename=[Desert]HotelLounge_Desert_Floor_2x2_A.COL
+TextDescription=HOTELLOUNGE_2X2_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

@@ -1,0 +1,8 @@
+ObjType=Item
+ObjName=MONKEYCYMBALS
+Filename=Weapons_MonkeyCymbals_A.GR2
+TextDescription=MONKEYCYMBALS
+----
+ItemData=0
+ItemVisiblyCarried=true
+----

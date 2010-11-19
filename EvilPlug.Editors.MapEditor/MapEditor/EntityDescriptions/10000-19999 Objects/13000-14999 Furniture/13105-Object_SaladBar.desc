@@ -1,0 +1,101 @@
+ObjType=Object
+ObjName=MESSHALL_SALAD_BAR
+Filename=MessHall_SaladBar_A.GR2
+TextDescription=A_SALAD_BAR_FOR_HEALTHY_MINIONS
+---
+Health=100
+EvidenceRating=15
+ValueRating=5
+ThreatRating=0
+PurchaseCost=7500
+HeatGenerated=1
+---
+GUIIconBaseName=MessHall_SaladBar_A
+---
+BlocksTiles=true
+
+NumInteractionSlots=8
+
+InteractionReason=ScaleRecharging
+HotspotName=Pos_Dummy_Stand_Here01
+ATNNetworkName=Recharge salad bar
+Optional
+ExclusionMask=1
+ScaleAffected=Endurance
+ScaleAffectPower=4.0
+---
+
+InteractionReason=ScaleRecharging
+HotspotName=Pos_Dummy_Stand_Here02
+ATNNetworkName=Recharge salad bar
+Optional
+ExclusionMask=2
+ScaleAffected=Endurance
+ScaleAffectPower=4.0
+---
+
+InteractionReason=ScaleRecharging
+HotspotName=Pos_Dummy_Stand_Here03
+ATNNetworkName=Recharge salad bar
+Optional
+ExclusionMask=4
+ScaleAffected=Endurance
+ScaleAffectPower=4.0
+---
+
+InteractionReason=ScaleRecharging
+HotspotName=Pos_Dummy_Stand_Here04
+ATNNetworkName=Recharge salad bar
+Optional
+ExclusionMask=8
+ScaleAffected=Endurance
+ScaleAffectPower=4.0
+---
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Stand_Here01
+ATNNetworkName=Salad bar bored
+Optional
+StartPriority=100
+InterruptPriority=100
+ExclusionMask=1
+NumFilters=2
+TimeOfDay= 11:30 - 14:30
+MinionClass=Basic,Military,Social,Science
+---
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Stand_Here02
+ATNNetworkName=Salad bar bored
+Optional
+StartPriority=100
+InterruptPriority=100
+ExclusionMask=2
+NumFilters=2
+TimeOfDay= 11:30 - 14:30
+MinionClass=Basic,Military,Social,Science
+---
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Stand_Here03
+ATNNetworkName=Salad bar bored
+Optional
+StartPriority=100
+InterruptPriority=100
+ExclusionMask=4
+NumFilters=2
+TimeOfDay= 11:30 - 14:30
+MinionClass=Basic,Military,Social,Science
+---
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Stand_Here04
+ATNNetworkName=Salad bar bored
+Optional
+StartPriority=100
+InterruptPriority=100
+ExclusionMask=8
+NumFilters=2
+TimeOfDay= 11:30 - 14:30
+MinionClass=Basic,Military,Social,Science
+---

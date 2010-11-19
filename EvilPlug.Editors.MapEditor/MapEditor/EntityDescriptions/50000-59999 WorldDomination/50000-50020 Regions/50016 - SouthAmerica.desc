@@ -1,0 +1,10 @@
+ObjType=WorldRegion
+ObjName=SOUTHAMERICA
+Filename=WorldMap_Region_SouthAmerica.gr2
+TextDescription=SOUTH_AMERICA
+Lighting=MISSIONGAME
+----
+Region=4
+JusticePresence=30
+CashPotential=15000
+Secrecy=8

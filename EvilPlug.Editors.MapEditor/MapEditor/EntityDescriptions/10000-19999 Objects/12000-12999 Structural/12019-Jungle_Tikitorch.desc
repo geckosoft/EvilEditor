@@ -1,0 +1,15 @@
+ObjType=Object
+ObjName=JUNGLE_TIKI_TORCH
+Filename=Jungle_TikiTorch_A.GR2
+TextDescription=A_RUSTIC_OUTDOOR_LIGHT
+---
+ConsiderPoints=0
+---
+GuiIconBaseName=Tiki_Torch
+NotSelectable
+Destructible=false
+---
+BlocksVision=false
+---
+BlocksTiles=true
+---

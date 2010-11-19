@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=ARCHIVES_BOOK
+Filename=StaffProp_Book_A.GR2
+TextDescription=A_BOOK_INNIT
+----
+ItemVisiblyCarried=true
+----

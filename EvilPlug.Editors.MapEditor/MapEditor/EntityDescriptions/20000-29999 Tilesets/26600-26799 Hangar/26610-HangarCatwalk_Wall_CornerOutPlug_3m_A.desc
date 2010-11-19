@@ -1,0 +1,12 @@
+ObjType=Scenery
+ObjName=GLOBAL_CUSTOM_CAVELAGOON_WALLPLUG_3M
+Filename=Global_Wall_CornerOut_3m_A.GR2
+TextDescription=CAVELAGOON_WALL_CORNER_OUT_PLUG_3M
+---
+NotPlayerBuildable=true
+CanBeReflected=true
+BlocksVision
+---
+ReflectionHeightOffset=-10
+CanBeMined
+---

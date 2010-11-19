@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=MESSHALL_WALL_CORNEROUT_L_3M
+Filename=MessHall_Wall_CornerOut_L_3m_A.GR2
+TextDescription=MESSHALL_WALL_PIECE_CORNEROUT_L_3M
+---
+IsWalkable
+IsReflective
+---

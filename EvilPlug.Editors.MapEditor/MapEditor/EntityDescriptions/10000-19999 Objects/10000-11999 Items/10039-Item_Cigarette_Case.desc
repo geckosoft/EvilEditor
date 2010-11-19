@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=CIGARETTE_CASE
+Filename=StaffProp_Cigarette_case_A.GR2
+TextDescription=AN_ELEGANT_WAY_TO_KEEP_YOUR_CIGGYS
+----
+ItemVisiblyCarried=true
+----

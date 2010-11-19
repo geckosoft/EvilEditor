@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=SCIENCE_TEACHER_S_HAT
+Filename=Accessories_Hat_ScienceTeacher_A.GR2
+TextDescription=A_SCIENCE_TEACHER_S_PIECE
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

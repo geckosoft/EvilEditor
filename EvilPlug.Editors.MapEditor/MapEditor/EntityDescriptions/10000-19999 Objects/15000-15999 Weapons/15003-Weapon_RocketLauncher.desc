@@ -1,0 +1,26 @@
+ObjType=Weapon
+ObjName=ROCKET_LAUNCHER
+Filename=Weapons_RocketLauncher_A.GR2
+TextDescription=A_FRIGGIN_ROCKET_LAUNCHER
+----
+EvidenceRating=10
+ValueRating=0
+ThreatRating=30
+PurchaseCost=200
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemFitsInPocket=true
+ItemMotionSet=M_M,M_M_Carrying_Pistol.as
+ItemMotionSet=M_M_A,M_M_A_Carrying_Pistol.as
+ItemMotionSet=M_L,M_L_Carrying_RocketLauncher.as
+----
+WeaponType=Pistol
+Damage=0
+Range=60
+Ammo=15500
+MuzzleFlash=None
+OnlyVisibleInAttack
+RateOfFire=0.07

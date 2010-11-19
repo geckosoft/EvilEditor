@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=CONTROLROOM_FLOOR
+Filename=ControlRoom_Floor_A.gr2
+TextDescription=CONTROLROOM_FLOOR_PIECE_EMPTY
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

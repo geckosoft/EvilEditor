@@ -1,0 +1,25 @@
+ObjType=Item
+ObjName=MUD_GUN
+Filename=Tools_Dynamite_A.GR2
+
+Hotspot
+HotspotPosition=-0.014175,0.433589,0
+HotspotOrientation=1,0,0,0
+HotspotName=Pos_Dummy_PickUpItem
+
+TextDescription=SUPERSPLURGER_MUD_GUN
+----
+EvidenceRating=5
+ValueRating=5
+ThreatRating=5
+PurchaseCost=1500
+----
+GUIIconBaseName=Tools_Dynamite
+---
+ItemType=MudGun
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_Crate.as
+ForcesWalkMode=true
+----

@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=GUARD_S_HAT
+Filename=Accessories_Hat_Beret_A.GR2
+TextDescription=A_GUARD_S_SOFT_HELMET
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

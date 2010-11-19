@@ -1,0 +1,65 @@
+ObjType=Henchman
+ObjName=HYPNOTIST
+Filename=Small_Henchman_Hypnotist_A.GR2
+Filename=AnimSet_HenchmanHypnotist.as
+TextDescription=HYPNOTIST
+-----
+GUIIconBaseName=Henchman_hypnotist
+-----
+Speed=1.0
+Health=50
+Loyalty=60
+Smarts=90
+Attention=100
+Endurance=60
+FOVAngle=1.57
+FOVRange=30
+EvidenceRating=50
+ValueRating=0
+ThreatRating=50
+HeatGenerated=5
+-----
+ItemType=Character
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+AnimationType=M_S
+-----
+Immortal=true
+EvidenceMod=0.5
+ValueMod=0.5
+ThreatMod=2.0
+WeaponID=15034
+Armour.Health=75
+Armour.Loyalty=75
+Armour.Smarts=75
+Armour.Attention=75
+Armour.Endurance=75
+DesiredName=$CHAR_NAME_THE_GREAT_MESMERO$
+FeedbackSound=Attack FeedbackDialogue-Attack-TheGreatMesmero
+FeedbackSound=Capture FeedbackDialogue-Capture-TheGreatMesmero
+FeedbackSound=MoveTo FeedbackDialogue-MoveTo-TheGreatMesmero
+FeedbackSound=UseSpecial FeedbackDialogue-UseSpecial-TheGreatMesmero
+-----
+AdvancementSchemeType=Henchman
+CashPotentialPercentage=10
+PlottingBenefit=5
+RegionalHeatPenalty=5
+RegionalHeatBenefit=0
+ChanceOfPerishing=10
+PerishModifier=1
+-----
+Portrait=GUI_Henchman_Hypnotist_
+SpecialAbility=Willpower Drain
+EPCost=750.0
+RechargeTime=120
+SpecialAbility=Telepathic Mind Control
+EPCost=1300.0
+RechargeTime=240
+PotentialFollower=100
+PotentialFollower=102
+PotentialFollower=107
+PotentialFollower=109
+PotentialFollower=110
+PercentSADamageToKill=80
+SecondsIncapacitated=120

@@ -1,0 +1,14 @@
+ObjType=SetPiece
+ObjName=RAILCAR_STAGE_1
+Filename=Hangar_RailCar_Stage1_A.GR2
+Filename=Animset_Rocket_Cave.AS
+TextDescription=CARRIER_FOR_STAGE_1_OF_YOUR_MASTER_PLAN
+Lighting=RocketCave
+-----
+Destructible=false
+CanBeReflected=false
+-----
+PlacedAtPosDummyName=Pos_Dummy_RailCar_Stage1_A
+FriendTileSet=Global_Custom_CaveRocket_44X60_Developed_A
+FriendTileSet=HangarEmptySpace
+-----

@@ -1,0 +1,23 @@
+ObjType=Weapon
+ObjName=NINJA_SWORDS
+Filename=Weapons_Sword_Ninja_A.GR2
+TextDescription=PINKY_AND_PERKY_THE_FAMOUS_PAIR_OF_NINJA_SWORDS
+----
+EvidenceRating=9
+ValueRating=0
+ThreatRating=10
+PurchaseCost=500
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Spine1
+ItemNotInUseBone=Bip01 Spine1
+ItemMotionSet=M_M,M_M_Carrying_Ninja_Swords.as
+ItemMotionSet=M_M_A,M_M_Carrying_Ninja_Swords.as
+----
+WeaponType=Sword
+Damage=20
+Range=3
+MuzzleFlash=None
+----

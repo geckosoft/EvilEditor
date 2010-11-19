@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=MICROPHONE
+Filename=StaffProp_Microphone_A.GR2
+TextDescription=A_MICROPHONE_USED_FOR_SPEAKING_INTO
+----
+PurchaseCost=0
+----
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemFitsInPocket=true
+----

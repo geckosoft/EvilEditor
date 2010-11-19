@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=INFIRMARY_WALL_CORNEROUT_BOTH_3M
+Filename=Infirmary_Wall_CornerOut_Both_3m_A.GR2
+TextDescription=INFIRMARY_WALL_PIECE_CORNEROUT_BOTH_3M
+---
+IsWalkable
+IsReflective
+---

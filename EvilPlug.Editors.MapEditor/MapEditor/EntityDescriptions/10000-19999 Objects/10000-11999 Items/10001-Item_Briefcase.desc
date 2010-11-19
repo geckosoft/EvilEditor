@@ -1,0 +1,20 @@
+ObjType=Briefcase
+ObjName=BRIEFCASE
+Filename=Containers_Briefcase_A.GR2
+TextDescription=A_BRIEFCASE_FULL_OF_MONEY
+----
+EvidenceRating=5
+ValueRating=20
+ThreatRating=0
+PurchaseCost=0
+---
+GUIIconBaseName=Containers_Briefcase
+---
+ItemType=Briefcase
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_Briefcase.as
+ItemMotionSet=M_M_A,M_M_A_Carrying_Briefcase.as
+----
+CanSteal=true

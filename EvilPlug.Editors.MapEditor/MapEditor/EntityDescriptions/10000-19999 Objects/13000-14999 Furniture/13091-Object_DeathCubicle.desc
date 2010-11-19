@@ -1,0 +1,35 @@
+ObjType=HoldingCell
+ObjName=DEATH_CUBICLE
+Filename=Security_DeathCubicle_A.COL
+Filename=AnimSet_DeathCubicle.as
+TextDescription=A_CELL_FOR_PARTICULARLY_TROUBLESOME_AGENTS
+---
+Health=300
+EvidenceRating=40
+ValueRating=20
+ThreatRating=0
+PurchaseCost=30000
+HeatGenerated=10
+---
+GUIIconBaseName=Security_DeathCubicle_A
+BlocksVision=false
+---
+BlocksTiles=true
+PowerConsumer=5
+IsSlave
+NumInteractionSlots=2
+
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Accessibility_01
+ExclusionMask=0
+---
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Accessibility_02
+ExclusionMask=0
+---
+PrisonerScaleUpdate=Health -0.07
+PrisonerScaleUpdate=Endurance +0.75
+PrisonerScaleUpdate=Attention +1
+PrisonerScaleUpdate=Smarts +0.5
+PrisonerScaleUpdate=Loyalty +0.75
+

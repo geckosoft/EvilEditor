@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=INFIRMARY_TECHNICIAN_S_HAT
+Filename=Accessories_Hat_Surgeon_b.GR2
+TextDescription=AN_INFIRMARY_TECHNICIAN_S_HAT
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

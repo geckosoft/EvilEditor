@@ -1,0 +1,54 @@
+ObjType=Object
+ObjName=ARCADE_CABINET
+Filename=StaffRoom_ArcadeMachine_A.col
+TextDescription=AN_ARCADE_MACHINE_TO_KEEP_MINIONS_LOYAL
+---
+Health=75
+EvidenceRating=15
+ValueRating=5
+ThreatRating=0
+PurchaseCost=15000
+HeatGenerated=1
+---
+GUIIconBaseName=StaffRoom_ArcadeMachine_A
+---
+BlocksTiles=true
+PowerConsumer=5
+
+NumInteractionSlots=4
+InteractionReason=ScaleRecharging
+HotspotName=Pos_Dummy_Stand_Here
+ATNNetworkName=Arcade Machine Player 1
+ExclusionMask=1
+ScaleAffected=Attention
+ScaleAffectPower=7.0
+
+InteractionReason=ScaleRecharging
+HotspotName=Pos_Dummy_Stand_Here01
+ATNNetworkName=Arcade Machine Player 2
+ExclusionMask=2
+ScaleAffected=Attention
+ScaleAffectPower=7.0
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Stand_Here
+ATNNetworkName=Bored_Arcade Machine Player 1
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Basic,Military,Social,Science
+TimeOfDay= 14:00 - 22:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Stand_Here01
+ATNNetworkName=Bored_Arcade Machine Player 2
+ExclusionMask=2
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Basic,Military,Social,Science
+TimeOfDay= 14:00 - 22:00
+---
+
+

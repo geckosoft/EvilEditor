@@ -1,0 +1,22 @@
+ObjType=Door
+ObjName=HOTEL_DOUBLE_DOOR_3M
+Filename=Hotel_DoorDouble_3m_A.GR2
+Filename=Hotel_DoorDouble_3m_A.AS
+TextDescription=A_BASIC_DOOR_FOR_THE_HOTEL
+---
+Health=200
+PurchaseCost=3000
+---
+GUIIconBaseName=Hotel_DoorDouble
+---
+IsWalkable
+IsReflective
+IsCutAwayPortal
+---
+PowerConsumer=1
+---
+OpenSound=doors-sliding doors-sliding door
+CloseSound=doors-sliding doors-sliding door
+FadeTime=0.25
+Resistance=30
+---

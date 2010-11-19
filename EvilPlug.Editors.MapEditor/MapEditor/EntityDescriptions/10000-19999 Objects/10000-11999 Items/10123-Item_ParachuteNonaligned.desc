@@ -1,0 +1,14 @@
+ObjType=Item
+ObjName=PARACHUTE
+Filename=Parachute_A_NonAligned.GR2
+TextDescription=A_PARACHUTE
+---
+NumFilters=3
+OperationType=I,R,S,A
+AgentType=Agent
+NinjasAllowed=false
+----
+ItemType=Parachute
+ItemAttachedToBone=Bip01 Spine1
+ItemVisiblyCarried=true
+----

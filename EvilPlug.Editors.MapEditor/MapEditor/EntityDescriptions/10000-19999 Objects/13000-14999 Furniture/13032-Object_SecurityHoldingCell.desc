@@ -1,0 +1,36 @@
+ObjType=HoldingCell
+ObjName=SECURITY_HOLDING_CELL
+Filename=Security_HoldingCell_A.COL
+Filename=AnimSet_Security_HoldingCell.AS
+
+TextDescription=A_HOLDING_CELL
+---
+Health=200
+EvidenceRating=40
+ValueRating=20
+ThreatRating=0
+PurchaseCost=5000
+HeatGenerated=10
+---
+GUIIconBaseName=Security_HoldingCell
+BlocksVision=false
+---
+BlocksTiles=true
+IsSlave
+NumInteractionSlots=2
+
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Accessibility_01
+ExclusionMask=0
+---
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Accessibility_02
+ExclusionMask=0
+
+---
+PrisonerScaleUpdate=Health -0.04
+PrisonerScaleUpdate=Endurance +2.5
+PrisonerScaleUpdate=Attention +1.5
+PrisonerScaleUpdate=Smarts +2.5
+PrisonerScaleUpdate=Loyalty +1.5
+

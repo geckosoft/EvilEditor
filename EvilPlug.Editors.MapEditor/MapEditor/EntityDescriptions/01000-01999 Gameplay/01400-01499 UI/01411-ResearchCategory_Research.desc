@@ -1,0 +1,7 @@
+ObjType=BuildingBlock
+---=This is a dummy description for providing icons and tooltips in the research window.
+ObjName=RESEARCH_CATEGORY_RESEARCH
+TextDescription=RESEARCH_CATEGORY_RESEARCH
+---
+GUIIconBaseName=ResearchCategory_Research
+---

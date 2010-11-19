@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=POWERPLANT_WALL_CORNEROUT_L_3M
+Filename=PowerPlant_Wall_CornerOut_L_3m_A.GR2
+TextDescription=POWERPLANT_WALL_PIECE_CORNEROUT_L_3M
+---
+IsWalkable
+IsReflective
+---

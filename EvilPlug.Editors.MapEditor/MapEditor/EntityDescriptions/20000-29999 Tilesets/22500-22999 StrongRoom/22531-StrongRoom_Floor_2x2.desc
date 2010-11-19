@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=STRONGROOM_FLOOR_2X2
+Filename=StrongRoom_Floor_2x2_A.COL
+TextDescription=STRONGROOM_2X2_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

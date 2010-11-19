@@ -1,0 +1,68 @@
+ObjType=Henchman
+ObjName=RED_IVAN
+Filename=large_henchmanberet_a.GR2
+Filename=AnimSet_HenchmanIvan.as
+TextDescription=IVAN_THE_PSYCHO_GREEN_BERET
+-----
+GUIIconBaseName=Henchman_Beret
+-----
+Speed=0.8
+Health=70
+Loyalty=30
+Smarts=50
+Attention=40
+Endurance=50
+FOVAngle=1.57
+FOVRange=30
+EvidenceRating=5
+ValueRating=0
+ThreatRating=30
+-----
+ItemType=Character
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_M_L.as
+AnimationType=M_L
+-----
+Immortal=true
+EvidenceMod=0.5
+ValueMod=0.5
+ThreatMod=2.0
+WeaponID=15042
+WeaponID=15020
+WeaponID=15003
+Armour.Health=75
+Armour.Loyalty=75
+Armour.Smarts=75
+Armour.Attention=75
+Armour.Endurance=75
+DesiredName=$CHAR_NAME_RED_IVAN$
+FeedbackSound=Attack FeedbackDialogue-Attack-RedIvan
+FeedbackSound=Capture FeedbackDialogue-Capture-RedIvan
+FeedbackSound=MoveTo FeedbackDialogue-MoveTo-RedIvan
+FeedbackSound=UseSpecial FeedbackDialogue-UseSpecial-RedIvan
+-----
+AdvancementSchemeType=Henchman
+CashPotentialPercentage=10
+PlottingBenefit=5
+RegionalHeatPenalty=5
+RegionalHeatBenefit=0
+ChanceOfPerishing=10
+PerishModifier=1
+-----
+Portrait=GUI_Henchman_Ivan_
+PotentialFollower=100
+PotentialFollower=104
+PotentialFollower=108
+PotentialFollower=111
+PotentialFollower=101
+SpecialAbility=Grenade Jig
+EPCost=800.0
+RechargeTime=180
+SpecialAbility=Mine Field
+EPCost=1500.0
+RechargeTime=360
+PercentSADamageToKill=80
+SecondsIncapacitated=180
+-----

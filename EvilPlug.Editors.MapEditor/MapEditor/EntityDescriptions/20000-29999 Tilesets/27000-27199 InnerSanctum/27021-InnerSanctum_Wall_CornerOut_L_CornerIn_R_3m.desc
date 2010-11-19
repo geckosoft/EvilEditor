@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=EGOFFICE_WALL_CORNEROUT_L_CORNERIN_R_3M
+Filename=EGOffice_Wall_CornerOutL_CornerInR_3m_A.GR2
+TextDescription=EGOFFICE_WALL_PIECE_CORNEROUT_L_CORNERIN_R_3M
+---
+IsWalkable
+IsReflective
+---

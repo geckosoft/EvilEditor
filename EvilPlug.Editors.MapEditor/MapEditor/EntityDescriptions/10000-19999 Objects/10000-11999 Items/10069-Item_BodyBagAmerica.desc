@@ -1,0 +1,34 @@
+ObjType=Item
+ObjName=BODYBAG
+Filename=Containers_BodyBag_America_A.COL
+Filename=Animset_Bodybag.as
+TextDescription=A_BODY_BAG
+----
+Health=100
+EvidenceRating=100
+ValueRating=0
+ThreatRating=0
+PurchaseCost=0
+HeatGenerated=2
+RateOfDecay=0.1
+
+AreaEffect
+Continuous=false
+Radius=6.0
+Frequency=1.5
+ScaleEffect=Loyalty -0.2
+ScaleEffect=Attention -0.2
+NumFilters=1
+EntityType=Minion
+----
+CanCastShadow=false
+GUIIconBaseName=Containers_BodyBag
+---
+ItemType=BodyBag
+ItemData=0
+ItemVisiblyCarried=true
+ItemMotionSet=M_M,M_M_Carrying_F_M.as
+ForcesWalkMode=true
+AnimationType=B_B
+MoveToFreezer
+----

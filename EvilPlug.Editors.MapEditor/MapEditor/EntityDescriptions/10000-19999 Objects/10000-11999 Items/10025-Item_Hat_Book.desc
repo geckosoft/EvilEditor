@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=SOCIAL_TRAINING_HAT
+Filename=Accessories_Hat_Book_A.GR2
+TextDescription=A_SOCIAL_TRAINING_HAT
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

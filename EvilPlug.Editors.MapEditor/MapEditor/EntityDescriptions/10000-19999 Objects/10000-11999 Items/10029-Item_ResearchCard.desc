@@ -1,0 +1,18 @@
+ObjType=ResearchCard
+ObjName=RESEARCHCARD
+Filename=Containers_Research_A.GR2
+Filename=AnimSet_ResearchCard.as
+TextDescription=A_LIST_OF_RESEARCH_TASKS
+----
+EvidenceRating=10
+ValueRating=20
+ThreatRating=0
+PurchaseCost=0
+---
+ItemType=ResearchCard
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_Crate.as
+ForcesWalkMode=true
+----

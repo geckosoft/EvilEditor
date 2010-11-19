@@ -1,0 +1,23 @@
+ObjType=Weapon
+ObjName=VOODOO_DOLL
+Filename=Weapons_VoodooDoll_A.GR2
+TextDescription=A_DOLL
+----
+EvidenceRating=10
+ValueRating=0
+ThreatRating=4
+PurchaseCost=200
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemFitsInPocket=true
+ItemMotionSet=M_M,M_M_Carrying_Voodoo.as
+ItemMotionSet=M_M_A,M_M_Carrying_Voodoo.as
+----
+Damage=1
+Range=20
+MinRange=4
+MuzzleFlash=None
+OnlyVisibleInAttack

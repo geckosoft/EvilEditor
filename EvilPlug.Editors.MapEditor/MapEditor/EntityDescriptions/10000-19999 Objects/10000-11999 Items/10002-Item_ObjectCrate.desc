@@ -1,0 +1,19 @@
+ObjType=Item
+ObjName=OBJECT_CRATE
+Filename=Containers_Crate_B.GR2
+TextDescription=A_CRATE_CONTAINING_MATERIALS_USED_TO_BUILD_AN_OBJECT
+----
+EvidenceRating=5
+ValueRating=5
+ThreatRating=0
+PurchaseCost=0
+----
+GUIIconBaseName=Containers_Crate_A
+---
+ItemType=ObjectCrate
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_Crate.as
+ForcesWalkMode=false
+----

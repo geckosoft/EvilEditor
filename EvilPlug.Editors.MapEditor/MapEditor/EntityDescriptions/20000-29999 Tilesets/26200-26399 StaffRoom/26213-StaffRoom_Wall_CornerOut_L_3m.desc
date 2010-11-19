@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=STAFFROOM_WALL_CORNEROUT_L_3M
+Filename=StaffRoom_Wall_CornerOut_L_3m_A.GR2
+TextDescription=STAFFROOM_WALL_PIECE_CORNEROUT_L_3M
+---
+IsWalkable
+IsReflective
+---

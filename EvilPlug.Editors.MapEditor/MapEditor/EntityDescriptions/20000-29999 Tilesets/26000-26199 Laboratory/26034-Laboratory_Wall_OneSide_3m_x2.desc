@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=LABORATORY_WALL_1_SIDE_3M_X2
+Filename=Laboratory_Wall_1side_3m_A_x2.GR2
+TextDescription=LABORATORY_WALL_1_SIDE_3M_X2
+---
+IsWalkable
+IsReflective
+---

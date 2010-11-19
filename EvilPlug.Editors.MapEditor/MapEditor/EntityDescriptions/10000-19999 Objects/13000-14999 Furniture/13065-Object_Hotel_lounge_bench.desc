@@ -1,0 +1,51 @@
+ObjType=Object
+ObjName=LOBBY_BENCH
+Filename=HotelLobby_Bench_A.GR2
+TextDescription=THE_HOTEL_BENCH
+---
+Health=75
+EvidenceRating=2
+ValueRating=1
+ThreatRating=0
+PurchaseCost=2500
+---
+GUIIconBaseName=HotelLobby_Bench
+---
+CoolDownTime=150
+MinimumFunTime=10
+MaximumFunTime=30
+BlocksTiles=true
+---
+NumInteractionSlots=4
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_sit_Right01
+ATNNetworkName=Tourist_Bench
+Optional
+ExclusionMask=0
+NumFilters=1
+TimeOfDay= 07:00 - 15:00
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_sit_Right02
+ATNNetworkName=Tourist_Bench
+Optional
+ExclusionMask=0
+NumFilters=1
+TimeOfDay= 07:00 - 15:00
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_sit_Left01
+ATNNetworkName=Tourist_Bench
+Optional
+ExclusionMask=0
+NumFilters=1
+TimeOfDay= 07:00 - 15:00
+
+InteractionReason=HavingFun
+HotspotName=Pos_Dummy_sit_Left02
+ATNNetworkName=Tourist_Bench
+Optional
+ExclusionMask=0
+NumFilters=1
+TimeOfDay= 07:00 - 15:00

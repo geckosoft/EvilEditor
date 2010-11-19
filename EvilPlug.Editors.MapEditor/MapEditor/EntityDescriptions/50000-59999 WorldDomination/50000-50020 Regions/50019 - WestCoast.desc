@@ -1,0 +1,10 @@
+ObjType=WorldRegion
+ObjName=WESTCOAST
+Filename=WorldMap_Region_WestCoast.gr2
+TextDescription=WEST_COAST
+Lighting=MISSIONGAME
+----
+Region=0
+JusticePresence=20
+CashPotential=10000
+Secrecy=9

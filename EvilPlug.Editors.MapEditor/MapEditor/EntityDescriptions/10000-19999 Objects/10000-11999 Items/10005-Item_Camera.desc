@@ -1,0 +1,14 @@
+ObjType=Item
+ObjName=CAMERA
+Filename=Tools_Camera_A.GR2
+TextDescription=A_CAMERA
+----
+NotSelectable
+PurchaseCost=0
+----
+ItemType=Camera
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemFitsInPocket=true
+----

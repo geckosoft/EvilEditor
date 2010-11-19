@@ -1,0 +1,17 @@
+ObjType=Room
+ObjName=HOTELCASINO
+TextDescription=HOTELCASINO_ROOM_ENTITY
+-----
+Tileset=HotelCasino
+RoomType=HotelCasino
+UnitCost=300
+GUIIconBaseName=[Desert]HotelDesert_Casino
+GUIIconBaseName=[Jungle]HotelCasino
+IsNonExplosiveConstruction
+RoomLightColourData=DefaultRoomLighting.rlc
+FootstepSound=scuffs & steps-walk_ind-carpet_L
+FootstepSound=scuffs & steps-walk_ind-carpet_R
+ReverbMin=room_HotelCasino_min
+ReverbMax=room_HotelCasino_max
+Mixer=Inside_HotelCasino
+-----

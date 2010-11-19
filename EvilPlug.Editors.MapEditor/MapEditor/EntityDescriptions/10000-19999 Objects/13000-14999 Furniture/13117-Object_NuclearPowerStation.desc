@@ -1,0 +1,20 @@
+ObjType=Object
+ObjName=NUCLEAR_POWER_STATION
+Filename=PowerPlant_NuclearPowerStation_A.GR2
+AmbientSound=objects-power plant-nuclear rumbler
+AmbientSound=objects-power plant-nuclear stars 1
+AmbientSound=objects-power plant-nuclear stars 2
+TextDescription=A_NUCLEAR_POWERED_POWER_GENERATOR
+---
+Health=350
+EvidenceRating=15
+ValueRating=5
+ThreatRating=0
+PurchaseCost=25000
+HeatGenerated=1
+---
+GUIIconBaseName=PowerPlant_NuclearPowerStation_A
+---
+BlocksTiles=true
+PowerGenerator=35
+

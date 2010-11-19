@@ -1,0 +1,7 @@
+ObjType=BuildingBlock
+ObjName=ESCAPE_HOLE_OUTDOORS
+Filename=AgentEscape_HoleOutdoor_A.col
+Filename=EscapeRoute_Outdoors.as
+TextDescription=AN_ESCAPE_HOLE_FOR_OUTSIDE
+---
+CanBeReflected=false

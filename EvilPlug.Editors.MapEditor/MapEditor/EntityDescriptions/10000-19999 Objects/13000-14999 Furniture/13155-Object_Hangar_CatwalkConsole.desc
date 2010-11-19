@@ -1,0 +1,27 @@
+ObjType=Object
+ObjName=CATWALK_CONSOLE
+Filename=Hangar_CatwalkConsole_A.COL
+TextDescription=A_CATWALK_CONSOLE
+---
+Health=100
+EvidenceRating=2
+ValueRating=10
+ThreatRating=0
+PurchaseCost=7000
+---
+GUIIconBaseName=Hangar_CatwalkConsole_A
+---
+UseAutomaticRotationWhenPlacing
+---
+Unique
+---
+BlocksTiles=false
+NumInteractionSlots=1
+
+InteractionReason=BeingEvil
+HotspotName=Pos_Dummy_Stand_PushButton
+ATNNetworkName=Objective_9 - LaunchButtonWorking
+ExclusionMask=0
+NumFilters=1
+EntityType=Genius
+---

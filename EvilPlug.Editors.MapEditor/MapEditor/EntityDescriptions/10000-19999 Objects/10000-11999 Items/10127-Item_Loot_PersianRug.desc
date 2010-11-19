@@ -1,0 +1,31 @@
+ObjType=Object
+ObjName=RUG
+Filename=Loot_PersianRug_A.GR2
+TextDescription=PERSIAN_RUG
+----
+Destructible=false
+EvidenceRating=20
+ValueRating=35
+ThreatRating=0
+PurchaseCost=0
+HeatGenerated=15
+
+AreaEffect
+Continuous=false
+Radius=5.0
+Frequency=3.0
+ScaleEffect=Loyalty +1.0
+NumFilters=1
+EntityType=Minion
+
+---
+GUIIconBaseName=Loot_Persian Rug_A
+----
+NotPlayerBuildable
+NotPlayerDestructable
+BlocksVision=false
+IsTransferLoot
+---
+BlocksTiles=true
+Cansteal=true
+----

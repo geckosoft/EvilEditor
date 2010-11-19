@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=MARKSMAN_S_HAT
+Filename=Accessories_Hat_Marksman_A.GR2
+TextDescription=A_MARKSMAN_S_HAT
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

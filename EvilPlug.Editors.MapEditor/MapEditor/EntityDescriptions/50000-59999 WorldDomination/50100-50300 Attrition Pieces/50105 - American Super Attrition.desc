@@ -1,0 +1,15 @@
+ObjType=WorldAttrition
+ObjName=RAMBO
+Filename=SuperAgent_America_A.COL
+TextDescription=RAMBO
+Lighting=MISSIONGAME
+----
+MinDuration=60
+MaxDuration=180
+AttritionInterval=80
+AttritionRiskModifier=-50
+ThreatDescription=ATTRITION_THREAT_HEAVY
+BaseGeometry=Mission_FigureBase_Agent_A.GR2
+JusticeModifier=5
+AOITimeModifier=5
+AOIRiskModifier=25

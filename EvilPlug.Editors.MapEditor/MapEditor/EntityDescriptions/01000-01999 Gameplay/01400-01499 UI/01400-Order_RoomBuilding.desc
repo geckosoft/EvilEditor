@@ -1,0 +1,5 @@
+ObjType=BuildOrder
+ObjName=ROOM_BUILDING_ORDER
+TextDescription=AN_ORDER_TO_BUILD_THE_ROOM_NOW_DAMMIT
+Lighting=Indoor
+---

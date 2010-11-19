@@ -1,0 +1,20 @@
+ObjType=Item
+ObjName=GOLD_BAR
+Filename=StrongRoom_Goldbar.COL
+TextDescription=A_GOLD_BAR
+----
+NotSelectable
+EvidenceRating=0
+ValueRating=30
+ThreatRating=0
+PurchaseCost=0
+---
+GUIIconBaseName=Goldbar
+-----
+ItemType=GoldBar
+ItemData=0
+ItemVisiblyCarried=true
+StoredInStrongroom=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_GoldBar.as
+----

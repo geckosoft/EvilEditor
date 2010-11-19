@@ -1,0 +1,14 @@
+ObjType=SetPiece
+ObjName=RAILCAR_SATELLITE
+Filename=Hangar_RailCar_Satellite_A.GR2
+Filename=Animset_Rocket_Cave.AS
+TextDescription=A_RAILCAR_FOR_THE_ROCKET_SATELLITE
+Lighting=RocketCave
+-----
+CanBeReflected=false
+Destructible=false
+-----
+PlacedAtPosDummyName=Pos_Dummy_Rocket_Satellite_RailCar_A
+FriendTileSet=Global_Custom_CaveRocket_44X60_Developed_A
+FriendTileSet=HangarEmptySpace
+-----

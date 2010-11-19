@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=SLIDERULE
+Filename=StaffProp_SlideRule_A.GR2
+TextDescription=RULE_OF_THE_SLIDE
+----
+ItemVisiblyCarried=true
+----

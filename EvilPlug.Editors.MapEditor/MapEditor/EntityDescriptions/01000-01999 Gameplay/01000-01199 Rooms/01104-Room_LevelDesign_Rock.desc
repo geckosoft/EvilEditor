@@ -1,0 +1,11 @@
+ObjType=Room
+ObjName=ROCK
+TextDescription=ROCK
+-----
+Tileset=Rock
+RoomType=Rock
+UnitCost=0
+ReverbMin=Inside
+ReverbMax=Inside
+Mixer=Inside_Base
+-----

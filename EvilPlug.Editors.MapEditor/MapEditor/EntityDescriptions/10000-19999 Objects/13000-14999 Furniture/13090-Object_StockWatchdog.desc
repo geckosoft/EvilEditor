@@ -1,0 +1,95 @@
+ObjType=Object
+ObjName=STOCKMARKET_WATCHDOG
+Filename=ControlRoom_StockWatchdog_A.COL
+AmbientSound=objects-stockmarket-teletyper
+TextDescription=A_MACHINE_USED_FOR_KEEPING_WATCH_ON_THE_STOCKMARKET
+---
+Health=150
+EvidenceRating=15
+ValueRating=5
+ThreatRating=0
+PurchaseCost=25000
+HeatGenerated=1
+---
+GUIIconBaseName=ControlRoom_StockWatchdog_A
+---
+Unique
+---
+BlocksTiles=true
+PowerConsumer=4
+WorldDominationLootingModifier=-20
+---
+NumInteractionSlots=8
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Stand_Here
+ATNNetworkName=Watchdog_Bored
+Optional
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Social
+TimeOfDay= 10:00 - 16:00
+
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Stand_Here
+ATNNetworkName=Objective_16 - WatchdogInteraction
+ExclusionMask=1
+NumFilters=1
+EntityDescription=339,340,341,342,343,344,345,346
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Stand_Here01
+ATNNetworkName=Watchdog_Bored
+Optional
+ExclusionMask=2
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Social
+TimeOfDay= 10:00 - 16:00
+
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Stand_Here01
+ATNNetworkName=Objective_16 - WatchdogInteraction
+ExclusionMask=2
+NumFilters=1
+EntityDescription=339,340,341,342,343,344,345,346
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Stand_Here02
+ATNNetworkName=Watchdog_Bored
+Optional
+ExclusionMask=4
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Social
+TimeOfDay= 10:00 - 16:00
+
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Stand_Here02
+ATNNetworkName=Objective_16 - WatchdogInteraction
+ExclusionMask=4
+NumFilters=1
+EntityDescription=339,340,341,342,343,344,345,346
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Stand_Here03
+ATNNetworkName=Watchdog_Bored
+Optional
+ExclusionMask=8
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Social
+TimeOfDay= 10:00 - 16:00
+
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Stand_Here03
+ATNNetworkName=Objective_16 - WatchdogInteraction
+ExclusionMask=8
+NumFilters=1
+EntityDescription=339,340,341,342,343,344,345,346
+---

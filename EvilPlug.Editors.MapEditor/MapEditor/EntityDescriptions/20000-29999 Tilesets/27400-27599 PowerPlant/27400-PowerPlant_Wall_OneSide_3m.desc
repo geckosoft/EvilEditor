@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=POWERPLANT_WALL_1_SIDE_3M
+Filename=PowerPlant_Wall_1side_3m_A.GR2
+TextDescription=POWERPLANT_WALL_PIECE_ONE_SIDE_3M
+---
+IsWalkable
+IsReflective
+---

@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=KNIFE
+Filename=StaffProp_Knife_A.GR2
+TextDescription=A_KNIFE
+----
+ItemVisiblyCarried=true
+----

@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=CHEF_S_HAT
+Filename=Accessories_Hat_Chef_C.GR2
+TextDescription=A_CHEF_S_HAT
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

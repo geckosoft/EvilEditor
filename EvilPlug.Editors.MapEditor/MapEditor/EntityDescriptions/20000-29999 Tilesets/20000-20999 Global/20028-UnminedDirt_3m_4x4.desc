@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=UNMINED_DIRT_CEILING
+Filename=Global_UnminedDirt_4x4_A.COL
+TextDescription=UNMINED_DIRT
+---
+CanBeReflected=false
+---
+CanBeMined
+BlocksVision
+---

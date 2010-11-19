@@ -1,0 +1,16 @@
+ObjType=Spawn
+ObjName=CHARIOT_SPAWN
+TextDescription=A_CHARIOT_SPAWN
+-----
+VehicleDescriptionID=10135
+PEVStartOffset=0,20,4.09
+PEVVelocity=0,-2,7
+PEVLandingAni=Chariot_Landing
+PEVIdleAni=Chariot_idle
+PEVTakeoffAni=Chariot_takeoff
+DisembarkDelay=2.5
+AcceptsArrivals=true
+AcceptsEscapees=true
+MoveAfterDisembarkPositionOffset=0,0,0
+SpawnType=8
+-----

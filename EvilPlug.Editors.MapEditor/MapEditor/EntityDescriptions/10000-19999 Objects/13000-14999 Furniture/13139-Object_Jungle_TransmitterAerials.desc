@@ -1,0 +1,15 @@
+ObjType=Object
+ObjName=TRANSMITTER_AERIALS
+Filename=Jungle_TransmitterAerials_A.GR2
+TextDescription=TRANSMITTER_AERIALS
+----
+Health=150
+EvidenceRating=30
+ValueRating=60
+ThreatRating=0
+PurchaseCost=1000
+---
+GUIIconBaseName=Jungle_TransmitterAerials_A
+---
+BlocksTiles=true
+----

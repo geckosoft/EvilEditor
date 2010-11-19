@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=POWERPLANT_FLOOR_3X3
+Filename=PowerPlant_Floor_3x3_A.COL
+TextDescription=POWERPLANT_3X3_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

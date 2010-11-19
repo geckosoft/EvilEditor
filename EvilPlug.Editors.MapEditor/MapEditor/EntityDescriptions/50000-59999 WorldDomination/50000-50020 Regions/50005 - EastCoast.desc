@@ -1,0 +1,10 @@
+ObjType=WorldRegion
+ObjName=EASTCOAST
+Filename=WorldMap_Region_EastCoast.gr2
+TextDescription=EAST_COAST
+Lighting=MISSIONGAME
+----
+Region=0
+JusticePresence=20
+CashPotential=5000
+Secrecy=12

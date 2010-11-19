@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=CAMERA
+Filename=StaffProp_TouristCamera_A.GR2
+TextDescription=A_CAMERA_OFTEN_SEEN_AROUND_TOURISTS_NECKS
+----
+PurchaseCost=0
+----
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemFitsInPocket=true
+----

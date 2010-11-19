@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=KITE
+Filename=Kite_A_China.GR2
+TextDescription=A_KITE
+----
+NumFilters=2
+AgentType=Agent
+NinjasAllowed=true
+----
+ItemType=Kite
+ItemAttachedToBone=Bip01 Spine1
+ItemVisiblyCarried=true

@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=DUMMY_RESEARCH
+Filename=Containers_Research_A.GR2
+TextDescription=DUMMY_RESEARCHCARD
+----
+ItemVisiblyCarried=true
+----

@@ -1,0 +1,14 @@
+ObjType=SetPiece
+ObjName=OVERHEAD_CRANE
+Filename=Hangar_OverheadCrane_A.GR2
+Filename=Animset_Rocket_Cave.AS
+TextDescription=AN_OVERHEAD_CRANE
+Lighting=RocketCave
+-----
+CanBeReflected=false
+Destructible=false
+-----
+PlacedAtPosDummyName=Pos_Dummy_Crane
+FriendTileSet=Global_Custom_CaveRocket_44X60_Developed_A
+FriendTileSet=HangarEmptySpace
+-----

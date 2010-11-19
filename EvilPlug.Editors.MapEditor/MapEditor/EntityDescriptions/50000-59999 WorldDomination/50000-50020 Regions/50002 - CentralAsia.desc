@@ -1,0 +1,12 @@
+ObjType=WorldRegion
+ObjName=CENTRALASIA
+Filename=WorldMap_Region_CentralAsia.gr2
+TextDescription=CENTRAL_ASIA
+Lighting=MISSIONGAME
+InformationEntity=OBJECTIVE_5_INFO_TWO_2
+----
+Region=3
+JusticePresence=20
+CashPotential=10000
+Secrecy=5
+InformationEntityThreshold=5

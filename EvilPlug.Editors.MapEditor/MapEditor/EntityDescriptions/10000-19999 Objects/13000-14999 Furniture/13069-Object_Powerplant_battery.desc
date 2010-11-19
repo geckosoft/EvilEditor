@@ -1,0 +1,15 @@
+ObjType=Object
+ObjName=CAPACITOR
+Filename=PowerPlant_BackupBattery_A.COL
+TextDescription=A_BACKUP_TO_THE_BASE_POWERSUPPLY
+---
+Health=100
+EvidenceRating=10
+ValueRating=15
+ThreatRating=0
+PurchaseCost=5000
+---
+GUIIconBaseName=PowerPlant_BackupBattery_A
+---
+BlocksTiles=true
+PowerCapacitor=10

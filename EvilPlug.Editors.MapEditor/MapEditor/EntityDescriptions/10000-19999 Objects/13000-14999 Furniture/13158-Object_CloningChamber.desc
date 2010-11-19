@@ -1,0 +1,34 @@
+ObjType=Object
+ObjName=CRYOGENIC_CHAMBER
+Filename=Laboratory_FakingIt_A.COL
+Filename=Animset_CloningChamber.as
+TextDescription=A_CRYGENIC_CHAMBER_FOR_THE_MINIONS
+---
+Health=125
+EvidenceRating=15
+ValueRating=5
+ThreatRating=0
+PurchaseCost=20000
+HeatGenerated=1
+---
+GUIIconBaseName=Laboratory_FakingIt_A
+---
+BlocksTiles=true
+PowerConsumer=4
+
+NumInteractionSlots=2
+
+InteractionReason=BeingEvil
+HotspotName=Pos_Dummy_Stand_Here
+ATNNetworkName=Objective_15 - CloneEG
+ExclusionMask=1
+NumFilters=1
+EntityType=Genius
+---
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Stand_Here01
+ATNNetworkName=Objective_15 - CloneMinion
+ExclusionMask=2
+NumFilters=1
+EntityType=Minion
+---

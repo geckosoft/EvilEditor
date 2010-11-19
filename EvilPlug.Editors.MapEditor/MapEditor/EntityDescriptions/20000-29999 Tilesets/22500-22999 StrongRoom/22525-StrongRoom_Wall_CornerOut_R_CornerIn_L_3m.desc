@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=STRONGROOM_WALL_CORNEROUT_R_CORNERIN_L_3M
+Filename=StrongRoom_Wall_CornerOutR_CornerInL_3m_A.GR2
+TextDescription=STRONGROOM_WALL_PIECE_CORNEROUT_R_CORNERIN_L_3M
+---
+IsWalkable
+IsReflective
+---

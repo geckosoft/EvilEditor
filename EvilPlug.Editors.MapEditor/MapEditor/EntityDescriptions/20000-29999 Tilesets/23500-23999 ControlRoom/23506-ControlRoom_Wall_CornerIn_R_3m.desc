@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=CONTROLROOM_WALL_CORNERIN_R_3M
+Filename=ControlRoom_Wall_CornerIn_R_3m_A.GR2
+TextDescription=CONTROLROOM_WALL_PIECE_CORNERIN_R_3M
+---
+IsWalkable
+IsReflective
+---

@@ -1,0 +1,10 @@
+ObjType=WorldRegion
+ObjName=SOUTHAFRICA
+Filename=WorldMap_Region_SouthAfrica.gr2
+TextDescription=SOUTH_AFRICA
+Lighting=MISSIONGAME
+----
+Region=1
+JusticePresence=30
+CashPotential=15000
+Secrecy=8

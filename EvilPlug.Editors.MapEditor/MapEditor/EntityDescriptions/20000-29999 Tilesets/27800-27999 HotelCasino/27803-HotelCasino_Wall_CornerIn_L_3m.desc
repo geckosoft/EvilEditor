@@ -1,0 +1,9 @@
+ObjType=Scenery
+ObjName=HOTELCASINO_WALL_CORNERIN_L_3M
+Filename=[Jungle]HotelCasino_Wall_CornerIn_L_3m_A.COL
+Filename=[Desert]HotelCasino_Desert_Wall_CornerIn_L_3m_A.COL
+TextDescription=HOTELCASINO_WALL_PIECE_CORNERIN_L_3M
+---
+IsWalkable
+IsReflective
+---

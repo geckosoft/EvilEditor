@@ -1,0 +1,12 @@
+ObjType=Tarpaulin
+ObjName=TARPAULIN_2_SIDES_OPPOSITE_4M
+Filename=Tarp_2sidesOpposite_4m_A.GR2
+TextDescription=TARPAULIN_WALL_PIECE_TWO_SIDES_OPPOSITE
+Lighting=Indoor
+---
+CanBeReflected=false
+NotPlayerBuildable
+NotSelectable
+---
+IsWalkable
+---

@@ -1,0 +1,12 @@
+ObjType=Tarpaulin
+ObjName=TARPAULIN_CEILING_4M
+Filename=Tarp_Ceiling_4m_A.GR2
+TextDescription=TARPAULIN_CEILING_PIECE
+Lighting=Indoor
+---
+CanBeReflected=false
+NotPlayerBuildable
+NotSelectable
+---
+IsWalkable
+---

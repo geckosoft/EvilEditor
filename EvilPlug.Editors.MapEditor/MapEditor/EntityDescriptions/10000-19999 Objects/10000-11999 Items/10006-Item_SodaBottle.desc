@@ -1,0 +1,10 @@
+ObjType=Item
+ObjName=SODABOTTLE
+Filename=Containers_SodaBottle_A.GR2
+TextDescription=A_SODA_BOTTLE
+----
+NotSelectable
+----
+ItemData=1
+ItemVisiblyCarried=true
+----

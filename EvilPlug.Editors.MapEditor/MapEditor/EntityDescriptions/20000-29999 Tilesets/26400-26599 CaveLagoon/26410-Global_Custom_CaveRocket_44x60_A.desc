@@ -1,0 +1,13 @@
+ObjType=Scenery
+ObjName=GLOBAL_CUSTOM_CAVEROCKET_44X60_A
+Filename=Global_Custom_CaveRocket_44X60_A.COL
+TextDescription=44X60_CAVEROCKET_SECTION
+Lighting=RocketCave
+-----
+CanBeReflected=false
+NotPlayerBuildable
+-----
+ReflectionHeightOffset=-10
+BlocksVision
+CanSupportObjects
+-----

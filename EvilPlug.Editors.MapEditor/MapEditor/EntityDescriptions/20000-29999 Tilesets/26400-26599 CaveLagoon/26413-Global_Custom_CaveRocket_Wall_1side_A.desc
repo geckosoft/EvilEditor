@@ -1,0 +1,13 @@
+ObjType=Scenery
+ObjName=GLOBAL_CUSTOM_CAVELAGOON_WALL_1_SIDE_A
+Filename=Global_Custom_CaveLagoon_UnminedDirt_A.COL
+TextDescription=CAVELAGOON_WALL_1_SIDE
+Lighting=RocketCave
+---
+NotPlayerBuildable=true
+CanBeReflected=true
+BlocksVision
+---
+ReflectionHeightOffset=-10
+CanBeMined
+------

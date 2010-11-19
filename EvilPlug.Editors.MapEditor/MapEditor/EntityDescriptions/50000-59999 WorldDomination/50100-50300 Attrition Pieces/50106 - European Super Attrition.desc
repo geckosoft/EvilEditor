@@ -1,0 +1,15 @@
+ObjType=WorldAttrition
+ObjName=JOHN_STEELE
+Filename=SuperAgent_Europe_A.COL
+TextDescription=SUPER_COOL_DUDE
+Lighting=MISSIONGAME
+----
+MinDuration=60
+MaxDuration=180
+AttritionInterval=80
+AttritionRiskModifier=-50
+ThreatDescription=ATTRITION_THREAT_HEAVY
+BaseGeometry=Mission_FigureBase_Agent_A.GR2
+JusticeModifier=5
+AOITimeModifier=5
+AOIRiskModifier=25

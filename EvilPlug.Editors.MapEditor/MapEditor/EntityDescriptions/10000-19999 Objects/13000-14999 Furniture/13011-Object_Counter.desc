@@ -1,0 +1,115 @@
+ObjType=Object
+ObjName=MESSHALL_COUNTER
+Filename=MessHall_Counter_A.COL
+Filename=AnimSet_MessHall_Counter.AS
+TextDescription=KITCHEN_COUNTER
+AmbientSound=Kitchen-Cooking-Frying loop
+AmbientSound=Kitchen-Fridge-HumLoop1
+AmbientSound=Kitchen-Cooking-Boiling
+---
+Health=200
+EvidenceRating=1
+ValueRating=1
+ThreatRating=0
+PurchaseCost=5000
+---
+GUIIconBaseName=MessHall_A
+---
+IsSlave
+BlocksTiles=true
+NumInteractionSlots=9
+
+InteractionReason=Working
+HotspotName=Pos_Dummy_Flip_Burgers
+ATNNetworkName=Working_MessHall A
+ExclusionMask=16
+StartPriority=520
+InterruptPriority=525
+NumFilters=1
+MinionClass=Basic,Science,Social
+
+InteractionReason=ScaleRecharging
+HotspotName=Pos_Dummy_Left02_in_out
+ATNNetworkName=kitchencounter_chair1
+Optional
+ExclusionMask=1
+ScaleAffected=Endurance
+ScaleAffectPower=5.0
+NumFilters=1
+TimeOfDay= 08:00 - 18:30
+---
+InteractionReason=ScaleRecharging
+HotspotName=Pos_Dummy_Left01_in_out
+ATNNetworkName=kitchencounter_chair2
+Optional
+ExclusionMask=2
+ScaleAffected=Endurance
+ScaleAffectPower=5.0
+NumFilters=1
+TimeOfDay= 08:00 - 18:30
+---
+InteractionReason=ScaleRecharging
+HotspotName=Pos_Dummy_Right01_in_out
+ATNNetworkName=kitchencounter_chair3
+Optional
+ExclusionMask=4
+ScaleAffected=Endurance
+ScaleAffectPower=5.0
+NumFilters=1
+TimeOfDay= 08:00 - 18:30
+---
+InteractionReason=ScaleRecharging
+HotspotName=Pos_Dummy_Right02_in_out
+ATNNetworkName=kitchencounter_chair4
+Optional
+ExclusionMask=8
+ScaleAffected=Endurance
+ScaleAffectPower=5.0
+NumFilters=1
+TimeOfDay= 08:00 - 18:30
+---
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Left02_in_out
+ATNNetworkName=kitchencounterbored_chair1
+Optional
+StartPriority=100
+InterruptPriority=100
+ExclusionMask=1
+NumFilters=2
+TimeOfDay= 11:30 - 14:30
+MinionClass=Basic,Military,Social,Science
+---
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Left01_in_out
+ATNNetworkName=kitchencounterbored_chair2
+Optional
+StartPriority=100
+InterruptPriority=100
+ExclusionMask=2
+NumFilters=2
+TimeOfDay= 11:30 - 14:30
+MinionClass=Basic,Military,Social,Science
+---
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Right01_in_out
+ATNNetworkName=kitchencounterbored_chair3
+Optional
+StartPriority=100
+InterruptPriority=100
+ExclusionMask=4
+NumFilters=2
+TimeOfDay= 11:30 - 14:30
+MinionClass=Basic,Military,Social,Science
+---
+InteractionReason=Bored
+HotspotName=Pos_Dummy_Right02_in_out
+ATNNetworkName=kitchencounterbored_chair4
+Optional
+StartPriority=100
+InterruptPriority=100
+ExclusionMask=8
+NumFilters=2
+TimeOfDay= 11:30 - 14:30
+MinionClass=Basic,Military,Social,Science
+---
+

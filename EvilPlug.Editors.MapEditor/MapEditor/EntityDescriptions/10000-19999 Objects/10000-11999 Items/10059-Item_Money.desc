@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=MONEY
+Filename=StaffProp_Money_A.GR2
+TextDescription=MONEY_USED_TO_BUY_THINGS_NICE_THINGS
+----
+PurchaseCost=0
+----
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemFitsInPocket=true
+----

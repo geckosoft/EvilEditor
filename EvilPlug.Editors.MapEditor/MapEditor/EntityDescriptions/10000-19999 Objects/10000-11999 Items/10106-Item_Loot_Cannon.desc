@@ -1,0 +1,67 @@
+ObjType=Object
+ObjName=CANNON
+Filename=Loot_AntiqueCannon_A.GR2
+TextDescription=ANTIQUE_CANNON
+----
+Destructible=false
+EvidenceRating=20
+ValueRating=35
+ThreatRating=0
+PurchaseCost=0
+HeatGenerated=15
+
+AreaEffect
+Continuous=false
+Radius=7.0
+Frequency=1.5
+ScaleEffect=Attention +0.1
+ScaleEffect=Loyalty +0.3
+NumFilters=1
+EntityType=Minion
+
+---
+GUIIconBaseName=Loot_Antique_Cannon_A
+----
+NotPlayerBuildable
+NotPlayerDestructable
+BlocksVision=false
+IsTransferLoot
+---
+BlocksTiles=true
+Cansteal=true
+----
+NumInteractionSlots=3
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_01
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Military
+TimeOfDay= 06:00 - 20:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_02
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=2
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Military
+TimeOfDay= 06:00 - 20:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_04
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=8
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Military
+TimeOfDay= 06:00 - 20:00
+---

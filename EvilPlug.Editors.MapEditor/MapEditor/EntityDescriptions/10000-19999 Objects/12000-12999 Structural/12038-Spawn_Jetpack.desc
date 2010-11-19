@@ -1,0 +1,17 @@
+ObjType=Spawn
+ObjName=JETPACK_SPAWN
+TextDescription=A_JETPACK_SPAWN
+-----
+VehicleDescriptionID=10067
+PEVStartOffset=0,10,2.0
+PEVVelocity=0,-1,8
+PEVLandingAni=Jetpack_Landing
+PEVCrashLandingAni=Jetpack_Crash_Landing
+PEVIdleAni=Jetpack_idle
+PEVTakeoffAni=Jetpack_takeoff
+DisembarkDelay=2.5
+AcceptsArrivals=true
+AcceptsEscapees=true
+MoveAfterDisembarkPositionOffset=0,0,0
+SpawnType=5
+-----

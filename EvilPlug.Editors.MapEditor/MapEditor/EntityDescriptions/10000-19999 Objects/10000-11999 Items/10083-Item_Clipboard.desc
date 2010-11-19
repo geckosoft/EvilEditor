@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=CLIPBOARD
+Filename=Tools_Clipboard_A.GR2
+TextDescription=A_CLIPBOARD
+----
+ItemVisiblyCarried=true
+----

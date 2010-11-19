@@ -1,0 +1,56 @@
+ObjType=Genius
+ObjName=DRAGON
+Filename=Medium_Genius_A.GR2
+Filename=AnimSet_GeniusDragon.as
+TextDescription=DRAGON_VAN_DEN_DRIESSCHE
+-----
+GUIIconBaseName=GUI_Genius_Chinese_
+-----
+Speed=0.5
+Health=100
+Loyalty=100
+Smarts=100
+Attention=100
+Endurance=100
+FOVAngle=0.7
+FOVRange=30
+EvidenceRating=25
+ValueRating=6
+ThreatRating=3
+HeatGenerated=10
+-----
+
+AreaEffect
+Continuous=false
+Radius=4.0
+Frequency=1.0
+ScaleEffect=Loyalty +1.5
+ScaleEffect=Attention +1.5
+NumFilters=1
+EntityType=Minion
+-----
+AnimationType=M_M
+-----
+Armour.Health=50
+DesiredName=$CHAR_NAME_SHEN_YU$
+CannotBeTagged
+FeedbackSound=UseObject FeedbackDialogue-UseObject-ShenYu
+FeedbackSound=MurderMinion FeedbackDialogue-MurderMinion-ShenYu
+FeedbackSound=MoveTo FeedbackDialogue-MoveTo-ShenYu
+FeedbackSound=BoostOrder FeedbackDialogue-BoostOrder-ShenYu
+-----
+BonusAbilityType=ShortStayAgents
+BonusAbilityModifier=10
+MurderedAni=Murdered_by_Dragon
+MurderBonusEffect
+Continuous=false
+Radius=10.0
+Frequency=1.0
+ScaleEffect=Loyalty +7.0
+ScaleEffect=Attention +7.0
+ScaleEffect=Health +7.0
+ScaleEffect=Endurance +7.0
+ScaleEffect=Smarts +7.0
+NumFilters=1
+EntityType=Minion
+

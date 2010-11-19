@@ -1,0 +1,9 @@
+ObjType=Scenery
+ObjName=STRONGROOM_MINED
+TextDescription=STRONGROOM_MINED
+---
+CanBeReflected=false
+---
+IsWalkable
+IsGhostWalkable
+---

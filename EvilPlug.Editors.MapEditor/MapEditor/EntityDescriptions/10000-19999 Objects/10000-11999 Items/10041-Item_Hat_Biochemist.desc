@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=BIOCHEMIST_S_GOLDFISH_BOWL
+Filename=Accessories_Hat_Biochemist_A.COL
+TextDescription=A_BIOCHEMIST_S_GOLDFISH_BOWL
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

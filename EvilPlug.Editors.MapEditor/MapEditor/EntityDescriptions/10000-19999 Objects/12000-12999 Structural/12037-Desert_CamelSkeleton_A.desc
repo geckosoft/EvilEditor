@@ -1,0 +1,14 @@
+ObjType=Object
+ObjName=CAMEL_SKELETON
+Filename=Desert_CamelSkeleton_A.GR2
+TextDescription=A_CAMEL_SKELETON
+---
+ConsiderPoints=0
+---
+GuiIconBaseName=Tiki_Statue1
+NotSelectable
+Destructible=false
+NotPlayerBuildable
+---
+BlocksTiles=true
+---

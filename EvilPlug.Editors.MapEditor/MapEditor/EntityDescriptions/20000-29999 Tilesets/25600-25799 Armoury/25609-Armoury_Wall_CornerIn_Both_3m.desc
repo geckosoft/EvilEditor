@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=ARMOURY_WALL_CORNERIN_BOTH_3M
+Filename=Armoury_Wall_CornerIn_Both_3m_A.GR2
+TextDescription=ARMOURY_WALL_PIECE_CORNERIN_BOTH_3M
+---
+IsWalkable
+IsReflective
+---

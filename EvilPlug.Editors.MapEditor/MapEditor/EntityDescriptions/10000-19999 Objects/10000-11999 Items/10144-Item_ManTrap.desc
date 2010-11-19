@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=MANTRAP
+Filename=Weapons_ManTrap_A.GR2
+TextDescription=MANTRAP
+---
+ItemVisiblyCarried=true
+----

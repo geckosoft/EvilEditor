@@ -1,0 +1,53 @@
+ObjType=Object
+ObjName=A_LOVELY_PAINTING
+Filename=WorksOfArt_Painting_A.GR2
+TextDescription=A_LOVELY_PAINTING
+---
+Destructible=false
+EvidenceRating=15
+ValueRating=30
+ThreatRating=0
+HeatGenerated=10
+
+AreaEffect
+Continuous=false
+Radius=4.0
+Frequency=1.0
+ScaleEffect=Loyalty +0.2
+ScaleEffect=Smarts +0.4
+NumFilters=1
+EntityType=Minion
+---
+GUIIconBaseName=WorksOfArt_Painting_A
+UseAutomaticRotationWhenPlacing
+----
+NotPlayerDestructable
+BlocksVision=false
+CanSteal=true
+IsTransferLoot
+IsPriorityTransferLoot
+---
+NumInteractionSlots=2
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_01
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Basic,Social,Science
+TimeOfDay= 08:00 - 17:00
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_02
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=2
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Basic,Social,Science
+TimeOfDay= 08:00 - 17:00
+---

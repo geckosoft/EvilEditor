@@ -1,0 +1,12 @@
+ObjType=Scenery
+ObjName=HOTEL_UNMINED
+Filename=Hotel_UnminedHotel_A.GR2
+TextDescription=UNMINED_HOTEL
+---
+CanBeReflected=false
+GUIIconBaseName=uNMIneD_HoTEl
+---
+IsGhostWalkable
+CanBeMined
+BlocksVision
+---

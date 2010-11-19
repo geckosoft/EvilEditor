@@ -1,0 +1,21 @@
+ObjType=Spawn
+ObjName=PARACHUTE_DROP
+TextDescription=PARACHUTE_LANDING_POINT
+-----
+VehicleDescriptionID=10036
+VehicleDescriptionID=10120 0
+VehicleDescriptionID=10122 1
+VehicleDescriptionID=10124 2
+VehicleDescriptionID=10121 3
+VehicleDescriptionID=10123 4
+PEVStartOffset=0,30,6.5
+PEVVelocity=0,-4,3
+PEVLandingAni=Parachute_Landing
+PEVIdleAni=Parachute_idle
+PEVLandingSound=other-parachute-1
+DisembarkDelay=2.5
+AcceptsArrivals=true
+AcceptsEscapees=false
+MoveAfterDisembarkPositionOffset=0,0,0
+SpawnType=2
+-----

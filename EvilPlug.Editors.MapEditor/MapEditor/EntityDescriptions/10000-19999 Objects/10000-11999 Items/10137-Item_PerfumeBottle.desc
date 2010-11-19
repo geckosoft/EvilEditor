@@ -1,0 +1,7 @@
+ObjType=Item
+ObjName=PERFUME
+Filename=Weapons_PerfumeBottle_A.GR2
+TextDescription=A_PERFUME_BOTTLE
+----
+ItemVisiblyCarried=true
+----

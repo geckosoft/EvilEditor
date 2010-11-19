@@ -1,0 +1,7 @@
+ObjType=BuildingBlock
+---=This is a dummy description for providing icons and tooltips for new gameplay features.
+ObjName=GAMESUBSYSTEM_RESEARCH
+TextDescription=GAMESUBSYSTEM_RESEARCH
+---
+GUIIconBaseName=GameSubsystem_Research
+---

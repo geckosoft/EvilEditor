@@ -1,0 +1,9 @@
+ObjType=Item
+ObjName=SPATULA
+Filename=StaffProp_Spatula.GR2
+TextDescription=A_SPATULA_FOR_FLIPPING_BURGERS
+----
+NotSelectable
+----
+ItemVisiblyCarried=true
+----

@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=STAFFROOM_WALL_1_SIDE_3M_X3
+Filename=StaffRoom_Wall_1side_3m_A_x3.GR2
+TextDescription=STAFFROOM_WALL_1_SIDE_3M_X3
+---
+IsWalkable
+IsReflective
+---

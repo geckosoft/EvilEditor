@@ -1,0 +1,9 @@
+ObjType=Scenery
+ObjName=HOTEL_MINED
+TextDescription=MINED_HOTEL
+---
+CanBeReflected=false
+---
+IsWalkable
+IsGhostWalkable
+---

@@ -1,0 +1,45 @@
+ObjType=Object
+ObjName=MILLION_DOLLAR_BILL
+Filename=Loot_MillionDollarBill_A.GR2
+TextDescription=A_MILLION_DOLLAR_BILL
+----
+Destructible=false
+EvidenceRating=30
+ValueRating=30
+ThreatRating=0
+PurchaseCost=0
+HeatGenerated=15
+
+AreaEffect
+Continuous=false
+Radius=10.0
+Frequency=5.0
+ScaleEffect=Loyalty +1.0
+ScaleEffect=Endurance +0.2
+NumFilters=1
+EntityType=Minion
+---
+GUIIconBaseName=Loot_Million Dollar Bill _A
+----
+NotPlayerBuildable
+NotPlayerDestructable
+BlocksVision=false
+---
+BlocksTiles=true
+CanSteal=true
+IsTransferLoot
+----
+
+NumInteractionSlots=1
+
+InteractionReason=Bored
+HotspotName=Pos_Dummy_01
+ATNNetworkName=Item_Bored
+Optional
+ExclusionMask=1
+StartPriority=100
+InterruptPriority=100
+NumFilters=2
+MinionClass=Social
+TimeOfDay= 09:00 - 16:00
+

@@ -1,0 +1,46 @@
+ObjType=Object
+ObjName=BRAIN_WASHER
+Filename=Archives_BrainWasher_A.COL
+Filename=Animset_Brainwasher.as
+AmbientSound=Archives-BrainWasher-Loop
+TextDescription=A_MACHINE_USED_FOR_WASHING_BRAINS
+---
+Health=100
+EvidenceRating=15
+ValueRating=5
+ThreatRating=0
+PurchaseCost=50000
+HeatGenerated=1
+---
+GUIIconBaseName=Archives_BrainWasher_A
+---
+BlocksTiles=true
+PowerConsumer=3
+TortureScale=Smarts
+NumInteractionSlots=4
+
+InteractionReason=ScaleRecharging
+HotspotName=pos_dummy_stand_here
+ATNNetworkName=BrainWasher Heal
+ExclusionMask=1
+ScaleAffected=Smarts
+ScaleAffectPower=8.0
+---
+InteractionReason=Torturing
+HotspotName=Pos_Dummy_Guard
+ATNNetworkName=Torture Brainwasher
+ExclusionMask=1
+NumCharactersRequired=2
+NumFilters=1
+MinionClass=Military,Basic
+---
+InteractionReason=Torturing
+HotspotName=Pos_Dummy_Prisoner
+ATNNetworkName=Torture Brainwasher
+ExclusionMask=2
+NumCharactersRequired=2
+---
+InteractionReason=AccessibilityDummy
+HotspotName=Pos_Dummy_Stand_PushButton
+ExclusionMask=0
+---

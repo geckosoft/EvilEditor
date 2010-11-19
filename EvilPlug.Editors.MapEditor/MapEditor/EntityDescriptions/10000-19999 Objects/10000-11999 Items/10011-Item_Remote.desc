@@ -1,0 +1,14 @@
+ObjType=Item
+ObjName=REMOTE
+Filename=Tools_RemoteControl_A.GR2
+TextDescription=A_REMOTE
+----
+NotSelectable
+PurchaseCost=0
+----
+ItemType=Remote
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 R Hand
+ItemFitsInPocket=true
+----

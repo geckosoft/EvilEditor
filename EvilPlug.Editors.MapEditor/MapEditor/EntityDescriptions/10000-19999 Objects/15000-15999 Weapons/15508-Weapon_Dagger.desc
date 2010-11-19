@@ -1,0 +1,22 @@
+ObjType=Weapon
+ObjName=DAGGER
+Filename=Weapons_Dagger_A.GR2
+TextDescription=DAGGER
+----
+EvidenceRating=9
+ValueRating=0
+ThreatRating=10
+PurchaseCost=500
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Pelvis
+ItemNotInUseBone=Bip01 Pelvis
+ItemMotionSet=M_M,M_M_Carrying_Sword.as
+----
+WeaponType=Sword
+Damage=25
+Range=3
+MuzzleFlash=None
+----

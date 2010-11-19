@@ -1,0 +1,15 @@
+ObjType=Object
+ObjName=ATRIUM
+Filename=EGoffice_Atrium_A.COL
+AmbientSound=other-Office-AtriumWaterLoop1
+TextDescription=AN_EVIL_ATRIUM
+---
+PurchaseCost=4000
+CanBeReflected=false
+CanCastShadow=false
+CanCastVolumetricShadow=false
+---
+GUIIconBaseName=EGoffice_Atrium_A
+---
+BlocksTiles=true
+---

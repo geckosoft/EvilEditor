@@ -1,0 +1,26 @@
+ObjType=Item
+ObjName=DYNAMITE_CRATE
+Filename=Tools_Dynamite_A.GR2
+
+Hotspot
+HotspotPosition=-0.014175,0.433589,0
+HotspotOrientation=1,0,0,0
+HotspotName=Pos_Dummy_PickUpItem
+
+TextDescription=A_CRATE_FULL_OF_DYNAMITE_HANDLE_CAREFULLY
+----
+EvidenceRating=5
+ValueRating=5
+ThreatRating=5
+PurchaseCost=1500
+----
+GUIIconBaseName=Tools_Dynamite
+---
+ItemType=Dynamite
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_Crate.as
+ItemMotionSet=A_M,EmptySet.as
+ForcesWalkMode=false
+----

@@ -1,0 +1,13 @@
+ObjType=Item
+ObjName=GLIDER
+Filename=HangGlider_A_NonAligned.GR2
+TextDescription=A_GLIDER
+----
+NumFilters=3
+OperationType=R,S,A
+AgentType=Agent
+NinjasAllowed=false
+---
+ItemType=HangGlider
+ItemAttachedToBone=Bip01 Spine1
+ItemVisiblyCarried=true

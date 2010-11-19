@@ -1,0 +1,22 @@
+ObjType=Door
+ObjName=GLOBAL_HEAVY_DOOR_3M
+Filename=Global_DoorHeavy_3m_A.GR2
+Filename=Global_HeavyDoorDouble_3m_A.AS
+TextDescription=A_HEAVY_SECURITY_DOOR
+---
+Health=400
+PurchaseCost=5000
+---
+GUIIconBaseName=Global_DoorHeavy
+---
+IsWalkable
+IsReflective
+RequireOriginalTileSet=UnminedDirt
+---
+PowerConsumer=2
+---
+OpenSound=doors-sliding doors-sliding door
+CloseSound=doors-sliding doors-sliding door
+FadeTime=0.25
+Resistance=50
+---

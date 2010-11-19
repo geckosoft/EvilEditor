@@ -1,0 +1,13 @@
+ObjType=Object
+ObjName=JUNGLE_TREE_B
+Filename=Jungle_Tree_B.GR2
+Filename=AnimSet_JungleTree_B.as
+TextDescription=MONKEY_TREE
+---
+GuiIconBaseName=Trap_ExplodingCoconuts_A
+Destructible=false
+NotPlayerBuildable
+NotSelectable
+---
+BlocksTiles=true
+---

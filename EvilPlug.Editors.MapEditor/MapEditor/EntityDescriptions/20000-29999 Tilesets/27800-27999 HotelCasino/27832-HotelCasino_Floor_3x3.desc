@@ -1,0 +1,11 @@
+ObjType=Scenery
+ObjName=HOTELCASINO_FLOOR_3X3
+Filename=[Jungle]HotelCasino_Floor_3x3_A.COL
+Filename=[Desert]HotelCasino_Desert_Floor_3x3_A.COL
+TextDescription=HOTELCASINO_3X3_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

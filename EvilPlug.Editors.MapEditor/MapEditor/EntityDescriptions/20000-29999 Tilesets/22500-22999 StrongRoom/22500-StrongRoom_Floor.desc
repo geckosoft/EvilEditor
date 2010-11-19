@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=STRONGROOM_FLOOR
+Filename=StrongRoom_Floor_A.gr2
+TextDescription=STRONGROOM_FLOOR_PIECE_EMPTY
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

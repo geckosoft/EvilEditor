@@ -1,0 +1,10 @@
+ObjType=WorldRegion
+ObjName=SIBERIA
+Filename=WorldMap_Region_Siberia.gr2
+TextDescription=SIBERIA
+Lighting=MISSIONGAME
+----
+Region=2
+JusticePresence=20
+CashPotential=10000
+Secrecy=4

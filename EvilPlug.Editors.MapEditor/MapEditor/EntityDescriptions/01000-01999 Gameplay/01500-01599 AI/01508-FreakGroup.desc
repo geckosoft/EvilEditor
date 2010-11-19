@@ -1,0 +1,7 @@
+ObjType=AgentGroup
+ObjName=GROUP_OF_AGENTS
+TextDescription=GROUP_OF_AGENTS
+---
+AgentType=Freak
+StandardBehaviour=FreakBehaviour
+EscapeBehaviour=FreakBehaviour

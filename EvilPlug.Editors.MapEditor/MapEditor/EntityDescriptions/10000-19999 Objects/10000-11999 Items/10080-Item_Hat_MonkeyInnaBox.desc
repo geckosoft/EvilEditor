@@ -1,0 +1,13 @@
+ObjType=Item
+ObjName=MONKEY_MIND_CONTROL_DEVICE
+Filename=StaffProp_MonkeyHat_A.GR2
+TextDescription=TRAP_MONKEY_INTERFACE
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemMotionSet=A_M,A_M_Carrying_CardioPaddle.as
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

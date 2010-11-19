@@ -1,0 +1,9 @@
+ObjType=Item
+ObjName=PARACHUTE
+Filename=Parachute_A.GR2
+TextDescription=A_PARACHUTE
+----
+ItemType=Parachute
+ItemAttachedToBone=Bip01 Spine1
+ItemVisiblyCarried=true
+----

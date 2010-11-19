@@ -1,0 +1,17 @@
+ObjType=Object
+ObjName=HIGH_DENSITY_CAPACITOR
+Filename=PowerPlant_HighDensityCapacitor_A.COL
+TextDescription=A_CAPACITOR_WITH_EXCEPTIONAL_CAPACITY
+---
+Health=175
+EvidenceRating=15
+ValueRating=5
+ThreatRating=0
+PurchaseCost=15000
+HeatGenerated=1
+---
+GUIIconBaseName=PowerPlant_HighDensityCapacitor_A
+---
+BlocksTiles=true
+PowerCapacitor=20
+

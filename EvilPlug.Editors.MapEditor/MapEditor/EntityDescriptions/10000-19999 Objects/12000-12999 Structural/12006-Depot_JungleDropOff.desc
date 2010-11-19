@@ -1,0 +1,15 @@
+ObjType=DepotWithWindsock
+ObjName=JUNGLE_DROP_OFF_DEPOT
+Filename=Jungle_DropOffDepot_A.COL
+TextDescription=A_DEPOT
+---
+CanCastVolumetricShadow=false
+GUIIconBaseName=HeLiCoPteR_dEPOt
+NotPlayerBuildable
+---
+BlocksVision=true
+---
+BlocksTiles=true
+---
+IsSpawnOfType=12022
+LowerDoorPosDummyName=Pos_Dummy_LowerDoor

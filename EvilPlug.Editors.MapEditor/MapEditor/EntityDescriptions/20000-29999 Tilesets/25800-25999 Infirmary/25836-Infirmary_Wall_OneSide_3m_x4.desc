@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=INFIRMARY_WALL_1_SIDE_3M_X4
+Filename=Infirmary_Wall_1side_3m_A_x4.GR2
+TextDescription=INFIRMARY_WALL_1_SIDE_3M_X4
+---
+IsWalkable
+IsReflective
+---

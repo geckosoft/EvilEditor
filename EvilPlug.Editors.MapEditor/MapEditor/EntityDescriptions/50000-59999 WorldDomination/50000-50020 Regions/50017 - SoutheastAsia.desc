@@ -1,0 +1,10 @@
+ObjType=WorldRegion
+ObjName=SOUTHEASTASIA
+Filename=WorldMap_Region_SoutheastAsia.gr2
+TextDescription=SOUTHEAST_ASIA
+Lighting=MISSIONGAME
+----
+Region=3
+JusticePresence=40
+CashPotential=20000
+Secrecy=8

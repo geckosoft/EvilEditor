@@ -1,0 +1,8 @@
+ObjType=Scenery
+ObjName=FREEZER_WALL_CORNEROUT_R_3M
+Filename=Freezer_Wall_CornerOut_R_3m_A.GR2
+TextDescription=FREEZER_WALL_PIECE_CORNEROUT_R_3M
+---
+IsWalkable
+IsReflective
+---

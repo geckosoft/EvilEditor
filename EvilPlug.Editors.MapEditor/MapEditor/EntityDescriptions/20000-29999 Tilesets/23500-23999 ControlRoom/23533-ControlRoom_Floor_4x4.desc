@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=CONTROLROOM_FLOOR_4X4
+Filename=ControlRoom_Floor_4x4_A.COL
+TextDescription=CONTROLROOM_4X4_FLOOR_PIECE
+-----
+CanBeReflected=false
+-----
+IsWalkable
+IsReflective
+-----

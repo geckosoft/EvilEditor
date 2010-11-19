@@ -1,0 +1,9 @@
+ObjType=Item
+ObjName=BEAKER
+Filename=Weapons_Handgun_A.GR2
+TextDescription=A_GUN
+----
+NotSelectable
+----
+ItemVisiblyCarried=true
+----

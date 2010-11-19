@@ -1,0 +1,14 @@
+ObjType=Projectile
+ObjName=NINJA_STAR
+Filename=Weapons_ThrowingStar_A.GR2
+TextDescription=A_NINJA_THROWING_STAR
+----
+Damage=15
+RadiusDamage=1
+Range=40
+SpeedRange=30,30
+MinRange=10
+CreateAt=Bip01 R Hand
+
+
+

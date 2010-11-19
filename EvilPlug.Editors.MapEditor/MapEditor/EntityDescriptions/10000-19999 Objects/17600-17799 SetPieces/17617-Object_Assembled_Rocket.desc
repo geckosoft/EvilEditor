@@ -1,0 +1,16 @@
+ObjType=SetPiece
+ObjName=ASSEMBLED_ROCKET
+Filename=Hangar_Rocket_Assembled_A.GR2
+Filename=Animset_Rocket_Cave.AS
+TextDescription=AN_EVIL_ROCKET
+Lighting=RocketCave
+-----
+SpecialEffect=AttachPrisoner,TSFXAttachToDummy:,sAttach=Pos_Dummy_JohnSteel
+CanBeReflected=false
+Destructible=false
+SpecialEffect=RocketBlast0,TSFXFire:RocketLaunch,sAttach=Pos_Dummy_RocketEmitter04
+-----
+PlacedAtPosDummyName=Pos_Dummy_Crane
+FriendTileSet=Global_Custom_CaveRocket_44X60_Developed_A
+FriendTileSet=HangarEmptySpace
+-----

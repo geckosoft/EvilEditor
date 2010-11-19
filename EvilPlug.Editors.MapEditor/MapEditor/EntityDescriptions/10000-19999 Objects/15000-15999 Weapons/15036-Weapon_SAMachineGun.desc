@@ -1,0 +1,23 @@
+ObjType=Weapon
+ObjName=HEAVYMG
+Filename=Weapons_Rifles_US_SuperAgent.GR2
+TextDescription=A_HEAVY_MACHINE_GUN
+----
+EvidenceRating=15
+ValueRating=0
+ThreatRating=30
+PurchaseCost=500
+----
+ItemType=Weapon
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Spine1
+ItemNotInUseBone=Bip01 Spine1
+ItemMotionSet=M_M_A,M_M_A_SA_Carrying_MachineGun.as
+----
+WeaponType=Rifle
+Damage=40
+Range=40
+MinRange=5
+MuzzleFlash=Automatic
+RateOfFire=999

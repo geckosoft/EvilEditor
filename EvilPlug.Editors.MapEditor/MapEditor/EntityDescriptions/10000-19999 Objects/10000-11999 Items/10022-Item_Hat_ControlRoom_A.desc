@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=CONTROL_ROOM_HAT
+Filename=Accessories_Hat_ControlRoom_A.GR2
+TextDescription=A_CONTROL_ROOM_HAT
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

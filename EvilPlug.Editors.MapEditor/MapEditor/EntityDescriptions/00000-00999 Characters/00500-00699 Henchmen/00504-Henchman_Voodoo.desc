@@ -1,0 +1,68 @@
+ObjType=Henchman
+ObjName=PAPA_LAZAROU
+Filename=Medium_henchman_voodoo_a.GR2
+Filename=AnimSet_HenchmanVoodoo.as
+TextDescription=PAPA_LAZAROU_THE_VOODOO_MAN
+-----
+GUIIconBaseName=Henchman_Voodoo
+-----
+Speed=0.8
+Health=50
+Loyalty=40
+Smarts=80
+Attention=60
+Endurance=50
+FOVAngle=1.57
+FOVRange=30
+EvidenceRating=30
+ValueRating=0
+ThreatRating=10
+-----
+ItemType=Character
+ItemData=0
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 L Hand
+ItemMotionSet=M_M,M_M_Carrying_M_M.as
+ItemMotionSet=M_L,M_L_Carrying_M_M_A.as
+AnimationType=M_M
+-----
+Immortal=true
+EvidenceMod=0.5
+ValueMod=0.5
+ThreatMod=2.0
+WeaponID=15043
+WeaponID=15009
+Armour.Health=75
+Armour.Loyalty=75
+Armour.Smarts=75
+Armour.Attention=75
+Armour.Endurance=75
+DesiredName=$CHAR_NAME_MONTEZUMA$
+FeedbackSound=Attack FeedbackDialogue-Attack-Montezuma
+FeedbackSound=Capture FeedbackDialogue-Capture-Montezuma
+FeedbackSound=MoveTo FeedbackDialogue-MoveTo-Montezuma
+FeedbackSound=UseSpecial FeedbackDialogue-UseSpecial-Montezuma
+-----
+AdvancementSchemeType=Henchman
+CashPotentialPercentage=10
+PlottingBenefit=5
+RegionalHeatPenalty=5
+RegionalHeatBenefit=0
+ChanceOfPerishing=10
+PerishModifier=1
+-----
+Portrait=GUI_Henchman_Voodoo_
+PotentialFollower=100
+PotentialFollower=102
+PotentialFollower=107
+PotentialFollower=109
+PotentialFollower=110
+SpecialAbility=Voodoo Puppetry
+EPCost=1200.0
+RechargeTime=240
+SpecialAbility=Voodoo Mind Fog
+EPCost=800.0
+RechargeTime=300
+NumLives=3
+PercentSADamageToKill=80
+SecondsIncapacitated=120

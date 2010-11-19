@@ -1,0 +1,14 @@
+ObjType=Spawn
+ObjName=SPAWN_POINT_GRASSY_LANDING_POINT
+TextDescription=THE_WAY_IN_FOR_AGENTS
+-----
+VehicleDescriptionID=17300
+VehicleDescriptionID=17305
+DisembarkPositionOffset=0,0,0
+MoveAfterDisembarkPositionOffset=-6,0,0
+MinApproachVectorAngle=1.57
+MaxApproachVectorAngle=1.57
+SoundFadeTime=1
+VehicleCapacity=-1
+AcceptsArrivals=false
+-----

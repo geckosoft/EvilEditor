@@ -1,0 +1,12 @@
+ObjType=Item
+ObjName=SURGEON_S_HAT
+Filename=Accessories_Hat_Surgeon_B.GR2
+TextDescription=A_SURGEON_S_HAT
+----
+NotSelectable
+----
+ItemType=Hat
+ItemVisiblyCarried=true
+ItemAttachedToBone=Bip01 Head
+ItemNotInUseBone=Bip01 Head
+----

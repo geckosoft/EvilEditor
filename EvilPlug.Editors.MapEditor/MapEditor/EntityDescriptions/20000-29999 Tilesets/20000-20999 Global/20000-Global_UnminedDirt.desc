@@ -1,0 +1,10 @@
+ObjType=Scenery
+ObjName=GLOBAL_UNMINED_DIRT
+Filename=Global_UnminedDirt_A.COL
+TextDescription=UNMINED_DIRT
+---
+CanBeReflected=false
+---
+CanBeMined
+BlocksVision
+---

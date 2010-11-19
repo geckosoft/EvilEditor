@@ -1,0 +1,11 @@
+ObjType=WorldRegion
+ObjName=EUROPE
+Filename=WorldMap_Region_Europe.gr2
+TextDescription=EUROPE
+Lighting=MISSIONGAME
+----
+Region=1
+JusticePresence=40
+CashPotential=20000
+Secrecy=10
+InsetGeometry=WorldMap_Inset_Europe.GR2
